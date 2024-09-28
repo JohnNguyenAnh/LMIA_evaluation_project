@@ -1,0 +1,79 @@
+Project Goal
+The primary aim of the project is to explore the relationship between job shortages in Canada and the availability of labor, focusing on whether this is influenced by:
+
+The influx of immigrants filling job vacancies through LMIA applications.
+Canadians' lack of interest in labor-intensive jobs, especially in sectors with high job vacancies.
+You want to analyze LMIA data to investigate why certain sectors or regions in Canada have a high number of LMIA applications and how this correlates with job vacancies and local labor availability.
+
+Key Research Questions
+Are LMIA applications increasing due to a lack of Canadian workers?
+
+Focus on the reasons for job shortages in specific sectors.
+Which sectors and regions in Canada have the highest demand for foreign workers?
+
+Analyzing which industries and locations rely most on LMIA applications.
+Is there a correlation between job vacancies and the number of LMIA applications?
+
+Investigating whether Canadians are avoiding certain jobs, leading to the need for foreign labor.
+Data Focus
+LMIA Applications (2023 Q1 – 2024 Q1): You aim to analyze LMIA application trends over this period to understand job shortages and labor market gaps.
+Job Vacancy and Unemployment Data: To compare job vacancies and unemployment rates across regions and sectors.
+Wage and Sector Data: To evaluate if wage trends impact job vacancies and the reliance on foreign workers.
+Analysis Goals
+Trend Analysis: Identify trends in LMIA applications over time and across sectors.
+Correlation Study: Correlate LMIA data with job vacancy rates, unemployment, and sector-specific labor shortages.
+Predictive Modeling (Optional): You might consider using machine learning models to predict future labor shortages or LMIA trends based on the available data.
+Outcome
+Reports/Dashboards: Create a data-driven report or dashboard to present findings.
+Automation: Automate the collection and analysis of LMIA data to track ongoing trends over time.
+
+Data Strategy:
+Collect LMIA application data from 2018 to 2024.
+Compare pre-pandemic (2018-2019) data with post-pandemic (2020-present) to assess if the trends in LMIA applications were consistent or if there was a sharp change due to the pandemic.
+Incorporate data on immigration and refugee policies in the same time frame to see how they correlate with LMIA trends.
+
+Data and Analysis Approach:
+Cost of Living Data: Collect data on the cost of living (housing, food, transportation) in different regions and analyze how this correlates with job vacancy rates and LMIA applications.
+Urban vs Rural Analysis: Break down LMIA applications by rural vs urban regions to assess whether foreign workers are being used more in remote areas where Canadians are less willing to work.
+Compare Wages: Cross-reference the wage levels in these sectors and regions to see if low wages in high-cost regions are deterring local workers.
+
+Data and Survey Approach:
+Survey or Poll Data: If possible, obtain survey data on job seeker preferences, including reasons for not accepting available jobs (e.g., low wages, job conditions, geographical barriers).
+Job Vacancy Rates: Analyze whether high job vacancy rates in certain sectors correlate with Canadians' unwillingness to take these jobs (e.g., agriculture, retail, hospitality).
+Wage Comparison: Compare wages for jobs filled by foreign workers vs local workers to assess if the wage gap explains the reluctance.
+
+Unable to Find Jobs:
+Skills Mismatch: One reason people might be unable to find jobs is that they lack the skills required by industries hiring foreign workers. For example, if industries like tech or healthcare require specific qualifications, Canadian workers may not have the appropriate skills.
+Lack of Accessible Information: Sometimes people are unaware of job opportunities or don’t have access to job-seeking resources (e.g., rural communities with limited internet access).
+Geographical Barriers: If the jobs are located in rural or remote areas but the workers are based in urban centers, this geographical disconnect could contribute to people not being able to access available jobs.
+
+Procedure:
+Based on your project’s objectives, most of these tables are beneficial. Here's a prioritized approach to integrate them effectively:
+
+Start with Core Tables:
+
+Table 02, 03, 04, 05, 06: Provide foundational data on TFW positions by region, occupation, and industry.
+Expand to Detailed Analyses:
+
+Table 07, 08, 13-18: Dive into specific streams and occupational classifications for nuanced insights.
+Incorporate Employer Insights:
+
+Table 11, 19-21: Understand employer dynamics and concentration.
+Include SAWP Data (If Relevant):
+
+Table 25-28: Analyze seasonal agricultural labor demands.
+Utilize Additional Metrics for Comprehensive Analysis:
+
+Table 10, 12: Assess country of origin and LMIA request vs. approval rates.
+Leverage Unique Insights:
+
+Table 22-24, 23-24: For combined analyses involving multiple classifications (economic region, NOC, NAICS).
+
+Tables with Overlapping Data:
+
+Table 15: Similar to Table 03.
+Table 14: Similar to Table 13.
+Table 16 & 17: Covered under Tables 04 & 05.
+
+
+database : DATABASE_URI=postgresql://postgres:postgres@localhost:5432/LMIA_db
