@@ -1,0 +1,71 @@
+province_region,occupation,skill_level,2016,2017,2018,2019,2020,2021,2022,2023
+Canada,Management Occupations,0,"1,913","1,752","1,508","2,245","2,721","2,608","4,041","4,663"
+Canada,Professionals,A,"4,554","3,835","4,293","5,901","5,095","6,445","11,388","8,970"
+Canada,Skilled and Technical,B,"19,094","19,454","18,980","29,411","26,303","27,517","62,999","67,068"
+Canada,Intermediate and Clerical,C,"61,572","69,152","79,759","85,308","82,967","88,146","116,274","127,850"
+Canada,Elemental and Labourers,D,"3,181","3,953","4,448","7,587","8,187","8,479","28,140","31,084"
+Newfoundland and Labrador,Management Occupations,0,75,34,14,9,17,23,11,14
+Newfoundland and Labrador,Professionals,A,147,84,21,55,43,48,45,54
+Newfoundland and Labrador,Skilled and Technical,B,"1,126",787,321,308,529,401,561,387
+Newfoundland and Labrador,Intermediate and Clerical,C,333,301,119,110,180,199,493,701
+Newfoundland and Labrador,Elemental and Labourers,D,60,11,2,13,158,23,343,512
+Prince Edward Island,Management Occupations,0,9,4,4,3,9,7,4,6
+Prince Edward Island,Professionals,A,42,11,2,5,6,3,8,4
+Prince Edward Island,Skilled and Technical,B,53,57,22,48,50,51,140,120
+Prince Edward Island,Intermediate and Clerical,C,795,962,980,"1,107","1,641","1,356","1,962","1,372"
+Prince Edward Island,Elemental and Labourers,D,47,22,4,16,18,87,177,209
+Nova Scotia,Management Occupations,0,52,60,43,42,48,44,56,54
+Nova Scotia,Professionals,A,130,70,65,63,55,119,163,97
+Nova Scotia,Skilled and Technical,B,412,284,188,244,190,244,677,664
+Nova Scotia,Intermediate and Clerical,C,"1,762","2,176","3,024","2,340","2,783","3,454","4,129","3,596"
+Nova Scotia,Elemental and Labourers,D,100,113,74,134,183,300,567,"1,025"
+New Brunswick,Management Occupations,0,10,9,4,6,13,13,32,32
+New Brunswick,Professionals,A,35,29,8,22,12,23,51,35
+New Brunswick,Skilled and Technical,B,285,169,117,206,160,311,542,540
+New Brunswick,Intermediate and Clerical,C,"1,128","1,516","1,208","1,599","2,649","2,501","5,448","3,627"
+New Brunswick,Elemental and Labourers,D,13,77,24,141,52,167,"1,065",780
+Quebec,Management Occupations,0,132,129,151,197,201,220,487,593
+Quebec,Professionals,A,"1,038",982,"1,435","2,433","2,026","2,581","4,675","3,707"
+Quebec,Skilled and Technical,B,"1,678","1,594","2,136","3,862","4,171","3,815","13,779","15,182"
+Quebec,Intermediate and Clerical,C,"16,362","13,528","16,366","24,606","22,969","26,172","36,850","34,107"
+Quebec,Elemental and Labourers,D,"1,101","1,383","1,169","2,492","3,589","2,911","11,001","8,612"
+Ontario,Management Occupations,0,600,591,615,796,"1,020","1,010","1,578","2,246"
+Ontario,Professionals,A,"1,329","1,199","1,385","1,790","1,573","2,009","3,621","3,156"
+Ontario,Skilled and Technical,B,"3,221","4,001","4,236","5,862","7,126","6,638","14,489","19,783"
+Ontario,Intermediate and Clerical,C,"24,770","32,305","32,825","31,057","29,667","33,088","37,298","43,675"
+Ontario,Elemental and Labourers,D,506,"1,018","1,846","1,921","2,104","2,451","5,032","5,761"
+Manitoba,Management Occupations,0,16,13,20,37,24,28,46,60
+Manitoba,Professionals,A,80,63,122,69,58,106,126,111
+Manitoba,Skilled and Technical,B,221,233,256,300,269,356,"1,112","1,446"
+Manitoba,Intermediate and Clerical,C,761,839,901,"1,353","1,415","1,183","1,973","2,335"
+Manitoba,Elemental and Labourers,D,170,176,160,193,7,185,623,724
+Saskatchewan,Management Occupations,0,19,18,10,14,15,24,23,39
+Saskatchewan,Professionals,A,65,58,54,44,39,54,63,34
+Saskatchewan,Skilled and Technical,B,391,321,332,453,288,327,938,932
+Saskatchewan,Intermediate and Clerical,C,638,659,669,913,794,785,"1,167","1,546"
+Saskatchewan,Elemental and Labourers,D,53,34,33,42,28,28,256,573
+Alberta,Management Occupations,0,511,326,181,272,165,221,386,441
+Alberta,Professionals,A,400,235,231,294,198,308,784,671
+Alberta,Skilled and Technical,B,"5,195","4,987","4,208","6,518","4,109","5,243","13,288","11,788"
+Alberta,Intermediate and Clerical,C,"3,557","3,644","4,162","5,214","3,475","3,162","6,345","8,226"
+Alberta,Elemental and Labourers,D,569,387,242,642,171,177,"2,647","6,381"
+British Columbia,Management Occupations,0,483,564,460,863,"1,207","1,013","1,411","1,176"
+British Columbia,Professionals,A,"1,221","1,039",904,"1,064","1,061","1,113","1,769","1,024"
+British Columbia,Skilled and Technical,B,"6,417","6,935","7,063","11,463","9,355","10,029","17,277","16,045"
+British Columbia,Intermediate and Clerical,C,"11,323","13,175","19,431","16,912","17,363","16,224","20,581","28,615"
+British Columbia,Elemental and Labourers,D,557,728,881,"1,977","1,875","2,141","6,366","6,435"
+Yukon,Management Occupations,0,1,1,1,1,1,3,1,0
+Yukon,Professionals,A,59,50,58,60,24,76,82,73
+Yukon,Skilled and Technical,B,40,52,36,45,8,44,53,43
+Yukon,Intermediate and Clerical,C,5,13,12,26,7,3,8,10
+Yukon,Elemental and Labourers,D,2,3,0,7,0,0,13,10
+Northwest Territories,Management Occupations,0,3,2,1,5,0,2,4,2
+Northwest Territories,Professionals,A,1,1,0,1,0,0,1,1
+Northwest Territories,Skilled and Technical,B,24,24,8,31,19,15,87,54
+Northwest Territories,Intermediate and Clerical,C,36,18,12,13,9,6,2,15
+Northwest Territories,Elemental and Labourers,D,0,1,0,6,1,7,38,52
+Nunavut,Management Occupations,0,2,1,4,0,1,0,2,0
+Nunavut,Professionals,A,7,14,8,1,0,5,0,3
+Nunavut,Skilled and Technical,B,31,10,57,71,29,43,56,84
+Nunavut,Intermediate and Clerical,C,102,16,50,58,15,13,18,25
+Nunavut,Elemental and Labourers,D,3,0,13,3,1,2,12,10
