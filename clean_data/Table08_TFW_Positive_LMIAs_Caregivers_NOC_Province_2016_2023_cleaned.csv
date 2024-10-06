@@ -1,0 +1,71 @@
+province_region,NOC Code,Occupational Group,2016,2017,2018,2019,2020,2021,2022,2023
+Canada,3012,Registered nurses and registered psychiatric nurses,81,36,65,372,338,377,509,612
+Canada,3233,Licensed practical nurses,12,3,4,11,24,21,32,61
+Canada,3413,"Nurse aides, orderlies and patient service associates",24,23,16,159,438,526,"1,757",2514
+Canada,4411,Home child care providers,"4,861","5,335","6,531","4,901","2,578","3,493","2,721","2,400"
+Canada,4412,"Home support workers, housekeepers and related occupations","1,226","1,473","1,926","1,494",889,"1,176","1,032",1311
+Newfoundland and Labrador,3012,Registered nurses and registered psychiatric nurses,0,0,0,0,2,2,0,0
+Newfoundland and Labrador,3233,Licensed practical nurses,0,0,0,0,0,0,0,0
+Newfoundland and Labrador,3413,"Nurse aides, orderlies and patient service associates",0,1,0,0,0,0,0,4
+Newfoundland and Labrador,4411,Home child care providers,17,4,6,4,1,1,2,0
+Newfoundland and Labrador,4412,"Home support workers, housekeepers and related occupations",0,1,3,2,0,0,3,2
+Prince Edward Island,3012,Registered nurses and registered psychiatric nurses,0,0,0,0,0,0,0,0
+Prince Edward Island,3233,Licensed practical nurses,0,0,0,0,0,0,0,0
+Prince Edward Island,3413,"Nurse aides, orderlies and patient service associates",0,0,0,2,2,0,1,7
+Prince Edward Island,4411,Home child care providers,0,0,0,2,0,1,0,1
+Prince Edward Island,4412,"Home support workers, housekeepers and related occupations",1,0,3,2,0,2,2,1
+Nova Scotia,3012,Registered nurses and registered psychiatric nurses,1,1,2,0,1,0,0,0
+Nova Scotia,3233,Licensed practical nurses,1,0,0,0,0,0,0,0
+Nova Scotia,3413,"Nurse aides, orderlies and patient service associates",0,0,7,0,1,1,7,12
+Nova Scotia,4411,Home child care providers,5,10,9,5,2,9,3,7
+Nova Scotia,4412,"Home support workers, housekeepers and related occupations",10,4,2,4,4,4,1,3
+New Brunswick,3012,Registered nurses and registered psychiatric nurses,0,0,0,0,0,0,0,5
+New Brunswick,3233,Licensed practical nurses,0,0,0,0,0,0,0,0
+New Brunswick,3413,"Nurse aides, orderlies and patient service associates",2,4,1,0,7,9,12,218
+New Brunswick,4411,Home child care providers,4,2,4,6,1,2,2,3
+New Brunswick,4412,"Home support workers, housekeepers and related occupations",2,10,5,3,2,11,18,15
+Quebec,3012,Registered nurses and registered psychiatric nurses,65,28,58,367,326,365,496,433
+Quebec,3233,Licensed practical nurses,0,1,0,0,4,3,9,15
+Quebec,3413,"Nurse aides, orderlies and patient service associates",0,2,7,112,354,323,"1,094","1,425"
+Quebec,4411,Home child care providers,199,230,180,333,338,318,660,502
+Quebec,4412,"Home support workers, housekeepers and related occupations",34,46,50,76,109,87,178,166
+Ontario,3012,Registered nurses and registered psychiatric nurses,8,3,0,1,6,3,10,89
+Ontario,3233,Licensed practical nurses,0,1,0,1,10,2,15,32
+Ontario,3413,"Nurse aides, orderlies and patient service associates",1,1,0,4,20,137,481,629
+Ontario,4411,Home child care providers,"2,343","2,527","3,019","2,265","1,159","1,671","1,133","1,139"
+Ontario,4412,"Home support workers, housekeepers and related occupations",713,831,"1,065",832,458,653,546,763
+Manitoba,3012,Registered nurses and registered psychiatric nurses,5,0,0,0,0,0,0,0
+Manitoba,3233,Licensed practical nurses,3,0,1,1,0,0,0,1
+Manitoba,3413,"Nurse aides, orderlies and patient service associates",0,0,0,0,0,1,6,0
+Manitoba,4411,Home child care providers,17,18,26,34,12,18,5,8
+Manitoba,4412,"Home support workers, housekeepers and related occupations",4,3,5,7,1,2,2,7
+Saskatchewan,3012,Registered nurses and registered psychiatric nurses,0,1,0,0,0,0,0,0
+Saskatchewan,3233,Licensed practical nurses,0,0,0,0,0,0,0,0
+Saskatchewan,3413,"Nurse aides, orderlies and patient service associates",0,0,0,0,1,1,0,2
+Saskatchewan,4411,Home child care providers,65,58,88,48,13,27,17,14
+Saskatchewan,4412,"Home support workers, housekeepers and related occupations",11,10,22,18,6,10,8,10
+Alberta,3012,Registered nurses and registered psychiatric nurses,1,0,0,0,0,1,0,79
+Alberta,3233,Licensed practical nurses,3,0,0,1,2,1,2,9
+Alberta,3413,"Nurse aides, orderlies and patient service associates",10,0,1,4,2,0,37,84
+Alberta,4411,Home child care providers,958,975,"1,188",816,266,412,260,214
+Alberta,4412,"Home support workers, housekeepers and related occupations",149,171,212,154,76,111,85,118
+British Columbia,3012,Registered nurses and registered psychiatric nurses,1,1,5,4,3,6,3,6
+British Columbia,3233,Licensed practical nurses,5,1,3,8,8,15,6,4
+British Columbia,3413,"Nurse aides, orderlies and patient service associates",11,15,0,37,51,54,119,133
+British Columbia,4411,Home child care providers,"1,235","1,484","1,991","1,373",780,"1,027",637,511
+British Columbia,4412,"Home support workers, housekeepers and related occupations",301,396,558,396,233,295,189,225
+Yukon,3012,Registered nurses and registered psychiatric nurses,0,2,0,0,0,0,0,0
+Yukon,3233,Licensed practical nurses,0,0,0,0,0,0,0,0
+Yukon,3413,"Nurse aides, orderlies and patient service associates",0,0,0,0,0,0,0,0
+Yukon,4411,Home child care providers,3,10,4,7,0,0,0,0
+Yukon,4412,"Home support workers, housekeepers and related occupations",0,0,1,0,0,1,0,1
+Northwest Territories,3012,Registered nurses and registered psychiatric nurses,0,0,0,0,0,0,0,0
+Northwest Territories,3233,Licensed practical nurses,0,0,0,0,0,0,0,0
+Northwest Territories,3413,"Nurse aides, orderlies and patient service associates",0,0,0,0,0,0,0,0
+Northwest Territories,4411,Home child care providers,10,11,12,6,4,5,1,1
+Northwest Territories,4412,"Home support workers, housekeepers and related occupations",1,1,0,0,0,0,0,0
+Nunavut,3012,Registered nurses and registered psychiatric nurses,0,0,0,0,0,0,0,0
+Nunavut,3233,Licensed practical nurses,0,0,0,0,0,0,0,0
+Nunavut,3413,"Nurse aides, orderlies and patient service associates",0,0,0,0,0,0,0,0
+Nunavut,4411,Home child care providers,5,6,4,2,2,2,1,0
+Nunavut,4412,"Home support workers, housekeepers and related occupations",0,0,0,0,0,0,0,0
