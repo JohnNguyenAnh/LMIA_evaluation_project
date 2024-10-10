@@ -1,14 +1,9 @@
 NAICS Codes and Industry Sectors,2016,2017,2018,2019,2020,2021,2022,2023
-,,,,,,,,
-Canada,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting","53,534","60,022","69,065","72,516","72,643","77,916","90,101","102,226"
 21 Mining and Oil and Gas Extraction,631,463,258,381,614,524,955,"1,015"
 22 Utilities,143,121,89,45,53,63,58,176
 23 Construction,"3,406","3,430","3,396","5,714","4,565","5,790","13,899","15,360"
 31-33 Manufacturing,"5,151","6,028","6,029","9,094","11,591","11,933","31,970","24,733"
-Goods-Producing Industry Sectors - Total,"62,865","70,064","78,837","87,750","89,466","96,226","136,983","143,510"
 41 Wholesale Trade,737,609,"1,461",691,"1,187","1,053","2,398","2,573"
 44-45 Retail Trade,"1,953","2,176","1,804","2,936","2,784","2,603","6,566","8,906"
 48-49 Transportation and Warehousing,"2,091","2,842","2,552","6,728","5,495","4,514","10,198","11,106"
@@ -24,17 +19,11 @@ Goods-Producing Industry Sectors - Total,"62,865","70,064","78,837","87,750","89
 72 Accommodation and Food Services,"5,805","6,695","6,480","11,803","10,152","10,432","31,635","36,786"
 81 Other Services (except Public Administration),"6,968","7,717","9,384","8,526","5,228","6,201","8,060","9,483"
 91 Public Administration,143,104,140,105,151,85,210,325
-Services-Producing Industry Sectors - Total,"27,433","28,058","30,151","42,701","35,805","36,968","85,825","96,108"
-Canada - Total,"90,314","98,146","108,988","130,457","125,279","133,196","222,847","239,646"
-Newfoundland and Labrador,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting",28,36,47,69,101,69,108,137
 21 Mining and Oil and Gas Extraction,182,282,90,142,497,398,504,332
 22 Utilities,5,2,8,0,0,0,0,1
 23 Construction,560,211,110,1,10,10,19,2
 31-33 Manufacturing,154,182,78,42,151,35,584,894
-Goods-Producing Industry Sectors - Total,929,713,333,254,759,512,"1,215","1,366"
 41 Wholesale Trade,14,24,4,0,0,15,3,21
 44-45 Retail Trade,3,7,17,9,1,3,2,9
 48-49 Transportation and Warehousing,273,238,37,128,61,97,80,41
@@ -50,17 +39,11 @@ Goods-Producing Industry Sectors - Total,929,713,333,254,759,512,"1,215","1,366"
 72 Accommodation and Food Services,55,20,17,42,15,32,118,153
 81 Other Services (except Public Administration),27,17,18,11,56,7,5,19
 91 Public Administration,0,0,0,0,0,0,0,0
-Services-Producing Industry Sectors - Total,812,504,144,241,168,182,238,302
-Newfoundland and Labrador - Total,"1,741","1,217",477,495,927,694,"1,453","1,668"
-Prince Edward Island,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting",360,374,408,526,715,511,704,771
 21 Mining and Oil and Gas Extraction,46,22,0,0,0,0,0,15
 22 Utilities,1,0,0,0,0,0,0,0
 23 Construction,0,8,0,22,12,10,19,37
 31-33 Manufacturing,476,479,478,541,718,899,"1,278",716
-Goods-Producing Industry Sectors - Total,883,883,886,"1,089","1,445","1,420","2,001","1,539"
 41 Wholesale Trade,0,62,1,2,164,5,52,26
 44-45 Retail Trade,0,0,1,4,1,3,7,5
 48-49 Transportation and Warehousing,32,86,110,60,50,56,86,43
@@ -76,17 +59,11 @@ Goods-Producing Industry Sectors - Total,883,883,886,"1,089","1,445","1,420","2,
 72 Accommodation and Food Services,9,8,8,13,11,9,102,53
 81 Other Services (except Public Administration),6,0,0,5,43,2,21,9
 91 Public Administration,2,0,0,0,0,0,0,1
-Services-Producing Industry Sectors - Total,63,173,126,90,279,84,290,172
-Prince Edward Island - Total,946,"1,056","1,012","1,179","1,724","1,504","2,291","1,711"
-Nova Scotia,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting","1,614","1,896","2,715","1,973","2,362","2,417","2,916","2,917"
 21 Mining and Oil and Gas Extraction,149,28,6,64,40,1,0,3
 22 Utilities,0,0,9,1,0,0,1,2
 23 Construction,51,55,22,15,12,61,210,177
 31-33 Manufacturing,295,429,324,438,606,"1,041","1,507","1,051"
-Goods-Producing Industry Sectors - Total,"2,109","2,408","3,076","2,491","3,020","3,520","4,634","4,150"
 41 Wholesale Trade,37,5,6,13,25,198,57,17
 44-45 Retail Trade,5,5,5,6,11,15,52,79
 48-49 Transportation and Warehousing,26,85,138,124,75,132,73,113
@@ -102,17 +79,11 @@ Goods-Producing Industry Sectors - Total,"2,109","2,408","3,076","2,491","3,020"
 72 Accommodation and Food Services,80,73,70,85,63,107,523,798
 81 Other Services (except Public Administration),27,22,15,18,11,26,35,72
 91 Public Administration,0,3,8,0,0,0,1,6
-Services-Producing Industry Sectors - Total,347,295,318,332,239,641,959,"1,287"
-Nova Scotia - Total,"2,456","2,703","3,394","2,823","3,259","4,161","5,593","5,437"
-New Brunswick,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting",226,205,208,398,386,532,676,849
 21 Mining and Oil and Gas Extraction,162,60,0,18,0,0,1,5
 22 Utilities,0,1,0,0,1,1,0,3
 23 Construction,2,5,0,2,15,55,255,192
 31-33 Manufacturing,744,"1,235",828,"1,119","2,023","1,770","5,222","2,812"
-Goods-Producing Industry Sectors - Total,"1,134","1,506","1,036","1,537","2,425","2,358","6,154","3,861"
 41 Wholesale Trade,4,0,10,0,129,167,33,24
 44-45 Retail Trade,1,3,2,13,13,27,41,55
 48-49 Transportation and Warehousing,175,171,222,275,169,259,339,152
@@ -128,17 +99,11 @@ Goods-Producing Industry Sectors - Total,"1,134","1,506","1,036","1,537","2,425"
 72 Accommodation and Food Services,79,69,59,107,114,138,399,541
 81 Other Services (except Public Administration),8,15,12,14,5,11,13,37
 91 Public Administration,1,1,0,0,0,0,0,0
-Services-Producing Industry Sectors - Total,337,294,325,437,461,657,984,"1,154"
-New Brunswick - Total,"1,471","1,800","1,361","1,974","2,886","3,015","7,138","5,015"
-Quebec,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting","16,421","13,555","15,450","22,973","20,435","24,581","29,117","26,337"
 21 Mining and Oil and Gas Extraction,8,7,4,27,10,34,74,95
 22 Utilities,3,1,2,5,3,17,15,32
 23 Construction,65,67,93,123,374,275,"1,213","1,231"
 31-33 Manufacturing,720,"1,108","1,923","3,875","4,800","4,380","14,824","11,670"
-Goods-Producing Industry Sectors - Total,"17,217","14,738","17,472","27,003","25,622","29,287","45,243","39,365"
 41 Wholesale Trade,69,46,233,231,379,239,"1,166",916
 44-45 Retail Trade,223,259,274,481,487,371,"1,676","2,355"
 48-49 Transportation and Warehousing,312,420,501,667,595,343,"1,118","1,478"
@@ -154,17 +119,11 @@ Goods-Producing Industry Sectors - Total,"17,217","14,738","17,472","27,003","25
 72 Accommodation and Food Services,174,204,218,555,956,711,"4,676","6,203"
 81 Other Services (except Public Administration),292,309,325,760,895,677,"1,971","2,045"
 91 Public Administration,19,12,61,61,117,32,112,118
-Services-Producing Industry Sectors - Total,"3,086","2,878","3,785","6,587","7,334","6,412","21,517","22,831"
-Quebec - Total,"20,311","17,616","21,257","33,590","32,956","35,699","66,794","62,206"
-Ontario,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting","21,681","29,384","29,601","28,684","28,444","31,274","34,594","38,593"
 21 Mining and Oil and Gas Extraction,20,13,24,35,12,7,43,100
 22 Utilities,32,18,48,26,41,30,25,88
 23 Construction,601,723,746,"1,203","1,207","1,316","3,440","3,874"
 31-33 Manufacturing,"1,242","1,437","1,522","1,562","1,715","2,214","4,076","4,191"
-Goods-Producing Industry Sectors - Total,"23,576","31,575","31,941","31,510","31,419","34,841","42,178","46,846"
 41 Wholesale Trade,161,177,431,178,244,177,574,728
 44-45 Retail Trade,200,337,336,576,823,678,"1,421","2,333"
 48-49 Transportation and Warehousing,147,192,245,613,"1,350","1,064","1,683","2,769"
@@ -180,17 +139,11 @@ Goods-Producing Industry Sectors - Total,"23,576","31,575","31,941","31,510","31
 72 Accommodation and Food Services,734,"1,045","1,262","2,086","2,622","2,227","6,512","10,000"
 81 Other Services (except Public Administration),"3,268","3,566","4,252","3,504","2,005","2,703","2,714","3,658"
 91 Public Administration,34,24,38,15,12,19,30,103
-Services-Producing Industry Sectors - Total,"6,847","7,527","8,966","9,913","10,077","10,353","19,839","27,774"
-Ontario - Total,"30,426","39,114","40,907","41,426","41,496","45,196","62,020","74,625"
-Manitoba,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting",696,715,842,955,"1,086",731,"1,049","1,324"
 21 Mining and Oil and Gas Extraction,0,1,0,0,0,0,1,1
 22 Utilities,16,33,1,0,0,0,1,0
 23 Construction,34,20,21,29,36,71,225,315
 31-33 Manufacturing,19,84,11,24,9,76,264,123
-Goods-Producing Industry Sectors - Total,765,853,875,"1,008","1,131",878,"1,540","1,763"
 41 Wholesale Trade,5,10,12,3,5,4,7,22
 44-45 Retail Trade,26,24,23,27,39,50,180,217
 48-49 Transportation and Warehousing,75,59,50,406,359,440,941,"1,183"
@@ -206,17 +159,11 @@ Goods-Producing Industry Sectors - Total,765,853,875,"1,008","1,131",878,"1,540"
 72 Accommodation and Food Services,56,67,78,125,102,104,662,945
 81 Other Services (except Public Administration),28,39,68,74,44,46,110,175
 91 Public Administration,1,1,0,2,0,2,1,9
-Services-Producing Industry Sectors - Total,483,471,584,944,642,980,"2,340","2,913"
-Manitoba - Total,"1,248","1,324","1,459","1,952","1,773","1,858","3,880","4,676"
-Saskatchewan,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting",590,639,643,864,776,665,933,"1,257"
 21 Mining and Oil and Gas Extraction,3,5,5,0,7,0,7,9
 22 Utilities,45,1,6,3,0,0,0,25
 23 Construction,51,35,80,38,20,29,146,155
 31-33 Manufacturing,9,4,7,7,3,17,89,84
-Goods-Producing Industry Sectors - Total,698,684,741,912,806,711,"1,175","1,530"
 41 Wholesale Trade,12,5,18,0,5,4,7,37
 44-45 Retail Trade,28,30,23,39,28,30,117,181
 48-49 Transportation and Warehousing,44,18,19,83,102,129,266,258
@@ -232,17 +179,11 @@ Goods-Producing Industry Sectors - Total,698,684,741,912,806,711,"1,175","1,530"
 72 Accommodation and Food Services,125,107,66,183,132,153,646,808
 81 Other Services (except Public Administration),80,95,142,131,33,66,73,139
 91 Public Administration,0,1,0,0,0,0,0,2
-Services-Producing Industry Sectors - Total,468,406,357,554,358,507,"1,272","1,594"
-Saskatchewan - Total,"1,166","1,090","1,098","1,466","1,164","1,218","2,447","3,124"
-Alberta,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting","2,312","2,419","2,686","2,861","2,551","2,847","2,971","4,690"
 21 Mining and Oil and Gas Extraction,36,24,93,43,40,49,148,334
 22 Utilities,17,53,8,4,2,9,7,14
 23 Construction,958,956,862,"1,088",592,805,"2,661","3,583"
 31-33 Manufacturing,425,470,315,611,509,354,"1,533","1,185"
-Goods-Producing Industry Sectors - Total,"3,748","3,922","3,964","4,607","3,694","4,064","7,320","9,806"
 41 Wholesale Trade,112,77,178,75,43,46,169,295
 44-45 Retail Trade,797,628,369,891,620,687,"1,706","2,053"
 48-49 Transportation and Warehousing,270,227,229,"1,509",706,297,"2,575","2,376"
@@ -258,17 +199,11 @@ Goods-Producing Industry Sectors - Total,"3,748","3,922","3,964","4,607","3,694"
 72 Accommodation and Food Services,"2,868","2,528","1,914","3,418","1,898","2,495","7,961","8,222"
 81 Other Services (except Public Administration),"1,399","1,390","1,595","1,348",499,748,"1,134","1,484"
 91 Public Administration,79,43,5,13,5,14,32,45
-Services-Producing Industry Sectors - Total,"6,484","5,657","5,060","8,331","4,424","5,048","16,129","17,692"
-Alberta - Total,"10,232","9,579","9,024","12,940","8,118","9,112","23,450","27,507"
-British Columbia,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting","9,606","10,799","16,465","13,210","15,785","14,287","17,032","25,351"
 21 Mining and Oil and Gas Extraction,24,20,35,52,7,34,165,120
 22 Utilities,24,12,6,6,6,6,9,11
 23 Construction,"1,081","1,325","1,459","3,189","2,281","3,143","5,692","5,793"
 31-33 Manufacturing,"1,053",599,543,875,"1,056","1,147","2,590","2,004"
-Goods-Producing Industry Sectors - Total,"11,788","12,755","18,508","17,332","19,135","18,617","25,488","33,279"
 41 Wholesale Trade,323,195,559,189,193,198,330,487
 44-45 Retail Trade,668,880,748,885,757,735,"1,341","1,576"
 48-49 Transportation and Warehousing,631,"1,311",886,"2,727","1,993","1,664","3,001","2,572"
@@ -284,17 +219,11 @@ Goods-Producing Industry Sectors - Total,"11,788","12,755","18,508","17,332","19
 72 Accommodation and Food Services,"1,620","2,564","2,779","5,139","4,222","4,435","9,893","8,987"
 81 Other Services (except Public Administration),"1,814","2,235","2,936","2,641","1,630","1,904","1,977","1,837"
 91 Public Administration,4,19,28,13,17,18,34,40
-Services-Producing Industry Sectors - Total,"8,208","9,674","10,231","14,951","11,718","11,903","21,915","20,012"
-British Columbia - Total,"20,001","22,441","28,739","32,284","30,861","30,520","47,404","53,295"
-Yukon,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting",0,0,0,1,1,0,0,0
 21 Mining and Oil and Gas Extraction,1,1,1,0,1,1,12,1
 22 Utilities,0,0,1,0,0,0,0,0
 23 Construction,0,18,0,3,1,0,5,0
 31-33 Manufacturing,0,0,0,0,0,0,0,0
-Goods-Producing Industry Sectors - Total,1,19,2,4,3,1,17,1
 41 Wholesale Trade,0,0,8,0,0,0,0,0
 44-45 Retail Trade,0,1,0,0,0,0,4,4
 48-49 Transportation and Warehousing,6,7,1,14,2,1,1,3
@@ -310,17 +239,11 @@ Goods-Producing Industry Sectors - Total,1,19,2,4,3,1,17,1
 72 Accommodation and Food Services,5,3,2,12,2,5,18,12
 81 Other Services (except Public Administration),3,11,6,11,1,4,5,1
 91 Public Administration,0,0,0,0,0,0,0,0
-Services-Producing Industry Sectors - Total,106,100,105,135,37,125,140,135
-Yukon - Total,107,119,107,139,40,126,157,136
-Northwest Territories,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting",0,0,0,2,1,2,1,0
 21 Mining and Oil and Gas Extraction,0,0,0,0,0,0,0,0
 22 Utilities,0,0,0,0,0,0,0,0
 23 Construction,2,3,3,1,1,0,9,0
 31-33 Manufacturing,14,1,0,0,1,0,3,3
-Goods-Producing Industry Sectors - Total,16,4,3,3,3,2,13,3
 41 Wholesale Trade,0,8,0,0,0,0,0,0
 44-45 Retail Trade,0,1,0,4,4,1,19,22
 48-49 Transportation and Warehousing,28,10,0,0,0,0,1,21
@@ -336,17 +259,11 @@ Goods-Producing Industry Sectors - Total,16,4,3,3,3,2,13,3
 72 Accommodation and Food Services,0,7,5,32,12,15,90,64
 81 Other Services (except Public Administration),11,12,12,7,4,5,1,7
 91 Public Administration,3,0,0,1,0,0,0,1
-Services-Producing Industry Sectors - Total,48,42,18,53,26,28,119,121
-Northwest Territories - Total,64,46,21,56,29,30,132,124
-Nunavut,,,,,,,,
-NAICS Codes and Industry Sectors,,,,,,,,
-,2016,2017,2018,2019,2020,2021,2022,2023
 "11 Agriculture, Forestry, Fishing and Hunting",0,0,0,0,0,0,0,0
 21 Mining and Oil and Gas Extraction,0,0,0,0,0,0,0,0
 22 Utilities,0,0,0,0,0,0,0,0
 23 Construction,1,4,0,0,4,15,5,1
 31-33 Manufacturing,0,0,0,0,0,0,0,0
-Goods-Producing Industry Sectors - Total,1,4,0,0,4,15,5,1
 41 Wholesale Trade,0,0,1,0,0,0,0,0
 44-45 Retail Trade,2,1,6,1,0,3,0,17
 48-49 Transportation and Warehousing,72,18,114,122,33,32,34,97
@@ -362,5 +279,3 @@ Goods-Producing Industry Sectors - Total,1,4,0,0,4,15,5,1
 72 Accommodation and Food Services,0,0,2,6,3,1,35,0
 81 Other Services (except Public Administration),5,6,3,2,2,2,1,0
 91 Public Administration,0,0,0,0,0,0,0,0
-Services-Producing Industry Sectors - Total,144,37,132,133,42,48,83,121
-Nunavut - Total,145,41,132,133,46,63,88,122
