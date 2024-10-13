@@ -1,141 +1,141 @@
-province_region,Description,Skill Type,2016,2017,2018,2019,2020,2021,2022,2023
-Canada,Management occupations ,0,"1,913","1,752","1,508","2,245","2,721","2,608","4,041","4,663"
-Canada,"Business, finance and administration occupations ",1,"1,101","1,214","1,175","2,581","2,982","2,619","7,281","10,789"
-Canada,Natural and applied sciences and related occupations ,2,"4,124","3,974","4,136","5,629","4,544","5,814","10,621","8,101"
-Canada,Health occupations ,3,666,509,447,932,"1,238","1,389","3,151","4,336"
-Canada,"Occupations in education, law and social, community and government services ",4,"6,867","7,533","9,121","7,332","4,589","5,611","5,446","6,055"
-Canada,"Occupations in art, culture, recreation and sport ",5,"4,536","3,035","2,719","2,673","1,249","1,399","2,738","2,345"
-Canada,Sales and service occupations ,6,"7,906","8,899","8,705","15,361","13,044","13,972","40,715","48,549"
-Canada,"Trades, transport and equipment operators and related occupations ",7,"6,450","6,945","7,270","14,733","12,699","12,734","32,614","33,981"
-Canada,"Natural resources, agriculture and related production occupations ",8,"54,597","60,808","70,066","73,170","73,412","78,144","92,118","103,706"
-Canada,Occupations in manufacturing and utilities ,9,"2,154","3,477","3,841","5,796","8,795","8,905","24,117","17,110"
-Newfoundland and Labrador,Management occupations ,0,75,34,14,9,17,23,11,14
-Newfoundland and Labrador,"Business, finance and administration occupations ",1,16,6,5,6,14,18,11,18
-Newfoundland and Labrador,Natural and applied sciences and related occupations ,2,707,469,117,196,185,166,206,136
-Newfoundland and Labrador,Health occupations ,3,28,10,8,13,31,18,15,23
-Newfoundland and Labrador,"Occupations in education, law and social, community and government services ",4,25,13,11,7,4,1,6,6
-Newfoundland and Labrador,"Occupations in art, culture, recreation and sport ",5,11,9,1,6,2,1,0,1
-Newfoundland and Labrador,Sales and service occupations ,6,173,83,49,50,38,85,136,192
-Newfoundland and Labrador,"Trades, transport and equipment operators and related occupations ",7,584,402,129,98,373,242,267,120
-Newfoundland and Labrador,"Natural resources, agriculture and related production occupations ",8,70,103,85,93,111,113,218,266
-Newfoundland and Labrador,Occupations in manufacturing and utilities ,9,52,88,58,17,152,27,583,892
-Prince Edward Island,Management occupations ,0,9,4,4,3,9,7,4,6
-Prince Edward Island,"Business, finance and administration occupations ",1,1,1,0,1,0,2,2,7
-Prince Edward Island,Natural and applied sciences and related occupations ,2,32,13,2,1,4,2,5,5
-Prince Edward Island,Health occupations ,3,4,4,0,5,4,1,4,8
-Prince Edward Island,"Occupations in education, law and social, community and government services ",4,6,3,4,5,0,3,2,2
-Prince Edward Island,"Occupations in art, culture, recreation and sport ",5,8,1,0,1,0,0,1,0
-Prince Edward Island,Sales and service occupations ,6,11,14,8,14,10,16,120,75
-Prince Edward Island,"Trades, transport and equipment operators and related occupations ",7,68,105,114,86,62,67,125,106
-Prince Edward Island,"Natural resources, agriculture and related production occupations ",8,358,418,406,526,754,514,687,761
-Prince Edward Island,Occupations in manufacturing and utilities ,9,449,493,474,537,881,892,"1,341",741
-Nova Scotia,Management occupations ,0,52,60,43,42,48,44,56,54
-Nova Scotia,"Business, finance and administration occupations ",1,12,7,8,6,5,18,47,79
-Nova Scotia,Natural and applied sciences and related occupations ,2,229,92,46,99,62,119,158,84
-Nova Scotia,Health occupations ,3,27,11,11,5,8,7,11,17
-Nova Scotia,"Occupations in education, law and social, community and government services ",4,32,29,40,24,23,28,8,22
-Nova Scotia,"Occupations in art, culture, recreation and sport ",5,17,3,22,7,0,1,4,3
-Nova Scotia,Sales and service occupations ,6,107,110,67,97,78,129,568,892
-Nova Scotia,"Trades, transport and equipment operators and related occupations ",7,139,177,178,196,69,206,400,342
-Nova Scotia,"Natural resources, agriculture and related production occupations ",8,"1,665","1,890","2,720","1,965","2,366","2,412","2,916","2,939"
-Nova Scotia,Occupations in manufacturing and utilities ,9,176,324,259,382,600,"1,197","1,424","1,004"
-New Brunswick,Management occupations ,0,10,9,4,6,13,13,32,32
-New Brunswick,"Business, finance and administration occupations ",1,11,2,4,6,5,11,38,25
-New Brunswick,Natural and applied sciences and related occupations ,2,143,73,43,34,19,29,47,45
-New Brunswick,Health occupations ,3,11,17,6,8,11,22,33,238
-New Brunswick,"Occupations in education, law and social, community and government services ",4,10,17,9,10,4,13,22,20
-New Brunswick,"Occupations in art, culture, recreation and sport ",5,1,0,0,0,0,1,1,1
-New Brunswick,Sales and service occupations ,6,94,79,66,139,126,171,436,609
-New Brunswick,"Trades, transport and equipment operators and related occupations ",7,225,172,198,266,183,347,616,401
-New Brunswick,"Natural resources, agriculture and related production occupations ",8,184,195,197,383,381,522,687,828
-New Brunswick,Occupations in manufacturing and utilities ,9,782,"1,236",834,"1,122","2,144","1,886","5,226","2,815"
-Quebec,Management occupations ,0,132,129,151,197,201,220,487,593
-Quebec,"Business, finance and administration occupations ",1,91,102,103,152,239,252,"1,154","1,674"
-Quebec,Natural and applied sciences and related occupations ,2,809,953,"1,371","2,187","1,563","2,236","4,294","3,433"
-Quebec,Health occupations ,3,141,92,108,504,729,746,"1,772","2,112"
-Quebec,"Occupations in education, law and social, community and government services ",4,334,367,320,526,752,639,"1,336","1,442"
-Quebec,"Occupations in art, culture, recreation and sport ",5,"1,043",628,719,859,409,331,"1,036",926
-Quebec,Sales and service occupations ,6,270,322,391,809,"1,390","1,144","6,897","8,864"
-Quebec,"Trades, transport and equipment operators and related occupations ",7,460,649,"1,310","2,665","3,339","2,382","8,608","8,354"
-Quebec,"Natural resources, agriculture and related production occupations ",8,"16,699","13,624","15,852","23,483","21,076","24,706","30,714","27,185"
-Quebec,Occupations in manufacturing and utilities ,9,332,750,932,"2,208","3,258","3,043","10,494","7,618"
-Ontario,Management occupations ,0,600,591,615,796,"1,020","1,010","1,578","2,246"
-Ontario,"Business, finance and administration occupations ",1,382,486,457,848,"1,266",858,"2,003","4,045"
-Ontario,Natural and applied sciences and related occupations ,2,978,"1,108","1,364","1,653","1,470","1,901","3,406","2,858"
-Ontario,Health occupations ,3,133,123,118,133,193,272,768,"1,136"
-Ontario,"Occupations in education, law and social, community and government services ",4,"3,329","3,567","4,258","3,309","1,856","2,512","2,046","2,440"
-Ontario,"Occupations in art, culture, recreation and sport ",5,983,707,581,565,266,274,550,448
-Ontario,Sales and service occupations ,6,907,"1,368","1,659","2,620","3,441","3,286","8,462","12,891"
-Ontario,"Trades, transport and equipment operators and related occupations ",7,825,"1,094","1,184","1,976","2,538","2,725","6,267","7,617"
-Ontario,"Natural resources, agriculture and related production occupations ",8,"22,259","29,962","29,777","28,712","28,558","31,377","34,759","38,771"
-Ontario,Occupations in manufacturing and utilities ,9,30,108,894,814,882,981,"2,179","2,169"
-Manitoba,Management occupations ,0,16,13,20,37,24,28,46,60
-Manitoba,"Business, finance and administration occupations ",1,10,9,16,31,28,48,195,377
-Manitoba,Natural and applied sciences and related occupations ,2,23,40,99,44,40,65,88,54
-Manitoba,Health occupations ,3,27,24,9,17,12,31,35,55
-Manitoba,"Occupations in education, law and social, community and government services ",4,57,48,61,72,38,47,36,54
-Manitoba,"Occupations in art, culture, recreation and sport ",5,27,11,36,4,2,5,5,8
-Manitoba,Sales and service occupations ,6,252,259,266,350,156,334,"1,033","1,223"
-Manitoba,"Trades, transport and equipment operators and related occupations ",7,133,129,106,448,383,515,"1,158","1,467"
-Manitoba,"Natural resources, agriculture and related production occupations ",8,702,726,840,944,"1,088",733,"1,050","1,322"
-Manitoba,Occupations in manufacturing and utilities ,9,1,65,6,5,2,52,234,56
-Saskatchewan,Management occupations ,0,19,18,10,14,15,24,23,39
-Saskatchewan,"Business, finance and administration occupations ",1,4,5,1,6,3,10,43,68
-Saskatchewan,Natural and applied sciences and related occupations ,2,117,87,72,79,27,53,71,48
-Saskatchewan,Health occupations ,3,41,42,39,17,28,28,43,30
-Saskatchewan,"Occupations in education, law and social, community and government services ",4,79,73,114,77,21,41,28,26
-Saskatchewan,"Occupations in art, culture, recreation and sport ",5,3,5,9,4,0,1,7,4
-Saskatchewan,Sales and service occupations ,6,171,160,131,276,190,256,855,"1,104"
-Saskatchewan,"Trades, transport and equipment operators and related occupations ",7,149,72,94,183,134,180,417,522
-Saskatchewan,"Natural resources, agriculture and related production occupations ",8,583,625,622,806,744,618,883,"1,229"
-Saskatchewan,Occupations in manufacturing and utilities ,9,0,3,6,4,2,7,77,54
-Alberta,Management occupations ,0,511,326,181,272,165,221,386,441
-Alberta,"Business, finance and administration occupations ",1,201,161,166,475,359,488,"1,786","2,242"
-Alberta,Natural and applied sciences and related occupations ,2,257,194,214,281,152,236,735,469
-Alberta,Health occupations ,3,183,99,82,102,75,87,169,376
-Alberta,"Occupations in education, law and social, community and government services ",4,"1,250","1,286","1,490","1,097",434,615,592,650
-Alberta,"Occupations in art, culture, recreation and sport ",5,151,101,89,87,36,44,100,118
-Alberta,Sales and service occupations ,6,"3,763","3,438","2,595","4,673","2,643","3,351","10,271","11,350"
-Alberta,"Trades, transport and equipment operators and related occupations ",7,"1,271","1,253","1,233","2,614","1,324","1,034","5,340","6,253"
-Alberta,"Natural resources, agriculture and related production occupations ",8,"2,379","2,441","2,763","2,948","2,601","2,859","3,155","4,997"
-Alberta,Occupations in manufacturing and utilities ,9,266,280,211,391,329,176,916,611
-British Columbia,Management occupations ,0,483,564,460,863,"1,207","1,013","1,411","1,176"
-British Columbia,"Business, finance and administration occupations ",1,370,434,413,"1,048","1,060",910,"1,997","2,249"
-British Columbia,Natural and applied sciences and related occupations ,2,805,923,779,"1,039","1,004",987,"1,593",914
-British Columbia,Health occupations ,3,69,83,65,125,145,176,296,339
-British Columbia,"Occupations in education, law and social, community and government services ",4,"1,723","2,100","2,785","2,189","1,450","1,704","1,367","1,389"
-British Columbia,"Occupations in art, culture, recreation and sport ",5,"2,198","1,497","1,169","1,046",503,628,931,732
-British Columbia,Sales and service occupations ,6,"2,025","3,038","3,416","6,204","4,942","5,164","11,759","11,206"
-British Columbia,"Trades, transport and equipment operators and related occupations ",7,"2,564","2,850","2,681","6,140","4,274","5,005","9,359","8,732"
-British Columbia,"Natural resources, agriculture and related production occupations ",8,"9,698","10,824","16,804","13,309","15,732","14,289","17,048","25,408"
-British Columbia,Occupations in manufacturing and utilities ,9,66,128,167,316,544,644,"1,643","1,150"
-Yukon,Management occupations ,0,1,1,1,1,1,3,1,0
-Yukon,"Business, finance and administration occupations ",1,0,0,0,0,0,1,3,1
-Yukon,Natural and applied sciences and related occupations ,2,4,4,2,0,0,3,1,2
-Yukon,Health occupations ,3,0,3,0,0,0,0,0,0
-Yukon,"Occupations in education, law and social, community and government services ",4,5,11,7,7,0,1,0,2
-Yukon,"Occupations in art, culture, recreation and sport ",5,86,72,85,93,31,111,103,104
-Yukon,Sales and service occupations ,6,5,3,3,21,5,5,26,19
-Yukon,"Trades, transport and equipment operators and related occupations ",7,6,25,9,17,3,2,23,8
-Yukon,"Natural resources, agriculture and related production occupations ",8,0,0,0,0,0,0,0,0
-Yukon,Occupations in manufacturing and utilities ,9,0,0,0,0,0,0,0,0
-Northwest Territories,Management occupations ,0,3,2,1,5,0,2,4,2
-Northwest Territories,"Business, finance and administration occupations ",1,0,1,1,1,0,0,1,1
-Northwest Territories,Natural and applied sciences and related occupations ,2,8,5,0,0,0,0,1,13
-Northwest Territories,Health occupations ,3,0,0,0,3,2,0,2,2
-Northwest Territories,"Occupations in education, law and social, community and government services ",4,11,13,12,7,5,5,2,1
-Northwest Territories,"Occupations in art, culture, recreation and sport ",5,1,0,0,0,0,0,0,0
-Northwest Territories,Sales and service occupations ,6,30,10,5,37,18,22,106,85
-Northwest Territories,"Trades, transport and equipment operators and related occupations ",7,11,13,2,2,2,0,15,20
-Northwest Territories,"Natural resources, agriculture and related production occupations ",8,0,0,0,1,1,1,1,0
-Northwest Territories,Occupations in manufacturing and utilities ,9,0,2,0,0,1,0,0,0
-Nunavut,Management occupations ,0,2,1,4,0,1,0,2,0
-Nunavut,"Business, finance and administration occupations ",1,3,0,1,1,3,3,1,3
-Nunavut,Natural and applied sciences and related occupations ,2,12,13,27,16,18,17,16,40
-Nunavut,Health occupations ,3,2,1,1,0,0,1,3,0
-Nunavut,"Occupations in education, law and social, community and government services ",4,6,6,10,2,2,2,1,1
-Nunavut,"Occupations in art, culture, recreation and sport ",5,7,1,8,1,0,2,0,0
-Nunavut,Sales and service occupations ,6,98,15,49,71,7,9,46,39
-Nunavut,"Trades, transport and equipment operators and related occupations ",7,15,4,32,42,15,29,19,39
-Nunavut,"Natural resources, agriculture and related production occupations ",8,0,0,0,0,0,0,0,0
-Nunavut,Occupations in manufacturing and utilities ,9,0,0,0,0,0,0,0,0
+province_region,description,skill_type,2016,2017,2018,2019,2020,2021,2022,2023
+Canada,Management occupations,0,1913.0,1752.0,1508.0,2245.0,2721.0,2608.0,4041.0,4663.0
+Canada,"Business, finance and administration occupations",1,1101.0,1214.0,1175.0,2581.0,2982.0,2619.0,7281.0,10789.0
+Canada,Natural and applied sciences and related occupations,2,4124.0,3974.0,4136.0,5629.0,4544.0,5814.0,10621.0,8101.0
+Canada,Health occupations,3,666.0,509.0,447.0,932.0,1238.0,1389.0,3151.0,4336.0
+Canada,"Occupations in education, law and social, community and government services",4,6867.0,7533.0,9121.0,7332.0,4589.0,5611.0,5446.0,6055.0
+Canada,"Occupations in art, culture, recreation and sport",5,4536.0,3035.0,2719.0,2673.0,1249.0,1399.0,2738.0,2345.0
+Canada,Sales and service occupations,6,7906.0,8899.0,8705.0,15361.0,13044.0,13972.0,40715.0,48549.0
+Canada,"Trades, transport and equipment operators and related occupations",7,6450.0,6945.0,7270.0,14733.0,12699.0,12734.0,32614.0,33981.0
+Canada,"Natural resources, agriculture and related production occupations",8,54597.0,60808.0,70066.0,73170.0,73412.0,78144.0,92118.0,103706.0
+Canada,Occupations in manufacturing and utilities,9,2154.0,3477.0,3841.0,5796.0,8795.0,8905.0,24117.0,17110.0
+Newfoundland and Labrador,Management occupations,0,75.0,34.0,14.0,9.0,17.0,23.0,11.0,14.0
+Newfoundland and Labrador,"Business, finance and administration occupations",1,16.0,6.0,5.0,6.0,14.0,18.0,11.0,18.0
+Newfoundland and Labrador,Natural and applied sciences and related occupations,2,707.0,469.0,117.0,196.0,185.0,166.0,206.0,136.0
+Newfoundland and Labrador,Health occupations,3,28.0,10.0,8.0,13.0,31.0,18.0,15.0,23.0
+Newfoundland and Labrador,"Occupations in education, law and social, community and government services",4,25.0,13.0,11.0,7.0,4.0,1.0,6.0,6.0
+Newfoundland and Labrador,"Occupations in art, culture, recreation and sport",5,11.0,9.0,1.0,6.0,2.0,1.0,0.0,1.0
+Newfoundland and Labrador,Sales and service occupations,6,173.0,83.0,49.0,50.0,38.0,85.0,136.0,192.0
+Newfoundland and Labrador,"Trades, transport and equipment operators and related occupations",7,584.0,402.0,129.0,98.0,373.0,242.0,267.0,120.0
+Newfoundland and Labrador,"Natural resources, agriculture and related production occupations",8,70.0,103.0,85.0,93.0,111.0,113.0,218.0,266.0
+Newfoundland and Labrador,Occupations in manufacturing and utilities,9,52.0,88.0,58.0,17.0,152.0,27.0,583.0,892.0
+Prince Edward Island,Management occupations,0,9.0,4.0,4.0,3.0,9.0,7.0,4.0,6.0
+Prince Edward Island,"Business, finance and administration occupations",1,1.0,1.0,0.0,1.0,0.0,2.0,2.0,7.0
+Prince Edward Island,Natural and applied sciences and related occupations,2,32.0,13.0,2.0,1.0,4.0,2.0,5.0,5.0
+Prince Edward Island,Health occupations,3,4.0,4.0,0.0,5.0,4.0,1.0,4.0,8.0
+Prince Edward Island,"Occupations in education, law and social, community and government services",4,6.0,3.0,4.0,5.0,0.0,3.0,2.0,2.0
+Prince Edward Island,"Occupations in art, culture, recreation and sport",5,8.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0
+Prince Edward Island,Sales and service occupations,6,11.0,14.0,8.0,14.0,10.0,16.0,120.0,75.0
+Prince Edward Island,"Trades, transport and equipment operators and related occupations",7,68.0,105.0,114.0,86.0,62.0,67.0,125.0,106.0
+Prince Edward Island,"Natural resources, agriculture and related production occupations",8,358.0,418.0,406.0,526.0,754.0,514.0,687.0,761.0
+Prince Edward Island,Occupations in manufacturing and utilities,9,449.0,493.0,474.0,537.0,881.0,892.0,1341.0,741.0
+Nova Scotia,Management occupations,0,52.0,60.0,43.0,42.0,48.0,44.0,56.0,54.0
+Nova Scotia,"Business, finance and administration occupations",1,12.0,7.0,8.0,6.0,5.0,18.0,47.0,79.0
+Nova Scotia,Natural and applied sciences and related occupations,2,229.0,92.0,46.0,99.0,62.0,119.0,158.0,84.0
+Nova Scotia,Health occupations,3,27.0,11.0,11.0,5.0,8.0,7.0,11.0,17.0
+Nova Scotia,"Occupations in education, law and social, community and government services",4,32.0,29.0,40.0,24.0,23.0,28.0,8.0,22.0
+Nova Scotia,"Occupations in art, culture, recreation and sport",5,17.0,3.0,22.0,7.0,0.0,1.0,4.0,3.0
+Nova Scotia,Sales and service occupations,6,107.0,110.0,67.0,97.0,78.0,129.0,568.0,892.0
+Nova Scotia,"Trades, transport and equipment operators and related occupations",7,139.0,177.0,178.0,196.0,69.0,206.0,400.0,342.0
+Nova Scotia,"Natural resources, agriculture and related production occupations",8,1665.0,1890.0,2720.0,1965.0,2366.0,2412.0,2916.0,2939.0
+Nova Scotia,Occupations in manufacturing and utilities,9,176.0,324.0,259.0,382.0,600.0,1197.0,1424.0,1004.0
+New Brunswick,Management occupations,0,10.0,9.0,4.0,6.0,13.0,13.0,32.0,32.0
+New Brunswick,"Business, finance and administration occupations",1,11.0,2.0,4.0,6.0,5.0,11.0,38.0,25.0
+New Brunswick,Natural and applied sciences and related occupations,2,143.0,73.0,43.0,34.0,19.0,29.0,47.0,45.0
+New Brunswick,Health occupations,3,11.0,17.0,6.0,8.0,11.0,22.0,33.0,238.0
+New Brunswick,"Occupations in education, law and social, community and government services",4,10.0,17.0,9.0,10.0,4.0,13.0,22.0,20.0
+New Brunswick,"Occupations in art, culture, recreation and sport",5,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+New Brunswick,Sales and service occupations,6,94.0,79.0,66.0,139.0,126.0,171.0,436.0,609.0
+New Brunswick,"Trades, transport and equipment operators and related occupations",7,225.0,172.0,198.0,266.0,183.0,347.0,616.0,401.0
+New Brunswick,"Natural resources, agriculture and related production occupations",8,184.0,195.0,197.0,383.0,381.0,522.0,687.0,828.0
+New Brunswick,Occupations in manufacturing and utilities,9,782.0,1236.0,834.0,1122.0,2144.0,1886.0,5226.0,2815.0
+Quebec,Management occupations,0,132.0,129.0,151.0,197.0,201.0,220.0,487.0,593.0
+Quebec,"Business, finance and administration occupations",1,91.0,102.0,103.0,152.0,239.0,252.0,1154.0,1674.0
+Quebec,Natural and applied sciences and related occupations,2,809.0,953.0,1371.0,2187.0,1563.0,2236.0,4294.0,3433.0
+Quebec,Health occupations,3,141.0,92.0,108.0,504.0,729.0,746.0,1772.0,2112.0
+Quebec,"Occupations in education, law and social, community and government services",4,334.0,367.0,320.0,526.0,752.0,639.0,1336.0,1442.0
+Quebec,"Occupations in art, culture, recreation and sport",5,1043.0,628.0,719.0,859.0,409.0,331.0,1036.0,926.0
+Quebec,Sales and service occupations,6,270.0,322.0,391.0,809.0,1390.0,1144.0,6897.0,8864.0
+Quebec,"Trades, transport and equipment operators and related occupations",7,460.0,649.0,1310.0,2665.0,3339.0,2382.0,8608.0,8354.0
+Quebec,"Natural resources, agriculture and related production occupations",8,16699.0,13624.0,15852.0,23483.0,21076.0,24706.0,30714.0,27185.0
+Quebec,Occupations in manufacturing and utilities,9,332.0,750.0,932.0,2208.0,3258.0,3043.0,10494.0,7618.0
+Ontario,Management occupations,0,600.0,591.0,615.0,796.0,1020.0,1010.0,1578.0,2246.0
+Ontario,"Business, finance and administration occupations",1,382.0,486.0,457.0,848.0,1266.0,858.0,2003.0,4045.0
+Ontario,Natural and applied sciences and related occupations,2,978.0,1108.0,1364.0,1653.0,1470.0,1901.0,3406.0,2858.0
+Ontario,Health occupations,3,133.0,123.0,118.0,133.0,193.0,272.0,768.0,1136.0
+Ontario,"Occupations in education, law and social, community and government services",4,3329.0,3567.0,4258.0,3309.0,1856.0,2512.0,2046.0,2440.0
+Ontario,"Occupations in art, culture, recreation and sport",5,983.0,707.0,581.0,565.0,266.0,274.0,550.0,448.0
+Ontario,Sales and service occupations,6,907.0,1368.0,1659.0,2620.0,3441.0,3286.0,8462.0,12891.0
+Ontario,"Trades, transport and equipment operators and related occupations",7,825.0,1094.0,1184.0,1976.0,2538.0,2725.0,6267.0,7617.0
+Ontario,"Natural resources, agriculture and related production occupations",8,22259.0,29962.0,29777.0,28712.0,28558.0,31377.0,34759.0,38771.0
+Ontario,Occupations in manufacturing and utilities,9,30.0,108.0,894.0,814.0,882.0,981.0,2179.0,2169.0
+Manitoba,Management occupations,0,16.0,13.0,20.0,37.0,24.0,28.0,46.0,60.0
+Manitoba,"Business, finance and administration occupations",1,10.0,9.0,16.0,31.0,28.0,48.0,195.0,377.0
+Manitoba,Natural and applied sciences and related occupations,2,23.0,40.0,99.0,44.0,40.0,65.0,88.0,54.0
+Manitoba,Health occupations,3,27.0,24.0,9.0,17.0,12.0,31.0,35.0,55.0
+Manitoba,"Occupations in education, law and social, community and government services",4,57.0,48.0,61.0,72.0,38.0,47.0,36.0,54.0
+Manitoba,"Occupations in art, culture, recreation and sport",5,27.0,11.0,36.0,4.0,2.0,5.0,5.0,8.0
+Manitoba,Sales and service occupations,6,252.0,259.0,266.0,350.0,156.0,334.0,1033.0,1223.0
+Manitoba,"Trades, transport and equipment operators and related occupations",7,133.0,129.0,106.0,448.0,383.0,515.0,1158.0,1467.0
+Manitoba,"Natural resources, agriculture and related production occupations",8,702.0,726.0,840.0,944.0,1088.0,733.0,1050.0,1322.0
+Manitoba,Occupations in manufacturing and utilities,9,1.0,65.0,6.0,5.0,2.0,52.0,234.0,56.0
+Saskatchewan,Management occupations,0,19.0,18.0,10.0,14.0,15.0,24.0,23.0,39.0
+Saskatchewan,"Business, finance and administration occupations",1,4.0,5.0,1.0,6.0,3.0,10.0,43.0,68.0
+Saskatchewan,Natural and applied sciences and related occupations,2,117.0,87.0,72.0,79.0,27.0,53.0,71.0,48.0
+Saskatchewan,Health occupations,3,41.0,42.0,39.0,17.0,28.0,28.0,43.0,30.0
+Saskatchewan,"Occupations in education, law and social, community and government services",4,79.0,73.0,114.0,77.0,21.0,41.0,28.0,26.0
+Saskatchewan,"Occupations in art, culture, recreation and sport",5,3.0,5.0,9.0,4.0,0.0,1.0,7.0,4.0
+Saskatchewan,Sales and service occupations,6,171.0,160.0,131.0,276.0,190.0,256.0,855.0,1104.0
+Saskatchewan,"Trades, transport and equipment operators and related occupations",7,149.0,72.0,94.0,183.0,134.0,180.0,417.0,522.0
+Saskatchewan,"Natural resources, agriculture and related production occupations",8,583.0,625.0,622.0,806.0,744.0,618.0,883.0,1229.0
+Saskatchewan,Occupations in manufacturing and utilities,9,0.0,3.0,6.0,4.0,2.0,7.0,77.0,54.0
+Alberta,Management occupations,0,511.0,326.0,181.0,272.0,165.0,221.0,386.0,441.0
+Alberta,"Business, finance and administration occupations",1,201.0,161.0,166.0,475.0,359.0,488.0,1786.0,2242.0
+Alberta,Natural and applied sciences and related occupations,2,257.0,194.0,214.0,281.0,152.0,236.0,735.0,469.0
+Alberta,Health occupations,3,183.0,99.0,82.0,102.0,75.0,87.0,169.0,376.0
+Alberta,"Occupations in education, law and social, community and government services",4,1250.0,1286.0,1490.0,1097.0,434.0,615.0,592.0,650.0
+Alberta,"Occupations in art, culture, recreation and sport",5,151.0,101.0,89.0,87.0,36.0,44.0,100.0,118.0
+Alberta,Sales and service occupations,6,3763.0,3438.0,2595.0,4673.0,2643.0,3351.0,10271.0,11350.0
+Alberta,"Trades, transport and equipment operators and related occupations",7,1271.0,1253.0,1233.0,2614.0,1324.0,1034.0,5340.0,6253.0
+Alberta,"Natural resources, agriculture and related production occupations",8,2379.0,2441.0,2763.0,2948.0,2601.0,2859.0,3155.0,4997.0
+Alberta,Occupations in manufacturing and utilities,9,266.0,280.0,211.0,391.0,329.0,176.0,916.0,611.0
+British Columbia,Management occupations,0,483.0,564.0,460.0,863.0,1207.0,1013.0,1411.0,1176.0
+British Columbia,"Business, finance and administration occupations",1,370.0,434.0,413.0,1048.0,1060.0,910.0,1997.0,2249.0
+British Columbia,Natural and applied sciences and related occupations,2,805.0,923.0,779.0,1039.0,1004.0,987.0,1593.0,914.0
+British Columbia,Health occupations,3,69.0,83.0,65.0,125.0,145.0,176.0,296.0,339.0
+British Columbia,"Occupations in education, law and social, community and government services",4,1723.0,2100.0,2785.0,2189.0,1450.0,1704.0,1367.0,1389.0
+British Columbia,"Occupations in art, culture, recreation and sport",5,2198.0,1497.0,1169.0,1046.0,503.0,628.0,931.0,732.0
+British Columbia,Sales and service occupations,6,2025.0,3038.0,3416.0,6204.0,4942.0,5164.0,11759.0,11206.0
+British Columbia,"Trades, transport and equipment operators and related occupations",7,2564.0,2850.0,2681.0,6140.0,4274.0,5005.0,9359.0,8732.0
+British Columbia,"Natural resources, agriculture and related production occupations",8,9698.0,10824.0,16804.0,13309.0,15732.0,14289.0,17048.0,25408.0
+British Columbia,Occupations in manufacturing and utilities,9,66.0,128.0,167.0,316.0,544.0,644.0,1643.0,1150.0
+Yukon,Management occupations,0,1.0,1.0,1.0,1.0,1.0,3.0,1.0,0.0
+Yukon,"Business, finance and administration occupations",1,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0
+Yukon,Natural and applied sciences and related occupations,2,4.0,4.0,2.0,0.0,0.0,3.0,1.0,2.0
+Yukon,Health occupations,3,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yukon,"Occupations in education, law and social, community and government services",4,5.0,11.0,7.0,7.0,0.0,1.0,0.0,2.0
+Yukon,"Occupations in art, culture, recreation and sport",5,86.0,72.0,85.0,93.0,31.0,111.0,103.0,104.0
+Yukon,Sales and service occupations,6,5.0,3.0,3.0,21.0,5.0,5.0,26.0,19.0
+Yukon,"Trades, transport and equipment operators and related occupations",7,6.0,25.0,9.0,17.0,3.0,2.0,23.0,8.0
+Yukon,"Natural resources, agriculture and related production occupations",8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yukon,Occupations in manufacturing and utilities,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Northwest Territories,Management occupations,0,3.0,2.0,1.0,5.0,0.0,2.0,4.0,2.0
+Northwest Territories,"Business, finance and administration occupations",1,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0
+Northwest Territories,Natural and applied sciences and related occupations,2,8.0,5.0,0.0,0.0,0.0,0.0,1.0,13.0
+Northwest Territories,Health occupations,3,0.0,0.0,0.0,3.0,2.0,0.0,2.0,2.0
+Northwest Territories,"Occupations in education, law and social, community and government services",4,11.0,13.0,12.0,7.0,5.0,5.0,2.0,1.0
+Northwest Territories,"Occupations in art, culture, recreation and sport",5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Northwest Territories,Sales and service occupations,6,30.0,10.0,5.0,37.0,18.0,22.0,106.0,85.0
+Northwest Territories,"Trades, transport and equipment operators and related occupations",7,11.0,13.0,2.0,2.0,2.0,0.0,15.0,20.0
+Northwest Territories,"Natural resources, agriculture and related production occupations",8,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+Northwest Territories,Occupations in manufacturing and utilities,9,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0
+Nunavut,Management occupations,0,2.0,1.0,4.0,0.0,1.0,0.0,2.0,0.0
+Nunavut,"Business, finance and administration occupations",1,3.0,0.0,1.0,1.0,3.0,3.0,1.0,3.0
+Nunavut,Natural and applied sciences and related occupations,2,12.0,13.0,27.0,16.0,18.0,17.0,16.0,40.0
+Nunavut,Health occupations,3,2.0,1.0,1.0,0.0,0.0,1.0,3.0,0.0
+Nunavut,"Occupations in education, law and social, community and government services",4,6.0,6.0,10.0,2.0,2.0,2.0,1.0,1.0
+Nunavut,"Occupations in art, culture, recreation and sport",5,7.0,1.0,8.0,1.0,0.0,2.0,0.0,0.0
+Nunavut,Sales and service occupations,6,98.0,15.0,49.0,71.0,7.0,9.0,46.0,39.0
+Nunavut,"Trades, transport and equipment operators and related occupations",7,15.0,4.0,32.0,42.0,15.0,29.0,19.0,39.0
+Nunavut,"Natural resources, agriculture and related production occupations",8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nunavut,Occupations in manufacturing and utilities,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

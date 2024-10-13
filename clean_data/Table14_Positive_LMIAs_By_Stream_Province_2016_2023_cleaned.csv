@@ -1,85 +1,85 @@
-Program Stream,2016,2017,2018,2019,2020,2021,2022,2023,province_region
-High-wage              ,"13,085","12,198","9,438","15,257","13,372","12,898","26,244","28,055",Canada
-Low-wage               ,"12,016","13,692","14,887","18,066","14,723","16,171","35,483","44,992",Canada
-Primary Agriculture    ,"8,203","8,192","9,264","10,787","10,966","11,973","14,422","14,547",Canada
-Global Talent Stream   ,0,722,"2,668","3,967","3,114","4,860","7,971","4,467",Canada
-Permanent Resident Only,"2,162","1,018",845,"1,067","2,032","1,255","1,394","4,098",Canada
-Unspecified            ,13,2,0,0,0,0,0,0,Canada
-High-wage              ,"1,112",950,236,253,415,305,399,311,Newfoundland and Labrador
-Low-wage               ,116,65,40,37,38,54,97,124,Newfoundland and Labrador
-Primary Agriculture    ,9,13,16,21,24,17,25,28,Newfoundland and Labrador
-Global Talent Stream   ,0,0,2,11,2,9,3,6,Newfoundland and Labrador
-Permanent Resident Only,3,3,0,1,0,1,0,2,Newfoundland and Labrador
-Unspecified            ,0,0,0,0,0,0,0,0,Newfoundland and Labrador
-High-wage              ,64,48,12,18,15,19,26,33,Prince Edward Island
-Low-wage               ,27,26,28,34,31,33,105,86,Prince Edward Island
-Primary Agriculture    ,63,66,73,74,92,97,127,128,Prince Edward Island
-Global Talent Stream   ,0,0,1,2,8,3,5,3,Prince Edward Island
-Permanent Resident Only,0,0,0,1,0,0,0,1,Prince Edward Island
-Unspecified            ,0,0,0,0,0,0,0,0,Prince Edward Island
-High-Wage,452,304,170,190,135,149,190,234,Nova Scotia
-Low-Wage,84,91,79,83,100,146,402,571,Nova Scotia
-Primary Agriculture,161,169,198,188,218,218,271,276,Nova Scotia
-Global Talent ,0,5,7,27,31,99,133,68,Nova Scotia
-Permanent Resident Only,3,1,2,0,3,2,10,7,Nova Scotia
-Unspecified          ,0,0,0,0,0,0,0,0,Nova Scotia
-High-Wage,321,189,117,105,79,117,188,142,New Brunswick
-Low-Wage,87,97,91,129,155,217,460,498,New Brunswick
-Primary Agriculture,42,38,39,54,56,73,91,114,New Brunswick
-Global Talent ,0,0,3,9,9,12,28,15,New Brunswick
-Permanent Resident Only,3,3,0,11,12,3,14,8,New Brunswick
-Unspecified          ,0,0,0,0,0,0,0,0,New Brunswick
-High-Wage,"2,342","2,351","2,078","3,225","3,479","3,193","7,670","6,891",Quebec
-Low-Wage,763,580,683,"1,324","2,005","1,580","8,389","12,582",Quebec
-Primary Agriculture,"3,440","2,904","3,281","4,894","4,614","5,750","6,965","6,529",Quebec
-Global Talent ,0,71,"1,001","1,869","1,279","1,916","3,389","2,045",Quebec
-Permanent Resident Only,1,0,0,0,0,0,0,0,Quebec
-Unspecified          ,9,2,0,0,0,0,0,0,Quebec
-High-Wage,"2,912","3,065","2,722","3,709","3,680","3,372","6,856","9,231",Ontario
-Low-Wage,"3,640","4,172","4,991","4,567","3,864","4,391","7,060","10,624",Ontario
-Primary Agriculture,"2,628","2,997","3,051","2,961","2,994","3,141","3,662","3,628",Ontario
-Global Talent ,0,262,747,"1,113","1,079","1,538","2,566","1,593",Ontario
-Permanent Resident Only,866,615,450,643,"1,403",811,806,"2,780",Ontario
-Unspecified          ,1,0,0,0,0,0,0,0,Ontario
-High-Wage,129,126,151,218,176,279,650,858,Manitoba
-Low-Wage,62,73,95,151,112,143,433,685,Manitoba
-Primary Agriculture,102,112,114,154,156,137,197,183,Manitoba
-Global Talent ,0,9,43,22,27,48,63,20,Manitoba
-Permanent Resident Only,15,4,4,6,8,8,3,8,Manitoba
-Unspecified          ,0,0,0,0,0,0,0,0,Manitoba
-High-Wage,184,139,113,132,83,140,227,268,Saskatchewan
-Low-Wage,180,191,183,224,137,202,580,716,Saskatchewan
-Primary Agriculture,178,179,179,281,256,244,328,329,Saskatchewan
-Global Talent ,0,0,7,17,9,28,19,5,Saskatchewan
-Permanent Resident Only,6,2,1,4,9,3,3,6,Saskatchewan
-Unspecified          ,0,0,0,0,0,0,0,0,Saskatchewan
-High-Wage,"1,340","1,107",883,"1,821",804,897,"2,889","3,626",Alberta
-Low-Wage,"3,974","4,045","3,443","4,810","2,910","3,603","8,419","9,838",Alberta
-Primary Agriculture,454,484,553,607,570,577,640,736,Alberta
-Global Talent ,0,11,72,98,67,169,268,140,Alberta
-Permanent Resident Only,539,139,132,125,88,104,289,240,Alberta
-Unspecified          ,3,0,0,0,0,0,0,0,Alberta
-High-Wage,"4,077","3,783","2,815","5,453","4,459","4,291","7,014","6,312",British Columbia
-Low-Wage,"2,949","4,309","5,166","6,612","5,335","5,751","9,447","9,156",British Columbia
-Primary Agriculture,"1,126","1,230","1,760","1,552","1,985","1,718","2,115","2,596",British Columbia
-Global Talent ,0,364,785,799,602,"1,038","1,496",569,British Columbia
-Permanent Resident Only,726,249,256,276,509,323,269,"1,046",British Columbia
-Unspecified          ,0,0,0,0,0,0,0,0,British Columbia
-High-Wage,70,93,96,108,33,118,115,113,Yukon 
-Low-Wage,26,15,9,23,5,6,17,15,Yukon 
-Primary Agriculture,0,0,0,0,0,0,0,0,Yukon 
-Global Talent ,0,0,0,0,1,0,0,0,Yukon 
-Permanent Resident Only,0,1,0,0,0,0,0,0,Yukon 
-Unspecified          ,0,0,0,0,0,0,0,0,Yukon 
-High-Wage,25,23,2,9,1,0,8,9,Northwest Territories
-Low-Wage,35,22,18,28,21,20,45,43,Northwest Territories
-Primary Agriculture,0,0,0,1,1,1,1,0,Northwest Territories
-Global Talent ,0,0,0,0,0,0,1,2,Northwest Territories
-Permanent Resident Only,0,0,0,0,0,0,0,0,Northwest Territories
-Unspecified          ,0,0,0,0,0,0,0,0,Northwest Territories
-High-Wage,57,20,43,16,13,18,12,27,Nunavut
-Low-Wage,73,6,61,44,10,25,29,54,Nunavut
-Primary Agriculture,0,0,0,0,0,0,0,0,Nunavut
-Global Talent ,0,0,0,0,0,0,0,1,Nunavut
-Permanent Resident Only,0,1,0,0,0,0,0,0,Nunavut
-Unspecified          ,0,0,0,0,0,0,0,0,Nunavut
+program_stream,2016,2017,2018,2019,2020,2021,2022,2023,province_region
+High-wage,13085.0,12198.0,9438.0,15257.0,13372.0,12898.0,26244.0,28055.0,Canada
+Low-wage,12016.0,13692.0,14887.0,18066.0,14723.0,16171.0,35483.0,44992.0,Canada
+Primary Agriculture,8203.0,8192.0,9264.0,10787.0,10966.0,11973.0,14422.0,14547.0,Canada
+Global Talent Stream,0.0,722.0,2668.0,3967.0,3114.0,4860.0,7971.0,4467.0,Canada
+Permanent Resident Only,2162.0,1018.0,845.0,1067.0,2032.0,1255.0,1394.0,4098.0,Canada
+Unspecified,13.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Canada
+High-wage,1112.0,950.0,236.0,253.0,415.0,305.0,399.0,311.0,Newfoundland and Labrador
+Low-wage,116.0,65.0,40.0,37.0,38.0,54.0,97.0,124.0,Newfoundland and Labrador
+Primary Agriculture,9.0,13.0,16.0,21.0,24.0,17.0,25.0,28.0,Newfoundland and Labrador
+Global Talent Stream,0.0,0.0,2.0,11.0,2.0,9.0,3.0,6.0,Newfoundland and Labrador
+Permanent Resident Only,3.0,3.0,0.0,1.0,0.0,1.0,0.0,2.0,Newfoundland and Labrador
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newfoundland and Labrador
+High-wage,64.0,48.0,12.0,18.0,15.0,19.0,26.0,33.0,Prince Edward Island
+Low-wage,27.0,26.0,28.0,34.0,31.0,33.0,105.0,86.0,Prince Edward Island
+Primary Agriculture,63.0,66.0,73.0,74.0,92.0,97.0,127.0,128.0,Prince Edward Island
+Global Talent Stream,0.0,0.0,1.0,2.0,8.0,3.0,5.0,3.0,Prince Edward Island
+Permanent Resident Only,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Prince Edward Island
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Prince Edward Island
+High-Wage,452.0,304.0,170.0,190.0,135.0,149.0,190.0,234.0,Nova Scotia
+Low-Wage,84.0,91.0,79.0,83.0,100.0,146.0,402.0,571.0,Nova Scotia
+Primary Agriculture,161.0,169.0,198.0,188.0,218.0,218.0,271.0,276.0,Nova Scotia
+Global Talent,0.0,5.0,7.0,27.0,31.0,99.0,133.0,68.0,Nova Scotia
+Permanent Resident Only,3.0,1.0,2.0,0.0,3.0,2.0,10.0,7.0,Nova Scotia
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nova Scotia
+High-Wage,321.0,189.0,117.0,105.0,79.0,117.0,188.0,142.0,New Brunswick
+Low-Wage,87.0,97.0,91.0,129.0,155.0,217.0,460.0,498.0,New Brunswick
+Primary Agriculture,42.0,38.0,39.0,54.0,56.0,73.0,91.0,114.0,New Brunswick
+Global Talent,0.0,0.0,3.0,9.0,9.0,12.0,28.0,15.0,New Brunswick
+Permanent Resident Only,3.0,3.0,0.0,11.0,12.0,3.0,14.0,8.0,New Brunswick
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,New Brunswick
+High-Wage,2342.0,2351.0,2078.0,3225.0,3479.0,3193.0,7670.0,6891.0,Quebec
+Low-Wage,763.0,580.0,683.0,1324.0,2005.0,1580.0,8389.0,12582.0,Quebec
+Primary Agriculture,3440.0,2904.0,3281.0,4894.0,4614.0,5750.0,6965.0,6529.0,Quebec
+Global Talent,0.0,71.0,1001.0,1869.0,1279.0,1916.0,3389.0,2045.0,Quebec
+Permanent Resident Only,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Quebec
+Unspecified,9.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Quebec
+High-Wage,2912.0,3065.0,2722.0,3709.0,3680.0,3372.0,6856.0,9231.0,Ontario
+Low-Wage,3640.0,4172.0,4991.0,4567.0,3864.0,4391.0,7060.0,10624.0,Ontario
+Primary Agriculture,2628.0,2997.0,3051.0,2961.0,2994.0,3141.0,3662.0,3628.0,Ontario
+Global Talent,0.0,262.0,747.0,1113.0,1079.0,1538.0,2566.0,1593.0,Ontario
+Permanent Resident Only,866.0,615.0,450.0,643.0,1403.0,811.0,806.0,2780.0,Ontario
+Unspecified,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ontario
+High-Wage,129.0,126.0,151.0,218.0,176.0,279.0,650.0,858.0,Manitoba
+Low-Wage,62.0,73.0,95.0,151.0,112.0,143.0,433.0,685.0,Manitoba
+Primary Agriculture,102.0,112.0,114.0,154.0,156.0,137.0,197.0,183.0,Manitoba
+Global Talent,0.0,9.0,43.0,22.0,27.0,48.0,63.0,20.0,Manitoba
+Permanent Resident Only,15.0,4.0,4.0,6.0,8.0,8.0,3.0,8.0,Manitoba
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Manitoba
+High-Wage,184.0,139.0,113.0,132.0,83.0,140.0,227.0,268.0,Saskatchewan
+Low-Wage,180.0,191.0,183.0,224.0,137.0,202.0,580.0,716.0,Saskatchewan
+Primary Agriculture,178.0,179.0,179.0,281.0,256.0,244.0,328.0,329.0,Saskatchewan
+Global Talent,0.0,0.0,7.0,17.0,9.0,28.0,19.0,5.0,Saskatchewan
+Permanent Resident Only,6.0,2.0,1.0,4.0,9.0,3.0,3.0,6.0,Saskatchewan
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Saskatchewan
+High-Wage,1340.0,1107.0,883.0,1821.0,804.0,897.0,2889.0,3626.0,Alberta
+Low-Wage,3974.0,4045.0,3443.0,4810.0,2910.0,3603.0,8419.0,9838.0,Alberta
+Primary Agriculture,454.0,484.0,553.0,607.0,570.0,577.0,640.0,736.0,Alberta
+Global Talent,0.0,11.0,72.0,98.0,67.0,169.0,268.0,140.0,Alberta
+Permanent Resident Only,539.0,139.0,132.0,125.0,88.0,104.0,289.0,240.0,Alberta
+Unspecified,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Alberta
+High-Wage,4077.0,3783.0,2815.0,5453.0,4459.0,4291.0,7014.0,6312.0,British Columbia
+Low-Wage,2949.0,4309.0,5166.0,6612.0,5335.0,5751.0,9447.0,9156.0,British Columbia
+Primary Agriculture,1126.0,1230.0,1760.0,1552.0,1985.0,1718.0,2115.0,2596.0,British Columbia
+Global Talent,0.0,364.0,785.0,799.0,602.0,1038.0,1496.0,569.0,British Columbia
+Permanent Resident Only,726.0,249.0,256.0,276.0,509.0,323.0,269.0,1046.0,British Columbia
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,British Columbia
+High-Wage,70.0,93.0,96.0,108.0,33.0,118.0,115.0,113.0,Yukon
+Low-Wage,26.0,15.0,9.0,23.0,5.0,6.0,17.0,15.0,Yukon
+Primary Agriculture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yukon
+Global Talent,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Yukon
+Permanent Resident Only,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yukon
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Yukon
+High-Wage,25.0,23.0,2.0,9.0,1.0,0.0,8.0,9.0,Northwest Territories
+Low-Wage,35.0,22.0,18.0,28.0,21.0,20.0,45.0,43.0,Northwest Territories
+Primary Agriculture,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,Northwest Territories
+Global Talent,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,Northwest Territories
+Permanent Resident Only,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Northwest Territories
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Northwest Territories
+High-Wage,57.0,20.0,43.0,16.0,13.0,18.0,12.0,27.0,Nunavut
+Low-Wage,73.0,6.0,61.0,44.0,10.0,25.0,29.0,54.0,Nunavut
+Primary Agriculture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nunavut
+Global Talent,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Nunavut
+Permanent Resident Only,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Nunavut
+Unspecified,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nunavut

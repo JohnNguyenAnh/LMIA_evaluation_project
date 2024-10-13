@@ -1,761 +1,761 @@
-Province_Territory,2016,2017,2018,2019,2020,2021,2022,2023,Region_Code,Region_Name,NOC_Code,Occupational_Skill_Type
-Newfoundland and Labrador,16,10,8,7,0,3,2,2,1010,Avalon Peninsula,0,Management occupations 
-Newfoundland and Labrador,0,1,5,1,0,0,0,5,1010,Avalon Peninsula,1,"Business, finance and administration occupations "
-Newfoundland and Labrador,77,26,8,28,4,15,6,8,1010,Avalon Peninsula,2,Natural and applied sciences and related occupations 
-Newfoundland and Labrador,1,1,1,1,6,2,1,6,1010,Avalon Peninsula,3,Health occupations 
-Newfoundland and Labrador,21,9,9,6,3,1,5,2,1010,Avalon Peninsula,4,"Occupations in education, law and social, community and government services "
-Newfoundland and Labrador,8,2,1,3,2,1,0,0,1010,Avalon Peninsula,5,"Occupations in art, culture, recreation and sport "
-Newfoundland and Labrador,37,18,15,22,9,7,53,94,1010,Avalon Peninsula,6,Sales and service occupations 
-Newfoundland and Labrador,24,19,23,1,9,3,17,8,1010,Avalon Peninsula,7,"Trades, transport and equipment operators and related occupations "
-Newfoundland and Labrador,34,21,24,28,46,37,52,45,1010,Avalon Peninsula,8,"Natural resources, agriculture and related production occupations "
-Newfoundland and Labrador,1,37,58,4,0,5,447,670,1010,Avalon Peninsula,9,Occupations in manufacturing and utilities 
-Newfoundland and Labrador,0,1,1,0,0,1,2,2,1020,South Coast--Burin Peninsula,0,Management occupations 
-Newfoundland and Labrador ,0,0,0,0,0,0,0,0,1020,South Coast--Burin Peninsula,1,"Business, finance and administration occupations "
-Newfoundland and Labrador,0,0,0,1,0,1,9,1,1020,South Coast--Burin Peninsula,2,Natural and applied sciences and related occupations 
-Newfoundland and Labrador,0,0,3,2,2,0,0,2,1020,South Coast--Burin Peninsula,3,Health occupations 
-Newfoundland and Labrador,1,0,0,0,0,0,1,1,1020,South Coast--Burin Peninsula,4,"Occupations in education, law and social, community and government services "
-Newfoundland and Labrador ,0,0,0,0,0,0,0,0,1020,South Coast--Burin Peninsula,5,"Occupations in art, culture, recreation and sport "
-Newfoundland and Labrador,0,1,0,0,0,2,0,4,1020,South Coast--Burin Peninsula,6,Sales and service occupations 
-Newfoundland and Labrador,0,3,0,0,0,0,2,2,1020,South Coast--Burin Peninsula,7,"Trades, transport and equipment operators and related occupations "
-Newfoundland and Labrador,0,4,0,0,0,0,0,0,1020,South Coast--Burin Peninsula,8,"Natural resources, agriculture and related production occupations "
-Newfoundland and Labrador,0,0,0,0,0,0,22,49,1020,South Coast--Burin Peninsula,9,Occupations in manufacturing and utilities 
-Newfoundland and Labrador,3,0,5,0,0,1,0,1,1030,West Coast--Northern Peninsula--Labrador,0,Management occupations 
-Newfoundland and Labrador,0,0,0,0,0,0,0,2,1030,West Coast--Northern Peninsula--Labrador,1,"Business, finance and administration occupations "
-Newfoundland and Labrador,2,1,2,1,0,0,0,1,1030,West Coast--Northern Peninsula--Labrador,2,Natural and applied sciences and related occupations 
-Newfoundland and Labrador,13,7,1,5,9,2,4,8,1030,West Coast--Northern Peninsula--Labrador,3,Health occupations 
-Newfoundland and Labrador,1,1,1,0,0,0,0,2,1030,West Coast--Northern Peninsula--Labrador,4,"Occupations in education, law and social, community and government services "
-Newfoundland and Labrador,1,0,0,0,0,0,0,1,1030,West Coast--Northern Peninsula--Labrador,5,"Occupations in art, culture, recreation and sport "
-Newfoundland and Labrador,18,8,23,18,7,26,48,36,1030,West Coast--Northern Peninsula--Labrador,6,Sales and service occupations 
-Newfoundland and Labrador,3,3,6,3,0,3,7,11,1030,West Coast--Northern Peninsula--Labrador,7,"Trades, transport and equipment operators and related occupations "
-Newfoundland and Labrador,8,13,18,12,19,21,36,44,1030,West Coast--Northern Peninsula--Labrador,8,"Natural resources, agriculture and related production occupations "
-Newfoundland and Labrador,0,1,0,0,10,0,13,45,1030,West Coast--Northern Peninsula--Labrador,9,Occupations in manufacturing and utilities 
-Newfoundland and Labrador,0,1,0,0,0,2,2,5,1040,Notre Dame--Central Bonavista Bay,0,Management occupations 
-Newfoundland and Labrador,0,0,0,0,0,0,0,4,1040,Notre Dame--Central Bonavista Bay,1,"Business, finance and administration occupations "
-Newfoundland and Labrador,2,0,1,0,0,1,0,0,1040,Notre Dame--Central Bonavista Bay,2,Natural and applied sciences and related occupations 
-Newfoundland and Labrador,9,1,3,5,11,12,10,7,1040,Notre Dame--Central Bonavista Bay,3,Health occupations 
-Newfoundland and Labrador,1,1,1,1,0,0,0,1,1040,Notre Dame--Central Bonavista Bay,4,"Occupations in education, law and social, community and government services "
-Newfoundland and Labrador,1,0,0,3,0,0,0,0,1040,Notre Dame--Central Bonavista Bay,5,"Occupations in art, culture, recreation and sport "
-Newfoundland and Labrador,3,3,0,1,1,6,20,26,1040,Notre Dame--Central Bonavista Bay,6,Sales and service occupations 
-Newfoundland and Labrador,0,3,0,0,0,0,1,1,1040,Notre Dame--Central Bonavista Bay,7,"Trades, transport and equipment operators and related occupations "
-Newfoundland and Labrador,2,3,2,18,16,20,21,32,1040,Notre Dame--Central Bonavista Bay,8,"Natural resources, agriculture and related production occupations "
-Newfoundland and Labrador,0,0,0,12,10,18,99,86,1040,Notre Dame--Central Bonavista Bay,9,Occupations in manufacturing and utilities 
-Prince Edward Island     ,9,4,4,3,9,7,4,6,1110,Prince Edward Island,0,Management occupations 
-Prince Edward Island     ,1,1,0,1,0,2,2,7,1110,Prince Edward Island,1,"Business, finance and administration occupations "
-Prince Edward Island     ,32,13,2,1,4,2,5,5,1110,Prince Edward Island,2,Natural and applied sciences and related occupations 
-Prince Edward Island     ,4,4,0,5,4,1,4,8,1110,Prince Edward Island,3,Health occupations 
-Prince Edward Island     ,6,3,4,5,0,3,2,2,1110,Prince Edward Island,4,"Occupations in education, law and social, community and government services "
-Prince Edward Island     ,8,1,0,1,0,0,1,0,1110,Prince Edward Island,5,"Occupations in art, culture, recreation and sport "
-Prince Edward Island     ,11,14,8,14,10,16,120,75,1110,Prince Edward Island,6,Sales and service occupations 
-Prince Edward Island     ,68,105,114,86,62,67,125,106,1110,Prince Edward Island,7,"Trades, transport and equipment operators and related occupations "
-Prince Edward Island     ,358,418,406,526,754,514,687,761,1110,Prince Edward Island,8,"Natural resources, agriculture and related production occupations "
-Prince Edward Island     ,449,493,474,537,881,892,"1,341",741,1110,Prince Edward Island,9,Occupations in manufacturing and utilities 
-Nova Scotia              ,0,0,0,1,2,1,4,7,1210,Cape Breton,0,Management occupations 
-Nova Scotia              ,0,0,0,0,0,0,0,5,1210,Cape Breton,1,"Business, finance and administration occupations "
-Nova Scotia              ,12,3,3,4,0,0,5,0,1210,Cape Breton,2,Natural and applied sciences and related occupations 
-Nova Scotia              ,8,4,0,0,1,0,1,0,1210,Cape Breton,3,Health occupations 
-Nova Scotia              ,1,2,2,0,2,2,0,2,1210,Cape Breton,4,"Occupations in education, law and social, community and government services "
-Nova Scotia,0,0,0,0,0,0,0,0,1210,Cape Breton,5,"Occupations in art, culture, recreation and sport "
-Nova Scotia              ,9,6,8,8,1,5,14,125,1210,Cape Breton,6,Sales and service occupations 
-Nova Scotia              ,11,0,6,0,0,0,1,8,1210,Cape Breton,7,"Trades, transport and equipment operators and related occupations "
-Nova Scotia              ,18,0,0,0,0,0,0,8,1210,Cape Breton,8,"Natural resources, agriculture and related production occupations "
-Nova Scotia              ,38,94,73,56,155,187,312,230,1210,Cape Breton,9,Occupations in manufacturing and utilities 
-Nova Scotia              ,4,2,2,4,1,0,7,6,1220,North Shore,0,Management occupations 
-Nova Scotia              ,3,4,0,4,0,1,8,6,1220,North Shore,1,"Business, finance and administration occupations "
-Nova Scotia              ,5,5,3,2,0,0,1,0,1220,North Shore,2,Natural and applied sciences and related occupations 
-Nova Scotia              ,8,2,1,1,3,1,2,1,1220,North Shore,3,Health occupations 
-Nova Scotia              ,2,2,2,3,6,3,0,3,1220,North Shore,4,"Occupations in education, law and social, community and government services "
-Nova Scotia,0,0,0,0,0,0,0,0,1220,North Shore,5,"Occupations in art, culture, recreation and sport "
-Nova Scotia              ,11,6,2,15,14,14,69,122,1220,North Shore,6,Sales and service occupations 
-Nova Scotia              ,12,4,18,0,0,10,20,27,1220,North Shore,7,"Trades, transport and equipment operators and related occupations "
-Nova Scotia              ,326,431,955,488,489,558,887,635,1220,North Shore,8,"Natural resources, agriculture and related production occupations "
-Nova Scotia              ,75,126,90,148,191,453,399,156,1220,North Shore,9,Occupations in manufacturing and utilities 
-Nova Scotia              ,3,1,2,0,1,3,1,3,1230,Annapolis Valley,0,Management occupations 
-Nova Scotia              ,0,0,2,0,1,0,2,2,1230,Annapolis Valley,1,"Business, finance and administration occupations "
-Nova Scotia              ,0,0,0,1,2,2,7,2,1230,Annapolis Valley,2,Natural and applied sciences and related occupations 
-Nova Scotia              ,2,0,7,1,2,1,1,0,1230,Annapolis Valley,3,Health occupations 
-Nova Scotia              ,0,1,1,1,0,1,0,0,1230,Annapolis Valley,4,"Occupations in education, law and social, community and government services "
-Nova Scotia              ,1,0,0,0,0,0,0,0,1230,Annapolis Valley,5,"Occupations in art, culture, recreation and sport "
-Nova Scotia              ,14,11,9,13,11,12,84,162,1230,Annapolis Valley,6,Sales and service occupations 
-Nova Scotia              ,16,37,35,21,3,45,64,30,1230,Annapolis Valley,7,"Trades, transport and equipment operators and related occupations "
-Nova Scotia              ,"1,178","1,318","1,631","1,240","1,622","1,667","1,747","1,949",1230,Annapolis Valley,8,"Natural resources, agriculture and related production occupations "
-Nova Scotia              ,0,0,7,0,32,65,84,190,1230,Annapolis Valley,9,Occupations in manufacturing and utilities 
-Nova Scotia              ,1,4,0,1,1,2,3,1,1240,Southern,0,Management occupations 
-Nova Scotia              ,0,0,0,0,0,2,3,6,1240,Southern,1,"Business, finance and administration occupations "
-Nova Scotia              ,3,0,2,0,0,2,6,1,1240,Southern,2,Natural and applied sciences and related occupations 
-Nova Scotia              ,3,1,1,0,0,1,0,0,1240,Southern,3,Health occupations 
-Nova Scotia              ,0,1,1,1,0,0,2,0,1240,Southern,4,"Occupations in education, law and social, community and government services "
-Nova Scotia              ,3,0,0,0,0,0,0,1,1240,Southern,5,"Occupations in art, culture, recreation and sport "
-Nova Scotia              ,6,2,4,4,3,36,104,108,1240,Southern,6,Sales and service occupations 
-Nova Scotia              ,1,0,0,0,2,22,28,17,1240,Southern,7,"Trades, transport and equipment operators and related occupations "
-Nova Scotia              ,86,115,105,197,165,159,201,238,1240,Southern,8,"Natural resources, agriculture and related production occupations "
-Nova Scotia              ,52,104,83,178,208,489,571,401,1240,Southern,9,Occupations in manufacturing and utilities 
-Nova Scotia              ,39,47,39,36,34,38,41,37,1250,Halifax,0,Management occupations 
-Nova Scotia              ,7,3,6,2,4,14,34,60,1250,Halifax,1,"Business, finance and administration occupations "
-Nova Scotia              ,101,39,29,40,32,97,139,70,1250,Halifax,2,Natural and applied sciences and related occupations 
-Nova Scotia              ,5,3,2,1,2,4,7,16,1250,Halifax,3,Health occupations 
-Nova Scotia              ,18,22,34,18,15,22,6,17,1250,Halifax,4,"Occupations in education, law and social, community and government services "
-Nova Scotia              ,10,3,22,7,0,1,4,2,1250,Halifax,5,"Occupations in art, culture, recreation and sport "
-Nova Scotia              ,64,66,44,52,40,55,297,375,1250,Halifax,6,Sales and service occupations 
-Nova Scotia              ,37,63,113,121,34,83,287,248,1250,Halifax,7,"Trades, transport and equipment operators and related occupations "
-Nova Scotia              ,22,23,29,35,69,20,61,99,1250,Halifax,8,"Natural resources, agriculture and related production occupations "
-Nova Scotia              ,11,0,6,0,14,3,58,27,1250,Halifax,9,Occupations in manufacturing and utilities 
-New Brunswick            ,0,1,0,0,0,1,3,1,1310,Campbellton--Miramichi,0,Management occupations 
-New Brunswick            ,0,0,1,1,1,0,3,3,1310,Campbellton--Miramichi,1,"Business, finance and administration occupations "
-New Brunswick            ,0,0,1,0,0,0,1,0,1310,Campbellton--Miramichi,2,Natural and applied sciences and related occupations 
-New Brunswick            ,2,3,0,1,0,3,5,105,1310,Campbellton--Miramichi,3,Health occupations 
-New Brunswick            ,2,1,4,0,0,3,1,1,1310,Campbellton--Miramichi,4,"Occupations in education, law and social, community and government services "
-New Brunswick,0,0,0,0,0,0,0,0,1310,Campbellton--Miramichi,5,"Occupations in art, culture, recreation and sport "
-New Brunswick            ,6,5,4,11,9,27,54,82,1310,Campbellton--Miramichi,6,Sales and service occupations 
-New Brunswick            ,1,0,0,0,0,46,21,30,1310,Campbellton--Miramichi,7,"Trades, transport and equipment operators and related occupations "
-New Brunswick            ,17,6,5,8,4,3,18,35,1310,Campbellton--Miramichi,8,"Natural resources, agriculture and related production occupations "
-New Brunswick            ,41,50,165,177,231,603,"1,215",664,1310,Campbellton--Miramichi,9,Occupations in manufacturing and utilities 
-New Brunswick            ,2,1,0,1,5,5,11,5,1320,Moncton--Richibucto,0,Management occupations 
-New Brunswick            ,8,0,2,2,1,4,13,10,1320,Moncton--Richibucto,1,"Business, finance and administration occupations "
-New Brunswick            ,4,2,6,5,1,8,8,16,1320,Moncton--Richibucto,2,Natural and applied sciences and related occupations 
-New Brunswick            ,3,7,2,3,9,15,17,87,1320,Moncton--Richibucto,3,Health occupations 
-New Brunswick            ,1,3,1,3,1,6,5,12,1320,Moncton--Richibucto,4,"Occupations in education, law and social, community and government services "
-New Brunswick            ,1,0,0,0,0,0,1,0,1320,Moncton--Richibucto,5,"Occupations in art, culture, recreation and sport "
-New Brunswick            ,36,42,41,56,60,77,169,215,1320,Moncton--Richibucto,6,Sales and service occupations 
-New Brunswick            ,11,15,16,12,38,122,330,264,1320,Moncton--Richibucto,7,"Trades, transport and equipment operators and related occupations "
-New Brunswick            ,74,74,98,121,137,136,250,228,1320,Moncton--Richibucto,8,"Natural resources, agriculture and related production occupations "
-New Brunswick            ,717,"1,131",667,929,"1,854","1,201","3,784","2,045",1320,Moncton--Richibucto,9,Occupations in manufacturing and utilities 
-New Brunswick            ,3,2,3,0,4,6,10,18,1330,Saint John--St. Stephen,0,Management occupations 
-New Brunswick            ,2,0,1,2,1,6,12,6,1330,Saint John--St. Stephen,1,"Business, finance and administration occupations "
-New Brunswick            ,12,7,8,7,2,3,8,14,1330,Saint John--St. Stephen,2,Natural and applied sciences and related occupations 
-New Brunswick            ,5,7,3,4,1,3,7,5,1330,Saint John--St. Stephen,3,Health occupations 
-New Brunswick            ,3,5,3,2,3,4,15,2,1330,Saint John--St. Stephen,4,"Occupations in education, law and social, community and government services "
-New Brunswick            ,0,0,0,0,0,0,0,1,1330,Saint John--St. Stephen,5,"Occupations in art, culture, recreation and sport "
-New Brunswick            ,14,6,1,17,22,35,108,117,1330,Saint John--St. Stephen,6,Sales and service occupations 
-New Brunswick            ,40,40,32,45,41,68,70,24,1330,Saint John--St. Stephen,7,"Trades, transport and equipment operators and related occupations "
-New Brunswick            ,48,64,26,64,59,67,95,179,1330,Saint John--St. Stephen,8,"Natural resources, agriculture and related production occupations "
-New Brunswick            ,7,45,0,0,40,22,94,59,1330,Saint John--St. Stephen,9,Occupations in manufacturing and utilities 
-New Brunswick            ,0,1,0,2,4,1,4,6,1340,Fredericton--Oromocto,0,Management occupations 
-New Brunswick            ,0,1,0,0,2,1,7,3,1340,Fredericton--Oromocto,1,"Business, finance and administration occupations "
-New Brunswick            ,2,3,1,11,7,5,21,9,1340,Fredericton--Oromocto,2,Natural and applied sciences and related occupations 
-New Brunswick            ,0,0,1,0,1,0,4,0,1340,Fredericton--Oromocto,3,Health occupations 
-New Brunswick            ,2,5,0,2,0,0,1,4,1340,Fredericton--Oromocto,4,"Occupations in education, law and social, community and government services "
-New Brunswick            ,0,0,0,0,0,1,0,0,1340,Fredericton--Oromocto,5,"Occupations in art, culture, recreation and sport "
-New Brunswick            ,25,21,18,24,27,29,72,135,1340,Fredericton--Oromocto,6,Sales and service occupations 
-New Brunswick            ,1,1,2,0,3,2,14,9,1340,Fredericton--Oromocto,7,"Trades, transport and equipment operators and related occupations "
-New Brunswick            ,4,6,8,84,29,145,90,84,1340,Fredericton--Oromocto,8,"Natural resources, agriculture and related production occupations "
-New Brunswick            ,0,0,2,0,0,33,75,10,1340,Fredericton--Oromocto,9,Occupations in manufacturing and utilities 
-New Brunswick            ,2,0,0,0,0,0,3,1,1350,Edmundston--Woodstock,0,Management occupations 
-New Brunswick            ,1,1,0,1,0,0,3,3,1350,Edmundston--Woodstock,1,"Business, finance and administration occupations "
-New Brunswick            ,2,0,0,3,0,0,0,0,1350,Edmundston--Woodstock,2,Natural and applied sciences and related occupations 
-New Brunswick            ,1,0,0,0,0,1,0,31,1350,Edmundston--Woodstock,3,Health occupations 
-New Brunswick            ,1,2,1,3,0,0,0,1,1350,Edmundston--Woodstock,4,"Occupations in education, law and social, community and government services "
-New Brunswick,0,0,0,0,0,0,0,0,1350,Edmundston--Woodstock,5,"Occupations in art, culture, recreation and sport "
-New Brunswick            ,4,1,1,15,7,0,33,56,1350,Edmundston--Woodstock,6,Sales and service occupations 
-New Brunswick            ,74,71,126,190,100,98,169,73,1350,Edmundston--Woodstock,7,"Trades, transport and equipment operators and related occupations "
-New Brunswick            ,41,42,60,104,152,169,222,272,1350,Edmundston--Woodstock,8,"Natural resources, agriculture and related production occupations "
-New Brunswick            ,0,0,0,16,9,27,58,37,1350,Edmundston--Woodstock,9,Occupations in manufacturing and utilities 
-Quebec                   ,1,2,0,0,0,2,3,7,2410,Gaspésie -- Îles-de-la-Madeleine,0,Management occupations 
-Quebec                   ,0,1,0,0,1,0,3,5,2410,Gaspésie -- Îles-de-la-Madeleine,1,"Business, finance and administration occupations "
-Quebec                   ,0,0,9,2,2,2,4,11,2410,Gaspésie -- Îles-de-la-Madeleine,2,Natural and applied sciences and related occupations 
-Quebec                   ,3,1,2,0,5,8,13,45,2410,Gaspésie -- Îles-de-la-Madeleine,3,Health occupations 
-Quebec                   ,0,0,0,0,0,1,2,2,2410,Gaspésie -- Îles-de-la-Madeleine,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,0,0,1,0,0,1,2,2,2410,Gaspésie -- Îles-de-la-Madeleine,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,5,7,3,11,5,24,61,112,2410,Gaspésie -- Îles-de-la-Madeleine,6,Sales and service occupations 
-Quebec                   ,0,0,10,5,5,9,20,29,2410,Gaspésie -- Îles-de-la-Madeleine,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,24,8,27,32,37,41,61,18,2410,Gaspésie -- Îles-de-la-Madeleine,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,3,38,86,150,115,220,688,655,2410,Gaspésie -- Îles-de-la-Madeleine,9,Occupations in manufacturing and utilities 
-Quebec                   ,1,2,0,5,1,0,5,11,2415,Bas-Saint-Laurent,0,Management occupations 
-Quebec                   ,0,2,4,6,2,4,10,8,2415,Bas-Saint-Laurent,1,"Business, finance and administration occupations "
-Quebec                   ,3,4,19,16,10,6,10,19,2415,Bas-Saint-Laurent,2,Natural and applied sciences and related occupations 
-Quebec                   ,1,1,3,3,20,22,65,66,2415,Bas-Saint-Laurent,3,Health occupations 
-Quebec                   ,0,0,2,0,0,1,6,2,2415,Bas-Saint-Laurent,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,0,0,0,1,1,1,3,4,2415,Bas-Saint-Laurent,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,1,1,14,13,25,25,156,225,2415,Bas-Saint-Laurent,6,Sales and service occupations 
-Quebec                   ,7,3,12,18,30,36,137,191,2415,Bas-Saint-Laurent,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,97,126,146,299,244,346,506,484,2415,Bas-Saint-Laurent,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,2,41,39,74,95,163,352,465,2415,Bas-Saint-Laurent,9,Occupations in manufacturing and utilities 
-Quebec                   ,10,6,12,24,14,20,69,96,2420,Capitale-Nationale,0,Management occupations 
-Quebec                   ,4,7,4,17,47,43,178,174,2420,Capitale-Nationale,1,"Business, finance and administration occupations "
-Quebec                   ,86,193,477,715,360,552,"1,098",775,2420,Capitale-Nationale,2,Natural and applied sciences and related occupations 
-Quebec                   ,6,11,8,45,176,149,386,405,2420,Capitale-Nationale,3,Health occupations 
-Quebec                   ,7,3,11,11,16,29,53,77,2420,Capitale-Nationale,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,89,58,31,50,33,23,44,60,2420,Capitale-Nationale,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,33,54,84,188,342,151,"1,500","1,618",2420,Capitale-Nationale,6,Sales and service occupations 
-Quebec                   ,26,46,104,234,348,287,832,845,2420,Capitale-Nationale,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,"1,174","1,180","1,237","1,396","1,342","1,881","2,040","1,757",2420,Capitale-Nationale,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,0,0,1,83,119,137,609,389,2420,Capitale-Nationale,9,Occupations in manufacturing and utilities 
-Quebec                   ,2,0,2,7,3,2,15,14,2425,Chaudière-Appalaches,0,Management occupations 
-Quebec                   ,3,1,1,7,4,11,32,66,2425,Chaudière-Appalaches,1,"Business, finance and administration occupations "
-Quebec                   ,36,38,50,102,57,49,204,119,2425,Chaudière-Appalaches,2,Natural and applied sciences and related occupations 
-Quebec                   ,0,0,6,45,54,57,145,168,2425,Chaudière-Appalaches,3,Health occupations 
-Quebec                   ,1,0,0,0,3,2,11,16,2425,Chaudière-Appalaches,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,0,1,0,1,1,1,1,5,2425,Chaudière-Appalaches,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,8,5,26,113,180,83,583,539,2425,Chaudière-Appalaches,6,Sales and service occupations 
-Quebec                   ,83,141,264,454,592,396,"1,511",952,2425,Chaudière-Appalaches,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,873,751,"1,026","1,631","1,497","2,103","2,411","1,957",2425,Chaudière-Appalaches,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,11,156,179,653,664,486,"1,702",864,2425,Chaudière-Appalaches,9,Occupations in manufacturing and utilities 
-Quebec                   ,6,4,4,1,2,4,8,12,2430,Estrie,0,Management occupations 
-Quebec                   ,4,1,0,6,8,8,28,41,2430,Estrie,1,"Business, finance and administration occupations "
-Quebec                   ,25,15,40,64,94,109,155,135,2430,Estrie,2,Natural and applied sciences and related occupations 
-Quebec                   ,30,7,5,12,25,20,56,73,2430,Estrie,3,Health occupations 
-Quebec                   ,6,0,2,6,9,19,26,22,2430,Estrie,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,3,1,2,2,2,7,4,8,2430,Estrie,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,6,11,18,27,44,31,262,354,2430,Estrie,6,Sales and service occupations 
-Quebec                   ,13,43,82,177,179,123,417,310,2430,Estrie,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,397,574,717,947,977,931,"1,082",985,2430,Estrie,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,0,7,22,43,102,73,502,402,2430,Estrie,9,Occupations in manufacturing and utilities 
-Quebec                   ,0,1,3,7,2,4,6,7,2433,Centre-du-Québec,0,Management occupations 
-Quebec                   ,1,0,0,2,0,6,17,40,2433,Centre-du-Québec,1,"Business, finance and administration occupations "
-Quebec                   ,10,4,9,77,27,50,83,101,2433,Centre-du-Québec,2,Natural and applied sciences and related occupations 
-Quebec                   ,0,0,0,5,25,20,49,74,2433,Centre-du-Québec,3,Health occupations 
-Quebec                   ,5,2,3,4,13,5,13,22,2433,Centre-du-Québec,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,1,0,0,2,0,1,7,2,2433,Centre-du-Québec,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,5,4,7,23,35,37,270,248,2433,Centre-du-Québec,6,Sales and service occupations 
-Quebec                   ,29,57,107,275,283,241,664,633,2433,Centre-du-Québec,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,863,785,"1,124","1,537","1,494","1,826","2,037","1,908",2433,Centre-du-Québec,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,8,14,106,149,288,264,997,589,2433,Centre-du-Québec,9,Occupations in manufacturing and utilities 
-Quebec                   ,14,14,13,20,21,21,45,69,2435,Montérégie,0,Management occupations 
-Quebec                   ,7,11,11,10,22,27,162,199,2435,Montérégie,1,"Business, finance and administration occupations "
-Quebec                   ,37,23,34,28,59,87,199,218,2435,Montérégie,2,Natural and applied sciences and related occupations 
-Quebec                   ,14,6,19,87,100,100,267,428,2435,Montérégie,3,Health occupations 
-Quebec                   ,17,22,17,21,43,36,109,174,2435,Montérégie,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,8,5,5,3,8,2,5,20,2435,Montérégie,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,14,21,32,96,185,158,799,"1,314",2435,Montérégie,6,Sales and service occupations 
-Quebec                   ,25,58,202,433,525,310,"1,820","1,661",2435,Montérégie,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,"7,687","5,721","6,191","9,798","8,199","9,192","11,586","10,055",2435,Montérégie,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,252,297,356,582,"1,049",860,"2,568","1,783",2435,Montérégie,9,Occupations in manufacturing and utilities 
-Quebec                   ,83,89,97,114,134,141,260,282,2440,Montréal,0,Management occupations 
-Quebec                   ,61,70,70,88,128,118,515,857,2440,Montréal,1,"Business, finance and administration occupations "
-Quebec                   ,498,506,563,987,824,"1,180","2,221","1,577",2440,Montréal,2,Natural and applied sciences and related occupations 
-Quebec                   ,43,36,49,252,199,217,376,313,2440,Montréal,3,Health occupations 
-Quebec                   ,270,312,266,447,614,472,959,904,2440,Montréal,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,899,548,672,788,360,284,949,796,2440,Montréal,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,132,128,77,155,231,174,"1,119","1,898",2440,Montréal,6,Sales and service occupations 
-Quebec                   ,60,67,101,221,310,195,939,"1,283",2440,Montréal,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,33,42,53,79,90,50,256,337,2440,Montréal,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,6,0,2,28,68,67,415,440,2440,Montréal,9,Occupations in manufacturing and utilities 
-Quebec                   ,7,1,7,2,7,8,15,22,2445,Laval,0,Management occupations 
-Quebec                   ,4,2,2,3,6,9,58,69,2445,Laval,1,"Business, finance and administration occupations "
-Quebec                   ,16,12,12,19,27,28,66,83,2445,Laval,2,Natural and applied sciences and related occupations 
-Quebec                   ,1,2,4,14,7,20,35,62,2445,Laval,3,Health occupations 
-Quebec                   ,13,8,8,15,12,26,59,76,2445,Laval,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,1,1,0,1,1,2,7,14,2445,Laval,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,14,17,8,13,30,28,199,365,2445,Laval,6,Sales and service occupations 
-Quebec                   ,9,6,8,44,81,45,234,292,2445,Laval,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,582,558,641,451,827,467,"1,015",729,2445,Laval,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,0,0,1,10,18,26,232,107,2445,Laval,9,Occupations in manufacturing and utilities 
-Quebec                   ,1,1,2,3,4,2,11,9,2450,Lanaudière,0,Management occupations 
-Quebec                   ,3,1,2,0,4,4,26,29,2450,Lanaudière,1,"Business, finance and administration occupations "
-Quebec                   ,9,7,4,8,6,10,14,50,2450,Lanaudière,2,Natural and applied sciences and related occupations 
-Quebec                   ,0,4,2,1,9,9,36,83,2450,Lanaudière,3,Health occupations 
-Quebec                   ,1,2,1,2,4,2,16,26,2450,Lanaudière,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,2,0,0,0,0,1,1,3,2450,Lanaudière,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,4,5,4,15,26,41,273,269,2450,Lanaudière,6,Sales and service occupations 
-Quebec                   ,103,75,115,206,265,197,463,491,2450,Lanaudière,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,"2,209","1,742","1,973","2,836","2,460","2,951","3,811","3,082",2450,Lanaudière,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,3,105,37,170,231,158,522,395,2450,Lanaudière,9,Occupations in manufacturing and utilities 
-Quebec                   ,3,5,3,7,8,4,11,10,2455,Laurentides,0,Management occupations 
-Quebec                   ,2,1,4,5,3,6,47,76,2455,Laurentides,1,"Business, finance and administration occupations "
-Quebec                   ,22,9,10,8,9,28,37,71,2455,Laurentides,2,Natural and applied sciences and related occupations 
-Quebec                   ,4,1,0,8,8,24,63,124,2455,Laurentides,3,Health occupations 
-Quebec                   ,4,3,4,2,16,11,27,24,2455,Laurentides,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,5,3,4,2,0,3,2,4,2455,Laurentides,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,9,8,23,14,96,90,381,571,2455,Laurentides,6,Sales and service occupations 
-Quebec                   ,11,14,43,114,174,77,223,232,2455,Laurentides,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,"2,002","1,345","1,802","2,537","2,377","2,853","3,423","3,443",2455,Laurentides,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,0,2,2,9,61,78,285,385,2455,Laurentides,9,Occupations in manufacturing and utilities 
-Quebec                   ,0,1,1,2,1,1,6,20,2460,Outaouais,0,Management occupations 
-Quebec                   ,0,1,0,2,7,2,20,20,2460,Outaouais,1,"Business, finance and administration occupations "
-Quebec                   ,5,15,14,19,13,5,15,21,2460,Outaouais,2,Natural and applied sciences and related occupations 
-Quebec                   ,23,9,5,21,38,26,84,85,2460,Outaouais,3,Health occupations 
-Quebec                   ,3,6,2,9,8,12,21,31,2460,Outaouais,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,3,5,1,3,1,1,1,1,2460,Outaouais,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,9,8,3,13,36,30,198,199,2460,Outaouais,6,Sales and service occupations 
-Quebec                   ,0,1,12,28,46,20,108,132,2460,Outaouais,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,85,52,66,182,125,111,315,168,2460,Outaouais,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,0,0,0,4,2,9,65,13,2460,Outaouais,9,Occupations in manufacturing and utilities 
-Quebec                   ,2,0,1,2,2,4,17,6,2465,Abitibi-Témiscamingue,0,Management occupations 
-Quebec                   ,1,2,2,4,3,5,14,22,2465,Abitibi-Témiscamingue,1,"Business, finance and administration occupations "
-Quebec                   ,1,4,3,11,5,10,30,45,2465,Abitibi-Témiscamingue,2,Natural and applied sciences and related occupations 
-Quebec                   ,12,11,3,1,1,15,33,38,2465,Abitibi-Témiscamingue,3,Health occupations 
-Quebec                   ,2,2,1,4,3,9,15,30,2465,Abitibi-Témiscamingue,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,0,1,0,0,1,1,4,1,2465,Abitibi-Témiscamingue,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,6,16,15,40,39,59,218,300,2465,Abitibi-Témiscamingue,6,Sales and service occupations 
-Quebec                   ,2,7,69,100,139,69,307,324,2465,Abitibi-Témiscamingue,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,35,30,87,194,136,194,221,221,2465,Abitibi-Témiscamingue,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,0,0,1,6,4,34,82,118,2465,Abitibi-Témiscamingue,9,Occupations in manufacturing and utilities 
-Quebec                   ,1,2,3,2,1,3,6,4,2470,Mauricie,0,Management occupations 
-Quebec                   ,0,1,3,1,1,2,17,17,2470,Mauricie,1,"Business, finance and administration occupations "
-Quebec                   ,0,8,15,17,19,24,52,36,2470,Mauricie,2,Natural and applied sciences and related occupations 
-Quebec                   ,2,1,0,1,23,23,37,55,2470,Mauricie,3,Health occupations 
-Quebec                   ,2,1,0,2,3,6,9,7,2470,Mauricie,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,1,1,1,1,0,1,0,1,2470,Mauricie,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,4,0,43,31,31,55,240,252,2470,Mauricie,6,Sales and service occupations 
-Quebec                   ,8,3,34,137,95,47,233,162,2470,Mauricie,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,305,442,273,625,375,635,589,541,2470,Mauricie,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,26,51,35,95,120,152,575,198,2470,Mauricie,9,Occupations in manufacturing and utilities 
-Quebec                   ,1,0,2,0,1,1,8,12,2475,Saguenay--Lac-Saint-Jean,0,Management occupations 
-Quebec                   ,0,1,0,0,1,6,12,26,2475,Saguenay--Lac-Saint-Jean,1,"Business, finance and administration occupations "
-Quebec                   ,2,2,22,17,25,57,70,68,2475,Saguenay--Lac-Saint-Jean,2,Natural and applied sciences and related occupations 
-Quebec                   ,1,1,2,0,16,25,53,51,2475,Saguenay--Lac-Saint-Jean,3,Health occupations 
-Quebec                   ,1,3,0,3,2,3,2,23,2475,Saguenay--Lac-Saint-Jean,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,2,0,0,2,0,1,2,2,2475,Saguenay--Lac-Saint-Jean,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,0,4,7,20,30,81,347,318,2475,Saguenay--Lac-Saint-Jean,6,Sales and service occupations 
-Quebec                   ,1,1,13,97,88,140,414,384,2475,Saguenay--Lac-Saint-Jean,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,229,220,369,675,686,765,950,"1,141",2475,Saguenay--Lac-Saint-Jean,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,15,23,38,85,143,169,373,369,2475,Saguenay--Lac-Saint-Jean,9,Occupations in manufacturing and utilities 
-Quebec                   ,0,1,0,1,0,2,2,9,2480,Côte-Nord,0,Management occupations 
-Quebec                   ,0,0,0,1,0,1,11,12,2480,Côte-Nord,1,"Business, finance and administration occupations "
-Quebec                   ,2,0,18,5,2,1,10,6,2480,Côte-Nord,2,Natural and applied sciences and related occupations 
-Quebec                   ,1,0,0,8,18,8,65,31,2480,Côte-Nord,3,Health occupations 
-Quebec                   ,0,0,0,0,4,4,5,1,2480,Côte-Nord,4,"Occupations in education, law and social, community and government services "
-Quebec                   ,0,2,1,1,0,1,0,1,2480,Côte-Nord,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,4,9,13,17,40,36,173,194,2480,Côte-Nord,6,Sales and service occupations 
-Quebec                   ,4,6,20,16,52,49,100,200,2480,Côte-Nord,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,2,9,8,23,9,27,64,50,2480,Côte-Nord,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,5,7,10,24,48,87,268,121,2480,Côte-Nord,9,Occupations in manufacturing and utilities 
-Quebec                   ,0,0,0,0,0,1,0,3,2490,Nord-du-Québec,0,Management occupations 
-Quebec                   ,0,0,0,0,2,0,1,6,2490,Nord-du-Québec,1,"Business, finance and administration occupations "
-Quebec                   ,0,0,0,9,2,2,9,10,2490,Nord-du-Québec,2,Natural and applied sciences and related occupations 
-Quebec                   ,0,1,0,1,1,0,4,6,2490,Nord-du-Québec,3,Health occupations 
-Quebec                   ,1,1,2,0,0,1,1,2,2490,Nord-du-Québec,4,"Occupations in education, law and social, community and government services "
-Quebec,0,0,0,0,0,0,0,0,2490,Nord-du-Québec,5,"Occupations in art, culture, recreation and sport "
-Quebec                   ,2,1,0,3,9,18,81,50,2490,Nord-du-Québec,6,Sales and service occupations 
-Quebec                   ,0,0,0,20,6,9,63,45,2490,Nord-du-Québec,7,"Trades, transport and equipment operators and related occupations "
-Quebec                   ,56,0,0,13,10,33,20,17,2490,Nord-du-Québec,8,"Natural resources, agriculture and related production occupations "
-Quebec                   ,0,0,15,17,73,12,48,100,2490,Nord-du-Québec,9,Occupations in manufacturing and utilities 
-Ontario                  ,19,37,20,53,53,45,68,133,3510,Ottawa,0,Management occupations 
-Ontario                  ,11,8,5,4,14,15,40,84,3510,Ottawa,1,"Business, finance and administration occupations "
-Ontario                  ,83,47,102,153,104,190,305,206,3510,Ottawa,2,Natural and applied sciences and related occupations 
-Ontario                  ,20,16,11,10,13,32,120,169,3510,Ottawa,3,Health occupations 
-Ontario                  ,124,102,117,79,56,71,77,95,3510,Ottawa,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,65,34,39,30,10,10,23,16,3510,Ottawa,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,59,57,73,98,134,145,534,"1,098",3510,Ottawa,6,Sales and service occupations 
-Ontario                  ,15,13,10,30,85,68,323,285,3510,Ottawa,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,326,401,454,400,432,592,619,681,3510,Ottawa,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,0,0,1,2,61,27,240,215,3510,Ottawa,9,Occupations in manufacturing and utilities 
-Ontario                  ,9,9,9,12,21,9,27,34,3515,Kingston--Pembroke,0,Management occupations 
-Ontario                  ,0,2,1,18,7,14,33,25,3515,Kingston--Pembroke,1,"Business, finance and administration occupations "
-Ontario                  ,18,33,27,14,11,16,18,11,3515,Kingston--Pembroke,2,Natural and applied sciences and related occupations 
-Ontario                  ,12,2,2,2,2,2,36,84,3515,Kingston--Pembroke,3,Health occupations 
-Ontario                  ,27,13,42,33,20,21,21,50,3515,Kingston--Pembroke,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,4,2,3,1,0,0,0,2,3515,Kingston--Pembroke,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,10,8,23,48,74,58,200,459,3515,Kingston--Pembroke,6,Sales and service occupations 
-Ontario                  ,1,4,10,2,18,24,44,83,3515,Kingston--Pembroke,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,239,337,425,325,423,336,427,456,3515,Kingston--Pembroke,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,1,0,1,1,10,31,31,94,3515,Kingston--Pembroke,9,Occupations in manufacturing and utilities 
-Ontario                  ,3,4,6,7,11,7,9,31,3520,Muskoka--Kawarthas,0,Management occupations 
-Ontario                  ,4,1,2,3,6,2,12,24,3520,Muskoka--Kawarthas,1,"Business, finance and administration occupations "
-Ontario                  ,12,2,5,5,1,2,7,5,3520,Muskoka--Kawarthas,2,Natural and applied sciences and related occupations 
-Ontario                  ,2,1,0,5,5,12,7,37,3520,Muskoka--Kawarthas,3,Health occupations 
-Ontario                  ,6,16,13,5,5,9,8,9,3520,Muskoka--Kawarthas,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,0,0,2,0,1,0,2,0,3520,Muskoka--Kawarthas,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,18,33,92,72,99,84,282,311,3520,Muskoka--Kawarthas,6,Sales and service occupations 
-Ontario                  ,4,30,9,9,10,16,91,101,3520,Muskoka--Kawarthas,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,233,271,446,349,440,377,478,472,3520,Muskoka--Kawarthas,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,0,0,2,1,1,0,34,25,3520,Muskoka--Kawarthas,9,Occupations in manufacturing and utilities 
-Ontario                  ,441,422,469,599,768,785,"1,212","1,479",3530,Toronto,0,Management occupations 
-Ontario                  ,338,443,415,747,"1,142",731,"1,679","3,321",3530,Toronto,1,"Business, finance and administration occupations "
-Ontario                  ,549,709,785,"1,163","1,133","1,448","2,664","2,166",3530,Toronto,2,Natural and applied sciences and related occupations 
-Ontario                  ,60,59,67,78,90,122,203,372,3530,Toronto,3,Health occupations 
-Ontario                  ,"2,768","3,032","3,567","2,784","1,561","2,108","1,643","1,902",3530,Toronto,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,851,608,481,506,243,229,488,400,3530,Toronto,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,621,869,"1,054","1,613","2,126","1,835","4,074","6,291",3530,Toronto,6,Sales and service occupations 
-Ontario                  ,571,746,797,"1,384","2,018","1,830","4,268","5,022",3530,Toronto,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,"1,513","2,308","2,001","2,363","2,051","2,712","2,986","2,887",3530,Toronto,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,22,57,36,65,80,125,433,509,3530,Toronto,9,Occupations in manufacturing and utilities 
-Ontario                  ,30,39,34,31,46,52,80,165,3540,Kitchener--Waterloo--Barrie,0,Management occupations 
-Ontario                  ,11,10,12,19,33,26,63,206,3540,Kitchener--Waterloo--Barrie,1,"Business, finance and administration occupations "
-Ontario                  ,80,108,111,145,112,135,255,151,3540,Kitchener--Waterloo--Barrie,2,Natural and applied sciences and related occupations 
-Ontario                  ,6,4,6,6,14,34,84,171,3540,Kitchener--Waterloo--Barrie,3,Health occupations 
-Ontario                  ,133,122,169,133,74,87,128,98,3540,Kitchener--Waterloo--Barrie,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,7,15,13,7,0,9,9,8,3540,Kitchener--Waterloo--Barrie,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,80,201,188,264,360,477,"1,184","1,238",3540,Kitchener--Waterloo--Barrie,6,Sales and service occupations 
-Ontario                  ,72,64,137,189,135,469,507,698,3540,Kitchener--Waterloo--Barrie,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,915,"1,306","1,180","1,089","1,129","1,308","1,289","1,779",3540,Kitchener--Waterloo--Barrie,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,4,40,136,65,99,130,398,185,3540,Kitchener--Waterloo--Barrie,9,Occupations in manufacturing and utilities 
-Ontario                  ,47,30,33,44,59,51,81,199,3550,Hamilton--Niagara Peninsula,0,Management occupations 
-Ontario                  ,9,12,13,40,43,31,79,190,3550,Hamilton--Niagara Peninsula,1,"Business, finance and administration occupations "
-Ontario                  ,72,46,57,51,37,38,75,125,3550,Hamilton--Niagara Peninsula,2,Natural and applied sciences and related occupations 
-Ontario                  ,1,7,4,10,23,28,64,83,3550,Hamilton--Niagara Peninsula,3,Health occupations 
-Ontario                  ,165,169,212,154,80,135,94,195,3550,Hamilton--Niagara Peninsula,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,27,9,30,15,4,6,12,6,3550,Hamilton--Niagara Peninsula,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,45,84,69,209,252,274,910,"1,375",3550,Hamilton--Niagara Peninsula,6,Sales and service occupations 
-Ontario                  ,55,50,40,108,98,94,344,555,3550,Hamilton--Niagara Peninsula,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,"7,880","12,372","11,474","10,957","10,233","11,373","12,545","15,142",3550,Hamilton--Niagara Peninsula,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,2,5,7,11,13,15,116,216,3550,Hamilton--Niagara Peninsula,9,Occupations in manufacturing and utilities 
-Ontario                  ,11,14,11,13,13,13,20,62,3560,London,0,Management occupations 
-Ontario                  ,1,6,1,6,11,12,39,78,3560,London,1,"Business, finance and administration occupations "
-Ontario                  ,45,39,24,30,23,29,26,39,3560,London,2,Natural and applied sciences and related occupations 
-Ontario                  ,12,14,13,3,14,14,25,56,3560,London,3,Health occupations 
-Ontario                  ,57,54,60,58,35,39,42,46,3560,London,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,4,13,6,4,7,7,6,8,3560,London,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,19,19,28,39,70,75,202,576,3560,London,6,Sales and service occupations 
-Ontario                  ,8,14,23,42,36,43,158,216,3560,London,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,"1,770","2,487","2,499","2,663","2,711","2,506","3,254","2,835",3560,London,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,0,2,89,196,122,142,179,204,3560,London,9,Occupations in manufacturing and utilities 
-Ontario                  ,11,13,8,19,11,14,31,46,3570,Windsor--Sarnia,0,Management occupations 
-Ontario                  ,0,3,1,4,3,15,21,50,3570,Windsor--Sarnia,1,"Business, finance and administration occupations "
-Ontario                  ,57,47,37,36,18,27,32,43,3570,Windsor--Sarnia,2,Natural and applied sciences and related occupations 
-Ontario                  ,7,8,4,3,6,7,22,37,3570,Windsor--Sarnia,3,Health occupations 
-Ontario                  ,17,23,27,22,13,18,13,22,3570,Windsor--Sarnia,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,3,1,2,0,0,0,2,2,3570,Windsor--Sarnia,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,4,29,9,33,44,57,140,313,3570,Windsor--Sarnia,6,Sales and service occupations 
-Ontario                  ,32,41,27,47,26,33,107,204,3570,Windsor--Sarnia,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,"8,281","8,832","9,170","8,986","9,483","10,674","10,980","12,020",3570,Windsor--Sarnia,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,0,0,601,438,444,454,501,555,3570,Windsor--Sarnia,9,Occupations in manufacturing and utilities 
-Ontario                  ,4,6,7,3,9,4,14,31,3580,Stratford--Bruce Peninsula,0,Management occupations 
-Ontario                  ,3,0,0,2,1,0,8,22,3580,Stratford--Bruce Peninsula,1,"Business, finance and administration occupations "
-Ontario                  ,13,42,138,11,9,5,6,9,3580,Stratford--Bruce Peninsula,2,Natural and applied sciences and related occupations 
-Ontario                  ,4,5,3,3,2,0,95,61,3580,Stratford--Bruce Peninsula,3,Health occupations 
-Ontario                  ,10,13,16,19,4,11,9,8,3580,Stratford--Bruce Peninsula,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,8,1,0,0,0,0,0,0,3580,Stratford--Bruce Peninsula,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,7,12,13,97,80,124,402,479,3580,Stratford--Bruce Peninsula,6,Sales and service occupations 
-Ontario                  ,4,12,14,50,28,41,141,97,3580,Stratford--Bruce Peninsula,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,942,"1,393","1,548","1,267","1,400","1,329","1,873","2,120",3580,Stratford--Bruce Peninsula,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,1,4,16,30,33,40,152,82,3580,Stratford--Bruce Peninsula,9,Occupations in manufacturing and utilities 
-Ontario                  ,13,9,10,9,14,14,24,46,3590,Northeast,0,Management occupations 
-Ontario                  ,4,0,6,5,4,8,22,31,3590,Northeast,1,"Business, finance and administration occupations "
-Ontario                  ,24,13,15,22,10,5,9,53,3590,Northeast,2,Natural and applied sciences and related occupations 
-Ontario                  ,4,5,3,10,10,19,41,47,3590,Northeast,3,Health occupations 
-Ontario                  ,10,11,19,10,4,4,7,9,3590,Northeast,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,6,5,3,1,1,1,1,5,3590,Northeast,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,31,23,42,74,108,73,308,372,3590,Northeast,6,Sales and service occupations 
-Ontario                  ,6,9,19,60,48,74,197,266,3590,Northeast,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,138,226,214,190,187,140,225,294,3590,Northeast,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,0,0,2,3,18,7,74,61,3590,Northeast,9,Occupations in manufacturing and utilities 
-Ontario                  ,5,0,7,4,9,7,8,12,3595,Northwest,0,Management occupations 
-Ontario                  ,0,0,0,0,2,2,6,13,3595,Northwest,1,"Business, finance and administration occupations "
-Ontario                  ,4,2,26,17,1,1,3,19,3595,Northwest,2,Natural and applied sciences and related occupations 
-Ontario                  ,5,2,5,3,14,2,70,18,3595,Northwest,3,Health occupations 
-Ontario                  ,7,9,14,10,3,9,2,4,3595,Northwest,4,"Occupations in education, law and social, community and government services "
-Ontario                  ,1,2,0,0,0,0,2,0,3595,Northwest,5,"Occupations in art, culture, recreation and sport "
-Ontario                  ,7,25,28,39,60,82,210,361,3595,Northwest,6,Sales and service occupations 
-Ontario                  ,1,3,7,3,19,7,56,75,3595,Northwest,7,"Trades, transport and equipment operators and related occupations "
-Ontario                  ,1,1,22,9,9,10,44,73,3595,Northwest,8,"Natural resources, agriculture and related production occupations "
-Ontario                  ,0,0,3,1,0,10,14,22,3595,Northwest,9,Occupations in manufacturing and utilities 
-Manitoba                 ,1,1,1,2,3,2,3,6,4610,Southeast,0,Management occupations 
-Manitoba                 ,0,0,0,2,0,5,4,24,4610,Southeast,1,"Business, finance and administration occupations "
-Manitoba                 ,1,0,1,0,0,2,0,2,4610,Southeast,2,Natural and applied sciences and related occupations 
-Manitoba                 ,1,0,0,0,0,0,0,0,4610,Southeast,3,Health occupations 
-Manitoba                 ,0,0,1,3,0,1,0,0,4610,Southeast,4,"Occupations in education, law and social, community and government services "
-Manitoba                 ,2,0,0,0,0,0,0,0,4610,Southeast,5,"Occupations in art, culture, recreation and sport "
-Manitoba                 ,0,4,6,29,1,10,102,75,4610,Southeast,6,Sales and service occupations 
-Manitoba                 ,10,0,2,76,51,32,95,130,4610,Southeast,7,"Trades, transport and equipment operators and related occupations "
-Manitoba                 ,70,62,49,67,79,38,150,91,4610,Southeast,8,"Natural resources, agriculture and related production occupations "
-Manitoba                 ,0,0,0,0,0,0,2,6,4610,Southeast,9,Occupations in manufacturing and utilities 
-Manitoba                 ,0,0,1,1,0,0,1,3,4620,South Central,0,Management occupations 
-Manitoba                 ,0,0,0,0,1,0,0,3,4620,South Central,1,"Business, finance and administration occupations "
-Manitoba                 ,1,4,4,5,2,3,1,0,4620,South Central,2,Natural and applied sciences and related occupations 
-Manitoba                 ,0,0,0,0,0,0,1,2,4620,South Central,3,Health occupations 
-Manitoba                 ,0,0,0,2,0,0,0,0,4620,South Central,4,"Occupations in education, law and social, community and government services "
-Manitoba,0,0,0,0,0,0,0,0,4620,South Central,5,"Occupations in art, culture, recreation and sport "
-Manitoba                 ,2,4,6,8,3,8,56,66,4620,South Central,6,Sales and service occupations 
-Manitoba                 ,1,4,1,12,6,0,22,12,4620,South Central,7,"Trades, transport and equipment operators and related occupations "
-Manitoba                 ,125,82,183,200,178,186,183,345,4620,South Central,8,"Natural resources, agriculture and related production occupations "
-Manitoba                 ,0,0,0,0,0,0,5,0,4620,South Central,9,Occupations in manufacturing and utilities 
-Manitoba                 ,5,1,3,4,0,2,8,4,4630,Southwest,0,Management occupations 
-Manitoba                 ,0,0,0,0,0,1,2,11,4630,Southwest,1,"Business, finance and administration occupations "
-Manitoba                 ,4,8,6,4,14,6,15,8,4630,Southwest,2,Natural and applied sciences and related occupations 
-Manitoba                 ,4,2,2,4,3,7,2,9,4630,Southwest,3,Health occupations 
-Manitoba                 ,2,2,4,3,1,1,0,2,4630,Southwest,4,"Occupations in education, law and social, community and government services "
-Manitoba                 ,0,0,0,1,0,0,0,0,4630,Southwest,5,"Occupations in art, culture, recreation and sport "
-Manitoba                 ,172,179,170,192,17,173,234,107,4630,Southwest,6,Sales and service occupations 
-Manitoba                 ,14,3,2,10,2,2,18,8,4630,Southwest,7,"Trades, transport and equipment operators and related occupations "
-Manitoba                 ,39,19,37,37,57,62,67,74,4630,Southwest,8,"Natural resources, agriculture and related production occupations "
-Manitoba                 ,0,65,0,0,0,50,102,17,4630,Southwest,9,Occupations in manufacturing and utilities 
-Manitoba                 ,3,2,1,2,1,0,1,1,4640,North Central,0,Management occupations 
-Manitoba                 ,0,0,2,1,0,1,2,6,4640,North Central,1,"Business, finance and administration occupations "
-Manitoba                 ,3,1,0,0,0,0,0,0,4640,North Central,2,Natural and applied sciences and related occupations 
-Manitoba,0,0,0,0,0,0,0,0,4640,North Central,3,Health occupations 
-Manitoba                 ,0,0,0,0,0,1,0,1,4640,North Central,4,"Occupations in education, law and social, community and government services "
-Manitoba,0,0,0,0,0,0,0,0,4640,North Central,5,"Occupations in art, culture, recreation and sport "
-Manitoba                 ,5,0,9,3,1,5,43,48,4640,North Central,6,Sales and service occupations 
-Manitoba                 ,8,4,7,26,18,2,18,14,4640,North Central,7,"Trades, transport and equipment operators and related occupations "
-Manitoba                 ,301,290,284,275,474,336,381,587,4640,North Central,8,"Natural resources, agriculture and related production occupations "
-Manitoba                 ,0,0,1,0,0,0,3,3,4640,North Central,9,Occupations in manufacturing and utilities 
-Manitoba                 ,7,7,12,25,19,22,29,30,4650,Winnipeg,0,Management occupations 
-Manitoba                 ,7,6,12,26,22,37,166,283,4650,Winnipeg,1,"Business, finance and administration occupations "
-Manitoba                 ,10,25,86,33,24,54,67,40,4650,Winnipeg,2,Natural and applied sciences and related occupations 
-Manitoba                 ,16,16,6,11,8,22,27,39,4650,Winnipeg,3,Health occupations 
-Manitoba                 ,28,24,35,43,28,43,30,44,4650,Winnipeg,4,"Occupations in education, law and social, community and government services "
-Manitoba                 ,25,11,36,3,2,5,4,8,4650,Winnipeg,5,"Occupations in art, culture, recreation and sport "
-Manitoba                 ,39,22,46,64,99,104,347,688,4650,Winnipeg,6,Sales and service occupations 
-Manitoba                 ,78,99,84,260,244,366,812,941,4650,Winnipeg,7,"Trades, transport and equipment operators and related occupations "
-Manitoba                 ,6,11,3,3,5,1,12,11,4650,Winnipeg,8,"Natural resources, agriculture and related production occupations "
-Manitoba                 ,0,0,5,4,2,2,117,14,4650,Winnipeg,9,Occupations in manufacturing and utilities 
-Manitoba                 ,0,0,1,1,0,2,1,2,4660,Interlake,0,Management occupations 
-Manitoba                 ,0,0,0,1,3,3,15,35,4660,Interlake,1,"Business, finance and administration occupations "
-Manitoba                 ,2,0,2,2,0,0,3,2,4660,Interlake,2,Natural and applied sciences and related occupations 
-Manitoba                 ,3,3,0,0,1,2,2,2,4660,Interlake,3,Health occupations 
-Manitoba                 ,2,2,1,5,1,0,1,1,4660,Interlake,4,"Occupations in education, law and social, community and government services "
-Manitoba                 ,0,0,0,0,0,0,1,0,4660,Interlake,5,"Occupations in art, culture, recreation and sport "
-Manitoba                 ,5,4,9,12,6,10,61,75,4660,Interlake,6,Sales and service occupations 
-Manitoba                 ,7,0,4,52,57,92,167,281,4660,Interlake,7,"Trades, transport and equipment operators and related occupations "
-Manitoba                 ,35,149,137,179,172,66,106,92,4660,Interlake,8,"Natural resources, agriculture and related production occupations "
-Manitoba                 ,1,0,0,0,0,0,4,15,4660,Interlake,9,Occupations in manufacturing and utilities 
-Manitoba                 ,0,1,0,2,1,0,2,4,4670,Parklands,0,Management occupations 
-Manitoba                 ,0,0,0,0,1,0,1,1,4670,Parklands,1,"Business, finance and administration occupations "
-Manitoba                 ,2,1,0,0,0,0,1,0,4670,Parklands,2,Natural and applied sciences and related occupations 
-Manitoba                 ,1,2,0,1,0,0,0,1,4670,Parklands,3,Health occupations 
-Manitoba                 ,0,0,1,2,2,0,0,0,4670,Parklands,4,"Occupations in education, law and social, community and government services "
-Manitoba,0,0,0,0,0,0,0,0,4670,Parklands,5,"Occupations in art, culture, recreation and sport "
-Manitoba                 ,7,11,12,15,21,11,81,89,4670,Parklands,6,Sales and service occupations 
-Manitoba                 ,0,1,1,5,1,11,2,31,4670,Parklands,7,"Trades, transport and equipment operators and related occupations "
-Manitoba                 ,111,72,84,115,112,41,141,105,4670,Parklands,8,"Natural resources, agriculture and related production occupations "
-Manitoba                 ,0,0,0,1,0,0,1,0,4670,Parklands,9,Occupations in manufacturing and utilities 
-Manitoba                 ,0,1,0,0,0,0,1,8,4680,North,0,Management occupations 
-Manitoba                 ,3,3,2,0,1,1,4,3,4680,North,1,"Business, finance and administration occupations "
-Manitoba                 ,0,0,0,0,0,0,0,2,4680,North,2,Natural and applied sciences and related occupations 
-Manitoba                 ,2,0,1,1,0,0,3,1,4680,North,3,Health occupations 
-Manitoba                 ,25,20,19,14,6,1,5,5,4680,North,4,"Occupations in education, law and social, community and government services "
-Manitoba,0,0,0,0,0,0,0,0,4680,North,5,"Occupations in art, culture, recreation and sport "
-Manitoba                 ,15,35,3,26,8,12,102,70,4680,North,6,Sales and service occupations 
-Manitoba                 ,15,2,3,7,1,5,9,10,4680,North,7,"Trades, transport and equipment operators and related occupations "
-Manitoba                 ,0,0,0,65,11,3,8,17,4680,North,8,"Natural resources, agriculture and related production occupations "
-Manitoba,0,0,0,0,0,0,0,0,4680,North,9,Occupations in manufacturing and utilities 
-Saskatchewan             ,7,7,3,6,6,11,7,18,4710,Regina--Moose Mountain,0,Management occupations 
-Saskatchewan             ,1,0,0,1,1,5,23,28,4710,Regina--Moose Mountain,1,"Business, finance and administration occupations "
-Saskatchewan             ,69,46,24,22,3,8,23,7,4710,Regina--Moose Mountain,2,Natural and applied sciences and related occupations 
-Saskatchewan             ,8,9,12,4,7,9,11,12,4710,Regina--Moose Mountain,3,Health occupations 
-Saskatchewan             ,18,16,33,19,1,13,6,6,4710,Regina--Moose Mountain,4,"Occupations in education, law and social, community and government services "
-Saskatchewan             ,1,2,8,4,0,0,5,4,4710,Regina--Moose Mountain,5,"Occupations in art, culture, recreation and sport "
-Saskatchewan             ,58,55,36,64,47,76,240,336,4710,Regina--Moose Mountain,6,Sales and service occupations 
-Saskatchewan             ,89,27,37,102,65,80,163,173,4710,Regina--Moose Mountain,7,"Trades, transport and equipment operators and related occupations "
-Saskatchewan             ,57,75,82,100,90,90,154,132,4710,Regina--Moose Mountain,8,"Natural resources, agriculture and related production occupations "
-Saskatchewan             ,0,0,2,2,0,1,9,5,4710,Regina--Moose Mountain,9,Occupations in manufacturing and utilities 
-Saskatchewan             ,2,0,1,0,0,1,2,2,4720,Swift Current--Moose Jaw,0,Management occupations 
-Saskatchewan             ,0,0,0,0,0,1,3,10,4720,Swift Current--Moose Jaw,1,"Business, finance and administration occupations "
-Saskatchewan             ,4,1,0,3,2,0,4,2,4720,Swift Current--Moose Jaw,2,Natural and applied sciences and related occupations 
-Saskatchewan             ,3,4,2,1,1,1,5,5,4720,Swift Current--Moose Jaw,3,Health occupations 
-Saskatchewan             ,4,2,7,2,1,4,0,3,4720,Swift Current--Moose Jaw,4,"Occupations in education, law and social, community and government services "
-Saskatchewan,0,0,0,0,0,0,0,0,4720,Swift Current--Moose Jaw,5,"Occupations in art, culture, recreation and sport "
-Saskatchewan             ,16,21,8,59,40,20,110,100,4720,Swift Current--Moose Jaw,6,Sales and service occupations 
-Saskatchewan             ,0,9,4,26,4,6,41,55,4720,Swift Current--Moose Jaw,7,"Trades, transport and equipment operators and related occupations "
-Saskatchewan             ,68,70,63,116,101,45,155,132,4720,Swift Current--Moose Jaw,8,"Natural resources, agriculture and related production occupations "
-Saskatchewan             ,0,0,0,2,0,0,30,3,4720,Swift Current--Moose Jaw,9,Occupations in manufacturing and utilities 
-Saskatchewan             ,4,7,3,1,5,7,11,14,4730,Saskatoon--Biggar,0,Management occupations 
-Saskatchewan             ,2,3,1,5,1,3,15,28,4730,Saskatoon--Biggar,1,"Business, finance and administration occupations "
-Saskatchewan             ,5,28,37,24,14,26,18,7,4730,Saskatoon--Biggar,2,Natural and applied sciences and related occupations 
-Saskatchewan             ,8,10,6,4,5,6,12,3,4730,Saskatoon--Biggar,3,Health occupations 
-Saskatchewan             ,35,31,49,38,10,10,14,13,4730,Saskatoon--Biggar,4,"Occupations in education, law and social, community and government services "
-Saskatchewan             ,1,2,1,0,0,1,2,0,4730,Saskatoon--Biggar,5,"Occupations in art, culture, recreation and sport "
-Saskatchewan             ,39,25,26,50,48,74,244,343,4730,Saskatoon--Biggar,6,Sales and service occupations 
-Saskatchewan             ,49,23,37,37,57,80,188,240,4730,Saskatoon--Biggar,7,"Trades, transport and equipment operators and related occupations "
-Saskatchewan             ,141,154,189,172,161,152,157,270,4730,Saskatoon--Biggar,8,"Natural resources, agriculture and related production occupations "
-Saskatchewan             ,0,0,2,0,0,6,28,35,4730,Saskatoon--Biggar,9,Occupations in manufacturing and utilities 
-Saskatchewan             ,4,0,0,2,1,1,0,0,4740,Yorkton--Melville,0,Management occupations 
-Saskatchewan             ,0,0,0,0,0,0,0,1,4740,Yorkton--Melville,1,"Business, finance and administration occupations "
-Saskatchewan             ,3,1,0,0,0,0,1,2,4740,Yorkton--Melville,2,Natural and applied sciences and related occupations 
-Saskatchewan             ,0,2,0,2,1,0,1,3,4740,Yorkton--Melville,3,Health occupations 
-Saskatchewan             ,3,3,3,4,2,2,3,1,4740,Yorkton--Melville,4,"Occupations in education, law and social, community and government services "
-Saskatchewan,0,0,0,0,0,0,0,0,4740,Yorkton--Melville,5,"Occupations in art, culture, recreation and sport "
-Saskatchewan             ,35,22,25,33,27,14,74,121,4740,Yorkton--Melville,6,Sales and service occupations 
-Saskatchewan             ,1,4,2,13,1,3,4,16,4740,Yorkton--Melville,7,"Trades, transport and equipment operators and related occupations "
-Saskatchewan             ,71,94,59,123,113,78,110,132,4740,Yorkton--Melville,8,"Natural resources, agriculture and related production occupations "
-Saskatchewan             ,0,0,2,0,0,0,0,6,4740,Yorkton--Melville,9,Occupations in manufacturing and utilities 
-Saskatchewan             ,0,2,0,1,1,2,1,2,4750,Prince Albert,0,Management occupations 
-Saskatchewan             ,1,2,0,0,1,1,1,1,4750,Prince Albert,1,"Business, finance and administration occupations "
-Saskatchewan             ,6,11,7,9,8,9,10,14,4750,Prince Albert,2,Natural and applied sciences and related occupations 
-Saskatchewan             ,22,16,18,5,14,12,14,7,4750,Prince Albert,3,Health occupations 
-Saskatchewan             ,17,20,19,13,7,12,5,3,4750,Prince Albert,4,"Occupations in education, law and social, community and government services "
-Saskatchewan             ,1,0,0,0,0,0,0,0,4750,Prince Albert,5,"Occupations in art, culture, recreation and sport "
-Saskatchewan             ,23,35,35,66,28,70,172,199,4750,Prince Albert,6,Sales and service occupations 
-Saskatchewan             ,3,3,7,1,6,6,15,28,4750,Prince Albert,7,"Trades, transport and equipment operators and related occupations "
-Saskatchewan             ,208,216,203,290,278,241,304,551,4750,Prince Albert,8,"Natural resources, agriculture and related production occupations "
-Saskatchewan             ,0,3,0,0,2,0,10,5,4750,Prince Albert,9,Occupations in manufacturing and utilities 
-Saskatchewan             ,2,2,2,4,2,2,2,3,4760,Northern,0,Management occupations 
-Saskatchewan,0,0,0,0,0,0,0,0,4760,Northern,1,"Business, finance and administration occupations "
-Saskatchewan             ,5,0,0,0,0,0,0,0,4760,Northern,2,Natural and applied sciences and related occupations 
-Saskatchewan             ,0,1,0,1,0,0,0,0,4760,Northern,3,Health occupations 
-Saskatchewan             ,1,1,2,1,0,0,0,0,4760,Northern,4,"Occupations in education, law and social, community and government services "
-Saskatchewan,0,0,0,0,0,0,0,0,4760,Northern,5,"Occupations in art, culture, recreation and sport "
-Saskatchewan             ,0,2,1,2,0,2,15,5,4760,Northern,6,Sales and service occupations 
-Saskatchewan             ,2,0,0,0,0,0,1,1,4760,Northern,7,"Trades, transport and equipment operators and related occupations "
-Saskatchewan             ,0,0,5,0,0,0,0,0,4760,Northern,8,"Natural resources, agriculture and related production occupations "
-Saskatchewan,0,0,0,0,0,0,0,0,4760,Northern,9,Occupations in manufacturing and utilities 
-Alberta                  ,36,12,7,12,3,5,19,9,4810,Lethbridge--Medicine Hat,0,Management occupations 
-Alberta                  ,4,6,4,5,4,7,24,35,4810,Lethbridge--Medicine Hat,1,"Business, finance and administration occupations "
-Alberta                  ,20,2,3,1,2,1,3,11,4810,Lethbridge--Medicine Hat,2,Natural and applied sciences and related occupations 
-Alberta                  ,5,6,4,7,8,6,13,32,4810,Lethbridge--Medicine Hat,3,Health occupations 
-Alberta                  ,25,29,28,20,7,10,10,7,4810,Lethbridge--Medicine Hat,4,"Occupations in education, law and social, community and government services "
-Alberta                  ,1,1,2,2,0,0,1,0,4810,Lethbridge--Medicine Hat,5,"Occupations in art, culture, recreation and sport "
-Alberta                  ,130,183,103,176,119,138,541,500,4810,Lethbridge--Medicine Hat,6,Sales and service occupations 
-Alberta                  ,30,23,14,26,2,1,64,91,4810,Lethbridge--Medicine Hat,7,"Trades, transport and equipment operators and related occupations "
-Alberta                  ,"1,132",991,"1,015","1,197","1,021","1,312","1,157","1,838",4810,Lethbridge--Medicine Hat,8,"Natural resources, agriculture and related production occupations "
-Alberta                  ,80,195,100,220,273,100,359,199,4810,Lethbridge--Medicine Hat,9,Occupations in manufacturing and utilities 
-Alberta                  ,18,8,14,11,5,8,16,13,4820,Camrose--Drumheller,0,Management occupations 
-Alberta                  ,2,0,1,1,3,5,27,21,4820,Camrose--Drumheller,1,"Business, finance and administration occupations "
-Alberta                  ,1,2,2,2,2,1,2,1,4820,Camrose--Drumheller,2,Natural and applied sciences and related occupations 
-Alberta                  ,19,0,1,7,0,7,13,26,4820,Camrose--Drumheller,3,Health occupations 
-Alberta                  ,17,24,21,13,7,11,8,8,4820,Camrose--Drumheller,4,"Occupations in education, law and social, community and government services "
-Alberta                  ,1,1,2,2,1,0,2,1,4820,Camrose--Drumheller,5,"Occupations in art, culture, recreation and sport "
-Alberta                  ,179,149,149,200,134,144,517,489,4820,Camrose--Drumheller,6,Sales and service occupations 
-Alberta                  ,18,10,12,9,10,3,94,62,4820,Camrose--Drumheller,7,"Trades, transport and equipment operators and related occupations "
-Alberta                  ,237,269,319,329,277,374,431,522,4820,Camrose--Drumheller,8,"Natural resources, agriculture and related production occupations "
-Alberta                  ,7,14,10,36,13,22,6,33,4820,Camrose--Drumheller,9,Occupations in manufacturing and utilities 
-Alberta                  ,188,134,72,114,79,98,163,194,4830,Calgary,0,Management occupations 
-Alberta                  ,81,70,58,179,155,180,736,990,4830,Calgary,1,"Business, finance and administration occupations "
-Alberta                  ,108,78,71,124,76,147,485,268,4830,Calgary,2,Natural and applied sciences and related occupations 
-Alberta                  ,33,28,25,26,17,20,36,75,4830,Calgary,3,Health occupations 
-Alberta                  ,516,467,589,425,158,233,176,207,4830,Calgary,4,"Occupations in education, law and social, community and government services "
-Alberta                  ,77,40,38,43,18,22,62,56,4830,Calgary,5,"Occupations in art, culture, recreation and sport "
-Alberta                  ,"1,103",970,774,"1,321",787,873,"2,796","3,692",4830,Calgary,6,Sales and service occupations 
-Alberta                  ,465,407,376,992,595,355,"2,156","2,694",4830,Calgary,7,"Trades, transport and equipment operators and related occupations "
-Alberta                  ,215,176,279,247,255,212,301,614,4830,Calgary,8,"Natural resources, agriculture and related production occupations "
-Alberta                  ,67,31,60,70,20,37,152,193,4830,Calgary,9,Occupations in manufacturing and utilities 
-Alberta                  ,12,14,5,11,10,6,18,8,4840,Banff--Jasper--Rocky Mountain House,0,Management occupations 
-Alberta                  ,1,3,0,8,3,4,17,14,4840,Banff--Jasper--Rocky Mountain House,1,"Business, finance and administration occupations "
-Alberta                  ,2,1,4,3,1,0,0,2,4840,Banff--Jasper--Rocky Mountain House,2,Natural and applied sciences and related occupations 
-Alberta                  ,5,1,1,3,2,2,4,21,4840,Banff--Jasper--Rocky Mountain House,3,Health occupations 
-Alberta                  ,6,15,23,12,4,8,4,11,4840,Banff--Jasper--Rocky Mountain House,4,"Occupations in education, law and social, community and government services "
-Alberta                  ,29,17,19,10,1,1,1,14,4840,Banff--Jasper--Rocky Mountain House,5,"Occupations in art, culture, recreation and sport "
-Alberta                  ,257,264,212,494,234,265,"1,175",750,4840,Banff--Jasper--Rocky Mountain House,6,Sales and service occupations 
-Alberta                  ,14,13,21,8,8,8,18,37,4840,Banff--Jasper--Rocky Mountain House,7,"Trades, transport and equipment operators and related occupations "
-Alberta                  ,14,38,68,67,45,47,57,82,4840,Banff--Jasper--Rocky Mountain House,8,"Natural resources, agriculture and related production occupations "
-Alberta                  ,3,2,0,10,0,0,4,9,4840,Banff--Jasper--Rocky Mountain House,9,Occupations in manufacturing and utilities 
-Alberta                  ,23,8,3,8,5,1,13,18,4850,Red Deer,0,Management occupations 
-Alberta                  ,2,2,1,2,2,7,17,21,4850,Red Deer,1,"Business, finance and administration occupations "
-Alberta                  ,8,8,4,6,1,0,6,9,4850,Red Deer,2,Natural and applied sciences and related occupations 
-Alberta                  ,5,4,1,3,4,8,15,30,4850,Red Deer,3,Health occupations 
-Alberta                  ,46,46,48,21,12,21,19,16,4850,Red Deer,4,"Occupations in education, law and social, community and government services "
-Alberta                  ,6,6,5,2,2,1,1,7,4850,Red Deer,5,"Occupations in art, culture, recreation and sport "
-Alberta                  ,139,134,117,192,102,139,447,514,4850,Red Deer,6,Sales and service occupations 
-Alberta                  ,18,29,24,40,23,13,78,67,4850,Red Deer,7,"Trades, transport and equipment operators and related occupations "
-Alberta                  ,140,201,252,231,260,234,333,456,4850,Red Deer,8,"Natural resources, agriculture and related production occupations "
-Alberta                  ,8,4,1,2,6,4,248,5,4850,Red Deer,9,Occupations in manufacturing and utilities 
-Alberta                  ,162,106,49,87,44,81,137,179,4860,Edmonton,0,Management occupations 
-Alberta                  ,99,71,92,271,180,272,922,"1,113",4860,Edmonton,1,"Business, finance and administration occupations "
-Alberta                  ,83,51,76,93,55,77,205,159,4860,Edmonton,2,Natural and applied sciences and related occupations 
-Alberta                  ,52,42,35,44,30,21,33,58,4860,Edmonton,3,Health occupations 
-Alberta                  ,469,521,576,468,203,272,332,343,4860,Edmonton,4,"Occupations in education, law and social, community and government services "
-Alberta                  ,29,25,12,22,12,15,33,39,4860,Edmonton,5,"Occupations in art, culture, recreation and sport "
-Alberta                  ,"1,453","1,090",784,"1,467",816,"1,172","3,219","4,013",4860,Edmonton,6,Sales and service occupations 
-Alberta                  ,563,642,585,"1,380",608,583,"2,701","2,793",4860,Edmonton,7,"Trades, transport and equipment operators and related occupations "
-Alberta                  ,306,246,317,332,286,258,360,595,4860,Edmonton,8,"Natural resources, agriculture and related production occupations "
-Alberta                  ,84,28,37,46,10,11,121,157,4860,Edmonton,9,Occupations in manufacturing and utilities 
-Alberta                  ,33,27,19,22,10,12,14,9,4870,Athabasca--Grande Prairie--Peace River,0,Management occupations 
-Alberta                  ,8,4,8,4,7,9,33,25,4870,Athabasca--Grande Prairie--Peace River,1,"Business, finance and administration occupations "
-Alberta                  ,3,8,6,4,0,10,6,3,4870,Athabasca--Grande Prairie--Peace River,2,Natural and applied sciences and related occupations 
-Alberta                  ,25,7,6,10,13,13,41,102,4870,Athabasca--Grande Prairie--Peace River,3,Health occupations 
-Alberta                  ,64,62,73,47,17,21,10,20,4870,Athabasca--Grande Prairie--Peace River,4,"Occupations in education, law and social, community and government services "
-Alberta                  ,0,1,1,2,2,3,0,0,4870,Athabasca--Grande Prairie--Peace River,5,"Occupations in art, culture, recreation and sport "
-Alberta                  ,306,349,300,561,275,418,"1,004",868,4870,Athabasca--Grande Prairie--Peace River,6,Sales and service occupations 
-Alberta                  ,39,24,30,76,29,22,91,146,4870,Athabasca--Grande Prairie--Peace River,7,"Trades, transport and equipment operators and related occupations "
-Alberta                  ,197,280,339,401,278,293,364,531,4870,Athabasca--Grande Prairie--Peace River,8,"Natural resources, agriculture and related production occupations "
-Alberta                  ,5,5,1,0,1,2,22,12,4870,Athabasca--Grande Prairie--Peace River,9,Occupations in manufacturing and utilities 
-Alberta                  ,36,16,12,3,9,8,6,8,4880,Wood Buffalo--Cold Lake,0,Management occupations 
-Alberta                  ,4,5,2,4,5,4,10,19,4880,Wood Buffalo--Cold Lake,1,"Business, finance and administration occupations "
-Alberta                  ,30,32,38,21,15,0,18,14,4880,Wood Buffalo--Cold Lake,2,Natural and applied sciences and related occupations 
-Alberta                  ,11,6,2,1,0,7,9,24,4880,Wood Buffalo--Cold Lake,3,Health occupations 
-Alberta                  ,106,118,129,86,23,39,33,37,4880,Wood Buffalo--Cold Lake,4,"Occupations in education, law and social, community and government services "
-Alberta                  ,3,5,5,3,0,2,0,1,4880,Wood Buffalo--Cold Lake,5,"Occupations in art, culture, recreation and sport "
-Alberta                  ,186,289,152,258,172,200,551,501,4880,Wood Buffalo--Cold Lake,6,Sales and service occupations 
-Alberta                  ,48,25,61,32,33,37,115,78,4880,Wood Buffalo--Cold Lake,7,"Trades, transport and equipment operators and related occupations "
-Alberta                  ,96,113,111,121,151,110,110,218,4880,Wood Buffalo--Cold Lake,8,"Natural resources, agriculture and related production occupations "
-Alberta                  ,11,1,2,7,6,0,4,0,4880,Wood Buffalo--Cold Lake,9,Occupations in manufacturing and utilities 
-British Columbia         ,36,51,44,58,95,67,120,108,5910,Vancouver Island and Coast,0,Management occupations 
-British Columbia         ,11,7,2,9,13,16,53,86,5910,Vancouver Island and Coast,1,"Business, finance and administration occupations "
-British Columbia         ,140,76,46,47,29,36,36,32,5910,Vancouver Island and Coast,2,Natural and applied sciences and related occupations 
-British Columbia         ,5,5,8,19,44,35,83,69,5910,Vancouver Island and Coast,3,Health occupations 
-British Columbia         ,134,145,191,139,111,108,129,152,5910,Vancouver Island and Coast,4,"Occupations in education, law and social, community and government services "
-British Columbia         ,38,15,10,11,12,14,19,10,5910,Vancouver Island and Coast,5,"Occupations in art, culture, recreation and sport "
-British Columbia         ,154,330,330,661,572,844,"1,890","1,733",5910,Vancouver Island and Coast,6,Sales and service occupations 
-British Columbia         ,794,49,18,58,45,87,246,268,5910,Vancouver Island and Coast,7,"Trades, transport and equipment operators and related occupations "
-British Columbia         ,173,198,263,282,294,282,368,487,5910,Vancouver Island and Coast,8,"Natural resources, agriculture and related production occupations "
-British Columbia         ,6,16,4,18,63,84,337,176,5910,Vancouver Island and Coast,9,Occupations in manufacturing and utilities 
-British Columbia         ,391,453,362,698,924,826,"1,136",909,5920,Lower Mainland--Southwest,0,Management occupations 
-British Columbia         ,343,412,394,"1,011","1,009",851,"1,847","2,025",5920,Lower Mainland--Southwest,1,"Business, finance and administration occupations "
-British Columbia         ,620,788,652,868,873,914,"1,517",840,5920,Lower Mainland--Southwest,2,Natural and applied sciences and related occupations 
-British Columbia         ,40,46,51,69,69,92,144,195,5920,Lower Mainland--Southwest,3,Health occupations 
-British Columbia         ,"1,486","1,846","2,425","1,950","1,276","1,523","1,188","1,180",5920,Lower Mainland--Southwest,4,"Occupations in education, law and social, community and government services "
-British Columbia         ,"1,996","1,404","1,114",993,483,578,860,684,5920,Lower Mainland--Southwest,5,"Occupations in art, culture, recreation and sport "
-British Columbia         ,"1,395","2,155","2,397","4,315","3,398","3,117","6,373","6,513",5920,Lower Mainland--Southwest,6,Sales and service occupations 
-British Columbia         ,"1,534","2,490","2,368","5,694","4,013","4,639","8,068","7,735",5920,Lower Mainland--Southwest,7,"Trades, transport and equipment operators and related occupations "
-British Columbia         ,"5,473","6,466","9,778","7,012","8,685","7,697","9,309","14,255",5920,Lower Mainland--Southwest,8,"Natural resources, agriculture and related production occupations "
-British Columbia         ,32,93,160,275,448,485,"1,218",847,5920,Lower Mainland--Southwest,9,Occupations in manufacturing and utilities 
-British Columbia         ,28,32,30,58,120,65,74,81,5930,Thompson--Okanagan,0,Management occupations 
-British Columbia         ,9,6,11,12,15,23,57,83,5930,Thompson--Okanagan,1,"Business, finance and administration occupations "
-British Columbia         ,8,14,9,12,13,18,15,13,5930,Thompson--Okanagan,2,Natural and applied sciences and related occupations 
-British Columbia         ,5,5,0,25,13,27,49,56,5930,Thompson--Okanagan,3,Health occupations 
-British Columbia         ,50,66,97,50,43,45,29,37,5930,Thompson--Okanagan,4,"Occupations in education, law and social, community and government services "
-British Columbia         ,50,58,35,32,6,26,22,13,5930,Thompson--Okanagan,5,"Occupations in art, culture, recreation and sport "
-British Columbia         ,186,329,377,567,521,689,"2,207","1,659",5930,Thompson--Okanagan,6,Sales and service occupations 
-British Columbia         ,14,22,61,68,66,105,496,429,5930,Thompson--Okanagan,7,"Trades, transport and equipment operators and related occupations "
-British Columbia         ,"3,888","3,885","6,209","5,457","6,140","5,823","6,456","9,213",5930,Thompson--Okanagan,8,"Natural resources, agriculture and related production occupations "
-British Columbia         ,5,3,1,18,12,61,82,110,5930,Thompson--Okanagan,9,Occupations in manufacturing and utilities 
-British Columbia         ,3,4,3,11,21,14,15,26,5940,Kootenay,0,Management occupations 
-British Columbia         ,0,1,0,2,5,1,7,9,5940,Kootenay,1,"Business, finance and administration occupations "
-British Columbia         ,4,7,5,2,3,3,5,2,5940,Kootenay,2,Natural and applied sciences and related occupations 
-British Columbia         ,11,14,3,2,8,8,2,1,5940,Kootenay,3,Health occupations 
-British Columbia         ,10,14,12,19,4,6,4,8,5940,Kootenay,4,"Occupations in education, law and social, community and government services "
-British Columbia         ,4,1,1,1,0,0,16,6,5940,Kootenay,5,"Occupations in art, culture, recreation and sport "
-British Columbia         ,43,64,67,156,121,105,409,363,5940,Kootenay,6,Sales and service occupations 
-British Columbia         ,18,0,4,19,26,30,55,75,5940,Kootenay,7,"Trades, transport and equipment operators and related occupations "
-British Columbia         ,129,137,364,233,411,312,649,"1,166",5940,Kootenay,8,"Natural resources, agriculture and related production occupations "
-British Columbia         ,2,0,0,1,0,0,0,4,5940,Kootenay,9,Occupations in manufacturing and utilities 
-British Columbia         ,7,8,8,15,21,17,21,18,5950,Cariboo,0,Management occupations 
-British Columbia         ,2,1,1,4,10,11,17,18,5950,Cariboo,1,"Business, finance and administration occupations "
-British Columbia         ,8,6,3,4,1,1,6,7,5950,Cariboo,2,Natural and applied sciences and related occupations 
-British Columbia         ,6,8,1,10,5,7,8,9,5950,Cariboo,3,Health occupations 
-British Columbia         ,16,11,25,12,9,7,4,4,5950,Cariboo,4,"Occupations in education, law and social, community and government services "
-British Columbia         ,17,6,0,3,0,1,5,15,5950,Cariboo,5,"Occupations in art, culture, recreation and sport "
-British Columbia         ,47,39,62,98,78,94,286,329,5950,Cariboo,6,Sales and service occupations 
-British Columbia         ,30,4,13,29,15,20,34,42,5950,Cariboo,7,"Trades, transport and equipment operators and related occupations "
-British Columbia         ,13,52,150,267,185,85,136,142,5950,Cariboo,8,"Natural resources, agriculture and related production occupations "
-British Columbia         ,10,16,2,4,2,2,1,0,5950,Cariboo,9,Occupations in manufacturing and utilities 
-British Columbia         ,4,3,4,6,10,14,20,11,5960,North Coast,0,Management occupations 
-British Columbia         ,1,2,2,5,1,1,8,14,5960,North Coast,1,"Business, finance and administration occupations "
-British Columbia         ,5,0,19,18,3,0,2,1,5960,North Coast,2,Natural and applied sciences and related occupations 
-British Columbia         ,0,3,0,0,3,4,9,5,5960,North Coast,3,Health occupations 
-British Columbia         ,8,3,4,6,1,5,4,2,5960,North Coast,4,"Occupations in education, law and social, community and government services "
-British Columbia         ,0,2,0,0,0,2,0,2,5960,North Coast,5,"Occupations in art, culture, recreation and sport "
-British Columbia         ,32,26,48,85,68,101,193,227,5960,North Coast,6,Sales and service occupations 
-British Columbia         ,1,1,7,44,11,13,115,24,5960,North Coast,7,"Trades, transport and equipment operators and related occupations "
-British Columbia         ,0,0,2,0,4,4,2,14,5960,North Coast,8,"Natural resources, agriculture and related production occupations "
-British Columbia         ,10,0,0,0,18,11,4,9,5960,North Coast,9,Occupations in manufacturing and utilities 
-British Columbia         ,3,3,0,3,5,5,10,8,5970,Nechako,0,Management occupations 
-British Columbia         ,0,1,2,0,5,0,2,4,5970,Nechako,1,"Business, finance and administration occupations "
-British Columbia         ,2,0,0,0,0,0,0,2,5970,Nechako,2,Natural and applied sciences and related occupations 
-British Columbia         ,0,0,0,0,0,1,0,1,5970,Nechako,3,Health occupations 
-British Columbia         ,3,2,3,0,0,1,0,0,5970,Nechako,4,"Occupations in education, law and social, community and government services "
-British Columbia         ,1,0,0,1,0,1,6,0,5970,Nechako,5,"Occupations in art, culture, recreation and sport "
-British Columbia         ,15,15,30,51,55,74,148,118,5970,Nechako,6,Sales and service occupations 
-British Columbia         ,4,1,0,4,4,32,56,30,5970,Nechako,7,"Trades, transport and equipment operators and related occupations "
-British Columbia         ,0,6,1,52,4,13,22,17,5970,Nechako,8,"Natural resources, agriculture and related production occupations "
-British Columbia         ,0,0,0,0,0,1,0,2,5970,Nechako,9,Occupations in manufacturing and utilities 
-British Columbia         ,5,7,3,13,10,3,13,11,5980,Northeast,0,Management occupations 
-British Columbia         ,1,0,1,4,2,7,5,10,5980,Northeast,1,"Business, finance and administration occupations "
-British Columbia         ,1,16,3,2,5,6,5,7,5980,Northeast,2,Natural and applied sciences and related occupations 
-British Columbia         ,2,1,2,0,3,2,1,1,5980,Northeast,3,Health occupations 
-British Columbia         ,13,11,25,10,6,8,7,6,5980,Northeast,4,"Occupations in education, law and social, community and government services "
-British Columbia         ,1,0,0,2,0,0,0,0,5980,Northeast,5,"Occupations in art, culture, recreation and sport "
-British Columbia         ,44,66,60,148,75,126,241,254,5980,Northeast,6,Sales and service occupations 
-British Columbia         ,11,11,32,75,7,20,161,67,5980,Northeast,7,"Trades, transport and equipment operators and related occupations "
-British Columbia         ,0,1,10,1,1,55,7,77,5980,Northeast,8,"Natural resources, agriculture and related production occupations "
-British Columbia         ,0,0,0,0,1,0,1,2,5980,Northeast,9,Occupations in manufacturing and utilities 
-Yukon                    ,1,1,1,1,1,3,1,0,6010,Yukon,0,Management occupations 
-Yukon                    ,0,0,0,0,0,1,3,1,6010,Yukon,1,"Business, finance and administration occupations "
-Yukon                    ,4,4,2,0,0,3,1,2,6010,Yukon,2,Natural and applied sciences and related occupations 
-Yukon                    ,0,3,0,0,0,0,0,0,6010,Yukon,3,Health occupations 
-Yukon                    ,5,11,7,7,0,1,0,2,6010,Yukon,4,"Occupations in education, law and social, community and government services "
-Yukon                    ,86,72,85,93,31,111,103,104,6010,Yukon,5,"Occupations in art, culture, recreation and sport "
-Yukon                    ,5,3,3,21,5,5,26,19,6010,Yukon,6,Sales and service occupations 
-Yukon                    ,6,25,9,17,3,2,23,8,6010,Yukon,7,"Trades, transport and equipment operators and related occupations "
-Yukon,0,0,0,0,0,0,0,0,6010,Yukon,8,"Natural resources, agriculture and related production occupations "
-Yukon,0,0,0,0,0,0,0,0,6010,Yukon,9,Occupations in manufacturing and utilities 
-Northwest Territories    ,3,2,1,5,0,2,4,2,6110,Northwest Territories,0,Management occupations 
-Northwest Territories    ,0,1,1,1,0,0,1,1,6110,Northwest Territories,1,"Business, finance and administration occupations "
-Northwest Territories    ,8,5,0,0,0,0,1,13,6110,Northwest Territories,2,Natural and applied sciences and related occupations 
-Northwest Territories    ,0,0,0,3,2,0,2,2,6110,Northwest Territories,3,Health occupations 
-Northwest Territories    ,11,13,12,7,5,5,2,1,6110,Northwest Territories,4,"Occupations in education, law and social, community and government services "
-Northwest Territories    ,1,0,0,0,0,0,0,0,6110,Northwest Territories,5,"Occupations in art, culture, recreation and sport "
-Northwest Territories    ,30,10,5,37,18,22,106,85,6110,Northwest Territories,6,Sales and service occupations 
-Northwest Territories    ,11,13,2,2,2,0,15,20,6110,Northwest Territories,7,"Trades, transport and equipment operators and related occupations "
-Northwest Territories    ,0,0,0,1,1,1,1,0,6110,Northwest Territories,8,"Natural resources, agriculture and related production occupations "
-Northwest Territories    ,0,2,0,0,1,0,0,0,6110,Northwest Territories,9,Occupations in manufacturing and utilities 
-Nunavut                  ,2,1,4,0,1,0,2,0,6210,Nunavut,0,Management occupations 
-Nunavut                  ,3,0,1,1,3,3,1,3,6210,Nunavut,1,"Business, finance and administration occupations "
-Nunavut                  ,12,13,27,16,18,17,16,40,6210,Nunavut,2,Natural and applied sciences and related occupations 
-Nunavut                  ,2,1,1,0,0,1,3,0,6210,Nunavut,3,Health occupations 
-Nunavut                  ,6,6,10,2,2,2,1,1,6210,Nunavut,4,"Occupations in education, law and social, community and government services "
-Nunavut                  ,7,1,8,1,0,2,0,0,6210,Nunavut,5,"Occupations in art, culture, recreation and sport "
-Nunavut                  ,98,15,49,71,7,9,46,39,6210,Nunavut,6,Sales and service occupations 
-Nunavut                  ,15,4,32,42,15,29,19,39,6210,Nunavut,7,"Trades, transport and equipment operators and related occupations "
-Nunavut,0,0,0,0,0,0,0,0,6210,Nunavut,8,"Natural resources, agriculture and related production occupations "
-Nunavut,0,0,0,0,0,0,0,0,6210,Nunavut,9,Occupations in manufacturing and utilities 
+province_territory,2016,2017,2018,2019,2020,2021,2022,2023,region_code,region_name,noc_code,occupational_skill_type
+Newfoundland and Labrador,16.0,10.0,8.0,7.0,0.0,3.0,2.0,2.0,1010,Avalon Peninsula,0,Management occupations
+Newfoundland and Labrador,0.0,1.0,5.0,1.0,0.0,0.0,0.0,5.0,1010,Avalon Peninsula,1,"Business, finance and administration occupations"
+Newfoundland and Labrador,77.0,26.0,8.0,28.0,4.0,15.0,6.0,8.0,1010,Avalon Peninsula,2,Natural and applied sciences and related occupations
+Newfoundland and Labrador,1.0,1.0,1.0,1.0,6.0,2.0,1.0,6.0,1010,Avalon Peninsula,3,Health occupations
+Newfoundland and Labrador,21.0,9.0,9.0,6.0,3.0,1.0,5.0,2.0,1010,Avalon Peninsula,4,"Occupations in education, law and social, community and government services"
+Newfoundland and Labrador,8.0,2.0,1.0,3.0,2.0,1.0,0.0,0.0,1010,Avalon Peninsula,5,"Occupations in art, culture, recreation and sport"
+Newfoundland and Labrador,37.0,18.0,15.0,22.0,9.0,7.0,53.0,94.0,1010,Avalon Peninsula,6,Sales and service occupations
+Newfoundland and Labrador,24.0,19.0,23.0,1.0,9.0,3.0,17.0,8.0,1010,Avalon Peninsula,7,"Trades, transport and equipment operators and related occupations"
+Newfoundland and Labrador,34.0,21.0,24.0,28.0,46.0,37.0,52.0,45.0,1010,Avalon Peninsula,8,"Natural resources, agriculture and related production occupations"
+Newfoundland and Labrador,1.0,37.0,58.0,4.0,0.0,5.0,447.0,670.0,1010,Avalon Peninsula,9,Occupations in manufacturing and utilities
+Newfoundland and Labrador,0.0,1.0,1.0,0.0,0.0,1.0,2.0,2.0,1020,South Coast--Burin Peninsula,0,Management occupations
+Newfoundland and Labrador,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1020,South Coast--Burin Peninsula,1,"Business, finance and administration occupations"
+Newfoundland and Labrador,0.0,0.0,0.0,1.0,0.0,1.0,9.0,1.0,1020,South Coast--Burin Peninsula,2,Natural and applied sciences and related occupations
+Newfoundland and Labrador,0.0,0.0,3.0,2.0,2.0,0.0,0.0,2.0,1020,South Coast--Burin Peninsula,3,Health occupations
+Newfoundland and Labrador,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1020,South Coast--Burin Peninsula,4,"Occupations in education, law and social, community and government services"
+Newfoundland and Labrador,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1020,South Coast--Burin Peninsula,5,"Occupations in art, culture, recreation and sport"
+Newfoundland and Labrador,0.0,1.0,0.0,0.0,0.0,2.0,0.0,4.0,1020,South Coast--Burin Peninsula,6,Sales and service occupations
+Newfoundland and Labrador,0.0,3.0,0.0,0.0,0.0,0.0,2.0,2.0,1020,South Coast--Burin Peninsula,7,"Trades, transport and equipment operators and related occupations"
+Newfoundland and Labrador,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,1020,South Coast--Burin Peninsula,8,"Natural resources, agriculture and related production occupations"
+Newfoundland and Labrador,0.0,0.0,0.0,0.0,0.0,0.0,22.0,49.0,1020,South Coast--Burin Peninsula,9,Occupations in manufacturing and utilities
+Newfoundland and Labrador,3.0,0.0,5.0,0.0,0.0,1.0,0.0,1.0,1030,West Coast--Northern Peninsula--Labrador,0,Management occupations
+Newfoundland and Labrador,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1030,West Coast--Northern Peninsula--Labrador,1,"Business, finance and administration occupations"
+Newfoundland and Labrador,2.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0,1030,West Coast--Northern Peninsula--Labrador,2,Natural and applied sciences and related occupations
+Newfoundland and Labrador,13.0,7.0,1.0,5.0,9.0,2.0,4.0,8.0,1030,West Coast--Northern Peninsula--Labrador,3,Health occupations
+Newfoundland and Labrador,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,1030,West Coast--Northern Peninsula--Labrador,4,"Occupations in education, law and social, community and government services"
+Newfoundland and Labrador,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1030,West Coast--Northern Peninsula--Labrador,5,"Occupations in art, culture, recreation and sport"
+Newfoundland and Labrador,18.0,8.0,23.0,18.0,7.0,26.0,48.0,36.0,1030,West Coast--Northern Peninsula--Labrador,6,Sales and service occupations
+Newfoundland and Labrador,3.0,3.0,6.0,3.0,0.0,3.0,7.0,11.0,1030,West Coast--Northern Peninsula--Labrador,7,"Trades, transport and equipment operators and related occupations"
+Newfoundland and Labrador,8.0,13.0,18.0,12.0,19.0,21.0,36.0,44.0,1030,West Coast--Northern Peninsula--Labrador,8,"Natural resources, agriculture and related production occupations"
+Newfoundland and Labrador,0.0,1.0,0.0,0.0,10.0,0.0,13.0,45.0,1030,West Coast--Northern Peninsula--Labrador,9,Occupations in manufacturing and utilities
+Newfoundland and Labrador,0.0,1.0,0.0,0.0,0.0,2.0,2.0,5.0,1040,Notre Dame--Central Bonavista Bay,0,Management occupations
+Newfoundland and Labrador,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1040,Notre Dame--Central Bonavista Bay,1,"Business, finance and administration occupations"
+Newfoundland and Labrador,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1040,Notre Dame--Central Bonavista Bay,2,Natural and applied sciences and related occupations
+Newfoundland and Labrador,9.0,1.0,3.0,5.0,11.0,12.0,10.0,7.0,1040,Notre Dame--Central Bonavista Bay,3,Health occupations
+Newfoundland and Labrador,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1040,Notre Dame--Central Bonavista Bay,4,"Occupations in education, law and social, community and government services"
+Newfoundland and Labrador,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1040,Notre Dame--Central Bonavista Bay,5,"Occupations in art, culture, recreation and sport"
+Newfoundland and Labrador,3.0,3.0,0.0,1.0,1.0,6.0,20.0,26.0,1040,Notre Dame--Central Bonavista Bay,6,Sales and service occupations
+Newfoundland and Labrador,0.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,1040,Notre Dame--Central Bonavista Bay,7,"Trades, transport and equipment operators and related occupations"
+Newfoundland and Labrador,2.0,3.0,2.0,18.0,16.0,20.0,21.0,32.0,1040,Notre Dame--Central Bonavista Bay,8,"Natural resources, agriculture and related production occupations"
+Newfoundland and Labrador,0.0,0.0,0.0,12.0,10.0,18.0,99.0,86.0,1040,Notre Dame--Central Bonavista Bay,9,Occupations in manufacturing and utilities
+Prince Edward Island,9.0,4.0,4.0,3.0,9.0,7.0,4.0,6.0,1110,Prince Edward Island,0,Management occupations
+Prince Edward Island,1.0,1.0,0.0,1.0,0.0,2.0,2.0,7.0,1110,Prince Edward Island,1,"Business, finance and administration occupations"
+Prince Edward Island,32.0,13.0,2.0,1.0,4.0,2.0,5.0,5.0,1110,Prince Edward Island,2,Natural and applied sciences and related occupations
+Prince Edward Island,4.0,4.0,0.0,5.0,4.0,1.0,4.0,8.0,1110,Prince Edward Island,3,Health occupations
+Prince Edward Island,6.0,3.0,4.0,5.0,0.0,3.0,2.0,2.0,1110,Prince Edward Island,4,"Occupations in education, law and social, community and government services"
+Prince Edward Island,8.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1110,Prince Edward Island,5,"Occupations in art, culture, recreation and sport"
+Prince Edward Island,11.0,14.0,8.0,14.0,10.0,16.0,120.0,75.0,1110,Prince Edward Island,6,Sales and service occupations
+Prince Edward Island,68.0,105.0,114.0,86.0,62.0,67.0,125.0,106.0,1110,Prince Edward Island,7,"Trades, transport and equipment operators and related occupations"
+Prince Edward Island,358.0,418.0,406.0,526.0,754.0,514.0,687.0,761.0,1110,Prince Edward Island,8,"Natural resources, agriculture and related production occupations"
+Prince Edward Island,449.0,493.0,474.0,537.0,881.0,892.0,1341.0,741.0,1110,Prince Edward Island,9,Occupations in manufacturing and utilities
+Nova Scotia,0.0,0.0,0.0,1.0,2.0,1.0,4.0,7.0,1210,Cape Breton,0,Management occupations
+Nova Scotia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1210,Cape Breton,1,"Business, finance and administration occupations"
+Nova Scotia,12.0,3.0,3.0,4.0,0.0,0.0,5.0,0.0,1210,Cape Breton,2,Natural and applied sciences and related occupations
+Nova Scotia,8.0,4.0,0.0,0.0,1.0,0.0,1.0,0.0,1210,Cape Breton,3,Health occupations
+Nova Scotia,1.0,2.0,2.0,0.0,2.0,2.0,0.0,2.0,1210,Cape Breton,4,"Occupations in education, law and social, community and government services"
+Nova Scotia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1210,Cape Breton,5,"Occupations in art, culture, recreation and sport"
+Nova Scotia,9.0,6.0,8.0,8.0,1.0,5.0,14.0,125.0,1210,Cape Breton,6,Sales and service occupations
+Nova Scotia,11.0,0.0,6.0,0.0,0.0,0.0,1.0,8.0,1210,Cape Breton,7,"Trades, transport and equipment operators and related occupations"
+Nova Scotia,18.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1210,Cape Breton,8,"Natural resources, agriculture and related production occupations"
+Nova Scotia,38.0,94.0,73.0,56.0,155.0,187.0,312.0,230.0,1210,Cape Breton,9,Occupations in manufacturing and utilities
+Nova Scotia,4.0,2.0,2.0,4.0,1.0,0.0,7.0,6.0,1220,North Shore,0,Management occupations
+Nova Scotia,3.0,4.0,0.0,4.0,0.0,1.0,8.0,6.0,1220,North Shore,1,"Business, finance and administration occupations"
+Nova Scotia,5.0,5.0,3.0,2.0,0.0,0.0,1.0,0.0,1220,North Shore,2,Natural and applied sciences and related occupations
+Nova Scotia,8.0,2.0,1.0,1.0,3.0,1.0,2.0,1.0,1220,North Shore,3,Health occupations
+Nova Scotia,2.0,2.0,2.0,3.0,6.0,3.0,0.0,3.0,1220,North Shore,4,"Occupations in education, law and social, community and government services"
+Nova Scotia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1220,North Shore,5,"Occupations in art, culture, recreation and sport"
+Nova Scotia,11.0,6.0,2.0,15.0,14.0,14.0,69.0,122.0,1220,North Shore,6,Sales and service occupations
+Nova Scotia,12.0,4.0,18.0,0.0,0.0,10.0,20.0,27.0,1220,North Shore,7,"Trades, transport and equipment operators and related occupations"
+Nova Scotia,326.0,431.0,955.0,488.0,489.0,558.0,887.0,635.0,1220,North Shore,8,"Natural resources, agriculture and related production occupations"
+Nova Scotia,75.0,126.0,90.0,148.0,191.0,453.0,399.0,156.0,1220,North Shore,9,Occupations in manufacturing and utilities
+Nova Scotia,3.0,1.0,2.0,0.0,1.0,3.0,1.0,3.0,1230,Annapolis Valley,0,Management occupations
+Nova Scotia,0.0,0.0,2.0,0.0,1.0,0.0,2.0,2.0,1230,Annapolis Valley,1,"Business, finance and administration occupations"
+Nova Scotia,0.0,0.0,0.0,1.0,2.0,2.0,7.0,2.0,1230,Annapolis Valley,2,Natural and applied sciences and related occupations
+Nova Scotia,2.0,0.0,7.0,1.0,2.0,1.0,1.0,0.0,1230,Annapolis Valley,3,Health occupations
+Nova Scotia,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1230,Annapolis Valley,4,"Occupations in education, law and social, community and government services"
+Nova Scotia,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1230,Annapolis Valley,5,"Occupations in art, culture, recreation and sport"
+Nova Scotia,14.0,11.0,9.0,13.0,11.0,12.0,84.0,162.0,1230,Annapolis Valley,6,Sales and service occupations
+Nova Scotia,16.0,37.0,35.0,21.0,3.0,45.0,64.0,30.0,1230,Annapolis Valley,7,"Trades, transport and equipment operators and related occupations"
+Nova Scotia,1178.0,1318.0,1631.0,1240.0,1622.0,1667.0,1747.0,1949.0,1230,Annapolis Valley,8,"Natural resources, agriculture and related production occupations"
+Nova Scotia,0.0,0.0,7.0,0.0,32.0,65.0,84.0,190.0,1230,Annapolis Valley,9,Occupations in manufacturing and utilities
+Nova Scotia,1.0,4.0,0.0,1.0,1.0,2.0,3.0,1.0,1240,Southern,0,Management occupations
+Nova Scotia,0.0,0.0,0.0,0.0,0.0,2.0,3.0,6.0,1240,Southern,1,"Business, finance and administration occupations"
+Nova Scotia,3.0,0.0,2.0,0.0,0.0,2.0,6.0,1.0,1240,Southern,2,Natural and applied sciences and related occupations
+Nova Scotia,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1240,Southern,3,Health occupations
+Nova Scotia,0.0,1.0,1.0,1.0,0.0,0.0,2.0,0.0,1240,Southern,4,"Occupations in education, law and social, community and government services"
+Nova Scotia,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1240,Southern,5,"Occupations in art, culture, recreation and sport"
+Nova Scotia,6.0,2.0,4.0,4.0,3.0,36.0,104.0,108.0,1240,Southern,6,Sales and service occupations
+Nova Scotia,1.0,0.0,0.0,0.0,2.0,22.0,28.0,17.0,1240,Southern,7,"Trades, transport and equipment operators and related occupations"
+Nova Scotia,86.0,115.0,105.0,197.0,165.0,159.0,201.0,238.0,1240,Southern,8,"Natural resources, agriculture and related production occupations"
+Nova Scotia,52.0,104.0,83.0,178.0,208.0,489.0,571.0,401.0,1240,Southern,9,Occupations in manufacturing and utilities
+Nova Scotia,39.0,47.0,39.0,36.0,34.0,38.0,41.0,37.0,1250,Halifax,0,Management occupations
+Nova Scotia,7.0,3.0,6.0,2.0,4.0,14.0,34.0,60.0,1250,Halifax,1,"Business, finance and administration occupations"
+Nova Scotia,101.0,39.0,29.0,40.0,32.0,97.0,139.0,70.0,1250,Halifax,2,Natural and applied sciences and related occupations
+Nova Scotia,5.0,3.0,2.0,1.0,2.0,4.0,7.0,16.0,1250,Halifax,3,Health occupations
+Nova Scotia,18.0,22.0,34.0,18.0,15.0,22.0,6.0,17.0,1250,Halifax,4,"Occupations in education, law and social, community and government services"
+Nova Scotia,10.0,3.0,22.0,7.0,0.0,1.0,4.0,2.0,1250,Halifax,5,"Occupations in art, culture, recreation and sport"
+Nova Scotia,64.0,66.0,44.0,52.0,40.0,55.0,297.0,375.0,1250,Halifax,6,Sales and service occupations
+Nova Scotia,37.0,63.0,113.0,121.0,34.0,83.0,287.0,248.0,1250,Halifax,7,"Trades, transport and equipment operators and related occupations"
+Nova Scotia,22.0,23.0,29.0,35.0,69.0,20.0,61.0,99.0,1250,Halifax,8,"Natural resources, agriculture and related production occupations"
+Nova Scotia,11.0,0.0,6.0,0.0,14.0,3.0,58.0,27.0,1250,Halifax,9,Occupations in manufacturing and utilities
+New Brunswick,0.0,1.0,0.0,0.0,0.0,1.0,3.0,1.0,1310,Campbellton--Miramichi,0,Management occupations
+New Brunswick,0.0,0.0,1.0,1.0,1.0,0.0,3.0,3.0,1310,Campbellton--Miramichi,1,"Business, finance and administration occupations"
+New Brunswick,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1310,Campbellton--Miramichi,2,Natural and applied sciences and related occupations
+New Brunswick,2.0,3.0,0.0,1.0,0.0,3.0,5.0,105.0,1310,Campbellton--Miramichi,3,Health occupations
+New Brunswick,2.0,1.0,4.0,0.0,0.0,3.0,1.0,1.0,1310,Campbellton--Miramichi,4,"Occupations in education, law and social, community and government services"
+New Brunswick,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1310,Campbellton--Miramichi,5,"Occupations in art, culture, recreation and sport"
+New Brunswick,6.0,5.0,4.0,11.0,9.0,27.0,54.0,82.0,1310,Campbellton--Miramichi,6,Sales and service occupations
+New Brunswick,1.0,0.0,0.0,0.0,0.0,46.0,21.0,30.0,1310,Campbellton--Miramichi,7,"Trades, transport and equipment operators and related occupations"
+New Brunswick,17.0,6.0,5.0,8.0,4.0,3.0,18.0,35.0,1310,Campbellton--Miramichi,8,"Natural resources, agriculture and related production occupations"
+New Brunswick,41.0,50.0,165.0,177.0,231.0,603.0,1215.0,664.0,1310,Campbellton--Miramichi,9,Occupations in manufacturing and utilities
+New Brunswick,2.0,1.0,0.0,1.0,5.0,5.0,11.0,5.0,1320,Moncton--Richibucto,0,Management occupations
+New Brunswick,8.0,0.0,2.0,2.0,1.0,4.0,13.0,10.0,1320,Moncton--Richibucto,1,"Business, finance and administration occupations"
+New Brunswick,4.0,2.0,6.0,5.0,1.0,8.0,8.0,16.0,1320,Moncton--Richibucto,2,Natural and applied sciences and related occupations
+New Brunswick,3.0,7.0,2.0,3.0,9.0,15.0,17.0,87.0,1320,Moncton--Richibucto,3,Health occupations
+New Brunswick,1.0,3.0,1.0,3.0,1.0,6.0,5.0,12.0,1320,Moncton--Richibucto,4,"Occupations in education, law and social, community and government services"
+New Brunswick,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1320,Moncton--Richibucto,5,"Occupations in art, culture, recreation and sport"
+New Brunswick,36.0,42.0,41.0,56.0,60.0,77.0,169.0,215.0,1320,Moncton--Richibucto,6,Sales and service occupations
+New Brunswick,11.0,15.0,16.0,12.0,38.0,122.0,330.0,264.0,1320,Moncton--Richibucto,7,"Trades, transport and equipment operators and related occupations"
+New Brunswick,74.0,74.0,98.0,121.0,137.0,136.0,250.0,228.0,1320,Moncton--Richibucto,8,"Natural resources, agriculture and related production occupations"
+New Brunswick,717.0,1131.0,667.0,929.0,1854.0,1201.0,3784.0,2045.0,1320,Moncton--Richibucto,9,Occupations in manufacturing and utilities
+New Brunswick,3.0,2.0,3.0,0.0,4.0,6.0,10.0,18.0,1330,Saint John--St. Stephen,0,Management occupations
+New Brunswick,2.0,0.0,1.0,2.0,1.0,6.0,12.0,6.0,1330,Saint John--St. Stephen,1,"Business, finance and administration occupations"
+New Brunswick,12.0,7.0,8.0,7.0,2.0,3.0,8.0,14.0,1330,Saint John--St. Stephen,2,Natural and applied sciences and related occupations
+New Brunswick,5.0,7.0,3.0,4.0,1.0,3.0,7.0,5.0,1330,Saint John--St. Stephen,3,Health occupations
+New Brunswick,3.0,5.0,3.0,2.0,3.0,4.0,15.0,2.0,1330,Saint John--St. Stephen,4,"Occupations in education, law and social, community and government services"
+New Brunswick,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1330,Saint John--St. Stephen,5,"Occupations in art, culture, recreation and sport"
+New Brunswick,14.0,6.0,1.0,17.0,22.0,35.0,108.0,117.0,1330,Saint John--St. Stephen,6,Sales and service occupations
+New Brunswick,40.0,40.0,32.0,45.0,41.0,68.0,70.0,24.0,1330,Saint John--St. Stephen,7,"Trades, transport and equipment operators and related occupations"
+New Brunswick,48.0,64.0,26.0,64.0,59.0,67.0,95.0,179.0,1330,Saint John--St. Stephen,8,"Natural resources, agriculture and related production occupations"
+New Brunswick,7.0,45.0,0.0,0.0,40.0,22.0,94.0,59.0,1330,Saint John--St. Stephen,9,Occupations in manufacturing and utilities
+New Brunswick,0.0,1.0,0.0,2.0,4.0,1.0,4.0,6.0,1340,Fredericton--Oromocto,0,Management occupations
+New Brunswick,0.0,1.0,0.0,0.0,2.0,1.0,7.0,3.0,1340,Fredericton--Oromocto,1,"Business, finance and administration occupations"
+New Brunswick,2.0,3.0,1.0,11.0,7.0,5.0,21.0,9.0,1340,Fredericton--Oromocto,2,Natural and applied sciences and related occupations
+New Brunswick,0.0,0.0,1.0,0.0,1.0,0.0,4.0,0.0,1340,Fredericton--Oromocto,3,Health occupations
+New Brunswick,2.0,5.0,0.0,2.0,0.0,0.0,1.0,4.0,1340,Fredericton--Oromocto,4,"Occupations in education, law and social, community and government services"
+New Brunswick,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1340,Fredericton--Oromocto,5,"Occupations in art, culture, recreation and sport"
+New Brunswick,25.0,21.0,18.0,24.0,27.0,29.0,72.0,135.0,1340,Fredericton--Oromocto,6,Sales and service occupations
+New Brunswick,1.0,1.0,2.0,0.0,3.0,2.0,14.0,9.0,1340,Fredericton--Oromocto,7,"Trades, transport and equipment operators and related occupations"
+New Brunswick,4.0,6.0,8.0,84.0,29.0,145.0,90.0,84.0,1340,Fredericton--Oromocto,8,"Natural resources, agriculture and related production occupations"
+New Brunswick,0.0,0.0,2.0,0.0,0.0,33.0,75.0,10.0,1340,Fredericton--Oromocto,9,Occupations in manufacturing and utilities
+New Brunswick,2.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,1350,Edmundston--Woodstock,0,Management occupations
+New Brunswick,1.0,1.0,0.0,1.0,0.0,0.0,3.0,3.0,1350,Edmundston--Woodstock,1,"Business, finance and administration occupations"
+New Brunswick,2.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1350,Edmundston--Woodstock,2,Natural and applied sciences and related occupations
+New Brunswick,1.0,0.0,0.0,0.0,0.0,1.0,0.0,31.0,1350,Edmundston--Woodstock,3,Health occupations
+New Brunswick,1.0,2.0,1.0,3.0,0.0,0.0,0.0,1.0,1350,Edmundston--Woodstock,4,"Occupations in education, law and social, community and government services"
+New Brunswick,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1350,Edmundston--Woodstock,5,"Occupations in art, culture, recreation and sport"
+New Brunswick,4.0,1.0,1.0,15.0,7.0,0.0,33.0,56.0,1350,Edmundston--Woodstock,6,Sales and service occupations
+New Brunswick,74.0,71.0,126.0,190.0,100.0,98.0,169.0,73.0,1350,Edmundston--Woodstock,7,"Trades, transport and equipment operators and related occupations"
+New Brunswick,41.0,42.0,60.0,104.0,152.0,169.0,222.0,272.0,1350,Edmundston--Woodstock,8,"Natural resources, agriculture and related production occupations"
+New Brunswick,0.0,0.0,0.0,16.0,9.0,27.0,58.0,37.0,1350,Edmundston--Woodstock,9,Occupations in manufacturing and utilities
+Quebec,1.0,2.0,0.0,0.0,0.0,2.0,3.0,7.0,2410,Gaspésie -- Îles-de-la-Madeleine,0,Management occupations
+Quebec,0.0,1.0,0.0,0.0,1.0,0.0,3.0,5.0,2410,Gaspésie -- Îles-de-la-Madeleine,1,"Business, finance and administration occupations"
+Quebec,0.0,0.0,9.0,2.0,2.0,2.0,4.0,11.0,2410,Gaspésie -- Îles-de-la-Madeleine,2,Natural and applied sciences and related occupations
+Quebec,3.0,1.0,2.0,0.0,5.0,8.0,13.0,45.0,2410,Gaspésie -- Îles-de-la-Madeleine,3,Health occupations
+Quebec,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,2410,Gaspésie -- Îles-de-la-Madeleine,4,"Occupations in education, law and social, community and government services"
+Quebec,0.0,0.0,1.0,0.0,0.0,1.0,2.0,2.0,2410,Gaspésie -- Îles-de-la-Madeleine,5,"Occupations in art, culture, recreation and sport"
+Quebec,5.0,7.0,3.0,11.0,5.0,24.0,61.0,112.0,2410,Gaspésie -- Îles-de-la-Madeleine,6,Sales and service occupations
+Quebec,0.0,0.0,10.0,5.0,5.0,9.0,20.0,29.0,2410,Gaspésie -- Îles-de-la-Madeleine,7,"Trades, transport and equipment operators and related occupations"
+Quebec,24.0,8.0,27.0,32.0,37.0,41.0,61.0,18.0,2410,Gaspésie -- Îles-de-la-Madeleine,8,"Natural resources, agriculture and related production occupations"
+Quebec,3.0,38.0,86.0,150.0,115.0,220.0,688.0,655.0,2410,Gaspésie -- Îles-de-la-Madeleine,9,Occupations in manufacturing and utilities
+Quebec,1.0,2.0,0.0,5.0,1.0,0.0,5.0,11.0,2415,Bas-Saint-Laurent,0,Management occupations
+Quebec,0.0,2.0,4.0,6.0,2.0,4.0,10.0,8.0,2415,Bas-Saint-Laurent,1,"Business, finance and administration occupations"
+Quebec,3.0,4.0,19.0,16.0,10.0,6.0,10.0,19.0,2415,Bas-Saint-Laurent,2,Natural and applied sciences and related occupations
+Quebec,1.0,1.0,3.0,3.0,20.0,22.0,65.0,66.0,2415,Bas-Saint-Laurent,3,Health occupations
+Quebec,0.0,0.0,2.0,0.0,0.0,1.0,6.0,2.0,2415,Bas-Saint-Laurent,4,"Occupations in education, law and social, community and government services"
+Quebec,0.0,0.0,0.0,1.0,1.0,1.0,3.0,4.0,2415,Bas-Saint-Laurent,5,"Occupations in art, culture, recreation and sport"
+Quebec,1.0,1.0,14.0,13.0,25.0,25.0,156.0,225.0,2415,Bas-Saint-Laurent,6,Sales and service occupations
+Quebec,7.0,3.0,12.0,18.0,30.0,36.0,137.0,191.0,2415,Bas-Saint-Laurent,7,"Trades, transport and equipment operators and related occupations"
+Quebec,97.0,126.0,146.0,299.0,244.0,346.0,506.0,484.0,2415,Bas-Saint-Laurent,8,"Natural resources, agriculture and related production occupations"
+Quebec,2.0,41.0,39.0,74.0,95.0,163.0,352.0,465.0,2415,Bas-Saint-Laurent,9,Occupations in manufacturing and utilities
+Quebec,10.0,6.0,12.0,24.0,14.0,20.0,69.0,96.0,2420,Capitale-Nationale,0,Management occupations
+Quebec,4.0,7.0,4.0,17.0,47.0,43.0,178.0,174.0,2420,Capitale-Nationale,1,"Business, finance and administration occupations"
+Quebec,86.0,193.0,477.0,715.0,360.0,552.0,1098.0,775.0,2420,Capitale-Nationale,2,Natural and applied sciences and related occupations
+Quebec,6.0,11.0,8.0,45.0,176.0,149.0,386.0,405.0,2420,Capitale-Nationale,3,Health occupations
+Quebec,7.0,3.0,11.0,11.0,16.0,29.0,53.0,77.0,2420,Capitale-Nationale,4,"Occupations in education, law and social, community and government services"
+Quebec,89.0,58.0,31.0,50.0,33.0,23.0,44.0,60.0,2420,Capitale-Nationale,5,"Occupations in art, culture, recreation and sport"
+Quebec,33.0,54.0,84.0,188.0,342.0,151.0,1500.0,1618.0,2420,Capitale-Nationale,6,Sales and service occupations
+Quebec,26.0,46.0,104.0,234.0,348.0,287.0,832.0,845.0,2420,Capitale-Nationale,7,"Trades, transport and equipment operators and related occupations"
+Quebec,1174.0,1180.0,1237.0,1396.0,1342.0,1881.0,2040.0,1757.0,2420,Capitale-Nationale,8,"Natural resources, agriculture and related production occupations"
+Quebec,0.0,0.0,1.0,83.0,119.0,137.0,609.0,389.0,2420,Capitale-Nationale,9,Occupations in manufacturing and utilities
+Quebec,2.0,0.0,2.0,7.0,3.0,2.0,15.0,14.0,2425,Chaudière-Appalaches,0,Management occupations
+Quebec,3.0,1.0,1.0,7.0,4.0,11.0,32.0,66.0,2425,Chaudière-Appalaches,1,"Business, finance and administration occupations"
+Quebec,36.0,38.0,50.0,102.0,57.0,49.0,204.0,119.0,2425,Chaudière-Appalaches,2,Natural and applied sciences and related occupations
+Quebec,0.0,0.0,6.0,45.0,54.0,57.0,145.0,168.0,2425,Chaudière-Appalaches,3,Health occupations
+Quebec,1.0,0.0,0.0,0.0,3.0,2.0,11.0,16.0,2425,Chaudière-Appalaches,4,"Occupations in education, law and social, community and government services"
+Quebec,0.0,1.0,0.0,1.0,1.0,1.0,1.0,5.0,2425,Chaudière-Appalaches,5,"Occupations in art, culture, recreation and sport"
+Quebec,8.0,5.0,26.0,113.0,180.0,83.0,583.0,539.0,2425,Chaudière-Appalaches,6,Sales and service occupations
+Quebec,83.0,141.0,264.0,454.0,592.0,396.0,1511.0,952.0,2425,Chaudière-Appalaches,7,"Trades, transport and equipment operators and related occupations"
+Quebec,873.0,751.0,1026.0,1631.0,1497.0,2103.0,2411.0,1957.0,2425,Chaudière-Appalaches,8,"Natural resources, agriculture and related production occupations"
+Quebec,11.0,156.0,179.0,653.0,664.0,486.0,1702.0,864.0,2425,Chaudière-Appalaches,9,Occupations in manufacturing and utilities
+Quebec,6.0,4.0,4.0,1.0,2.0,4.0,8.0,12.0,2430,Estrie,0,Management occupations
+Quebec,4.0,1.0,0.0,6.0,8.0,8.0,28.0,41.0,2430,Estrie,1,"Business, finance and administration occupations"
+Quebec,25.0,15.0,40.0,64.0,94.0,109.0,155.0,135.0,2430,Estrie,2,Natural and applied sciences and related occupations
+Quebec,30.0,7.0,5.0,12.0,25.0,20.0,56.0,73.0,2430,Estrie,3,Health occupations
+Quebec,6.0,0.0,2.0,6.0,9.0,19.0,26.0,22.0,2430,Estrie,4,"Occupations in education, law and social, community and government services"
+Quebec,3.0,1.0,2.0,2.0,2.0,7.0,4.0,8.0,2430,Estrie,5,"Occupations in art, culture, recreation and sport"
+Quebec,6.0,11.0,18.0,27.0,44.0,31.0,262.0,354.0,2430,Estrie,6,Sales and service occupations
+Quebec,13.0,43.0,82.0,177.0,179.0,123.0,417.0,310.0,2430,Estrie,7,"Trades, transport and equipment operators and related occupations"
+Quebec,397.0,574.0,717.0,947.0,977.0,931.0,1082.0,985.0,2430,Estrie,8,"Natural resources, agriculture and related production occupations"
+Quebec,0.0,7.0,22.0,43.0,102.0,73.0,502.0,402.0,2430,Estrie,9,Occupations in manufacturing and utilities
+Quebec,0.0,1.0,3.0,7.0,2.0,4.0,6.0,7.0,2433,Centre-du-Québec,0,Management occupations
+Quebec,1.0,0.0,0.0,2.0,0.0,6.0,17.0,40.0,2433,Centre-du-Québec,1,"Business, finance and administration occupations"
+Quebec,10.0,4.0,9.0,77.0,27.0,50.0,83.0,101.0,2433,Centre-du-Québec,2,Natural and applied sciences and related occupations
+Quebec,0.0,0.0,0.0,5.0,25.0,20.0,49.0,74.0,2433,Centre-du-Québec,3,Health occupations
+Quebec,5.0,2.0,3.0,4.0,13.0,5.0,13.0,22.0,2433,Centre-du-Québec,4,"Occupations in education, law and social, community and government services"
+Quebec,1.0,0.0,0.0,2.0,0.0,1.0,7.0,2.0,2433,Centre-du-Québec,5,"Occupations in art, culture, recreation and sport"
+Quebec,5.0,4.0,7.0,23.0,35.0,37.0,270.0,248.0,2433,Centre-du-Québec,6,Sales and service occupations
+Quebec,29.0,57.0,107.0,275.0,283.0,241.0,664.0,633.0,2433,Centre-du-Québec,7,"Trades, transport and equipment operators and related occupations"
+Quebec,863.0,785.0,1124.0,1537.0,1494.0,1826.0,2037.0,1908.0,2433,Centre-du-Québec,8,"Natural resources, agriculture and related production occupations"
+Quebec,8.0,14.0,106.0,149.0,288.0,264.0,997.0,589.0,2433,Centre-du-Québec,9,Occupations in manufacturing and utilities
+Quebec,14.0,14.0,13.0,20.0,21.0,21.0,45.0,69.0,2435,Montérégie,0,Management occupations
+Quebec,7.0,11.0,11.0,10.0,22.0,27.0,162.0,199.0,2435,Montérégie,1,"Business, finance and administration occupations"
+Quebec,37.0,23.0,34.0,28.0,59.0,87.0,199.0,218.0,2435,Montérégie,2,Natural and applied sciences and related occupations
+Quebec,14.0,6.0,19.0,87.0,100.0,100.0,267.0,428.0,2435,Montérégie,3,Health occupations
+Quebec,17.0,22.0,17.0,21.0,43.0,36.0,109.0,174.0,2435,Montérégie,4,"Occupations in education, law and social, community and government services"
+Quebec,8.0,5.0,5.0,3.0,8.0,2.0,5.0,20.0,2435,Montérégie,5,"Occupations in art, culture, recreation and sport"
+Quebec,14.0,21.0,32.0,96.0,185.0,158.0,799.0,1314.0,2435,Montérégie,6,Sales and service occupations
+Quebec,25.0,58.0,202.0,433.0,525.0,310.0,1820.0,1661.0,2435,Montérégie,7,"Trades, transport and equipment operators and related occupations"
+Quebec,7687.0,5721.0,6191.0,9798.0,8199.0,9192.0,11586.0,10055.0,2435,Montérégie,8,"Natural resources, agriculture and related production occupations"
+Quebec,252.0,297.0,356.0,582.0,1049.0,860.0,2568.0,1783.0,2435,Montérégie,9,Occupations in manufacturing and utilities
+Quebec,83.0,89.0,97.0,114.0,134.0,141.0,260.0,282.0,2440,Montréal,0,Management occupations
+Quebec,61.0,70.0,70.0,88.0,128.0,118.0,515.0,857.0,2440,Montréal,1,"Business, finance and administration occupations"
+Quebec,498.0,506.0,563.0,987.0,824.0,1180.0,2221.0,1577.0,2440,Montréal,2,Natural and applied sciences and related occupations
+Quebec,43.0,36.0,49.0,252.0,199.0,217.0,376.0,313.0,2440,Montréal,3,Health occupations
+Quebec,270.0,312.0,266.0,447.0,614.0,472.0,959.0,904.0,2440,Montréal,4,"Occupations in education, law and social, community and government services"
+Quebec,899.0,548.0,672.0,788.0,360.0,284.0,949.0,796.0,2440,Montréal,5,"Occupations in art, culture, recreation and sport"
+Quebec,132.0,128.0,77.0,155.0,231.0,174.0,1119.0,1898.0,2440,Montréal,6,Sales and service occupations
+Quebec,60.0,67.0,101.0,221.0,310.0,195.0,939.0,1283.0,2440,Montréal,7,"Trades, transport and equipment operators and related occupations"
+Quebec,33.0,42.0,53.0,79.0,90.0,50.0,256.0,337.0,2440,Montréal,8,"Natural resources, agriculture and related production occupations"
+Quebec,6.0,0.0,2.0,28.0,68.0,67.0,415.0,440.0,2440,Montréal,9,Occupations in manufacturing and utilities
+Quebec,7.0,1.0,7.0,2.0,7.0,8.0,15.0,22.0,2445,Laval,0,Management occupations
+Quebec,4.0,2.0,2.0,3.0,6.0,9.0,58.0,69.0,2445,Laval,1,"Business, finance and administration occupations"
+Quebec,16.0,12.0,12.0,19.0,27.0,28.0,66.0,83.0,2445,Laval,2,Natural and applied sciences and related occupations
+Quebec,1.0,2.0,4.0,14.0,7.0,20.0,35.0,62.0,2445,Laval,3,Health occupations
+Quebec,13.0,8.0,8.0,15.0,12.0,26.0,59.0,76.0,2445,Laval,4,"Occupations in education, law and social, community and government services"
+Quebec,1.0,1.0,0.0,1.0,1.0,2.0,7.0,14.0,2445,Laval,5,"Occupations in art, culture, recreation and sport"
+Quebec,14.0,17.0,8.0,13.0,30.0,28.0,199.0,365.0,2445,Laval,6,Sales and service occupations
+Quebec,9.0,6.0,8.0,44.0,81.0,45.0,234.0,292.0,2445,Laval,7,"Trades, transport and equipment operators and related occupations"
+Quebec,582.0,558.0,641.0,451.0,827.0,467.0,1015.0,729.0,2445,Laval,8,"Natural resources, agriculture and related production occupations"
+Quebec,0.0,0.0,1.0,10.0,18.0,26.0,232.0,107.0,2445,Laval,9,Occupations in manufacturing and utilities
+Quebec,1.0,1.0,2.0,3.0,4.0,2.0,11.0,9.0,2450,Lanaudière,0,Management occupations
+Quebec,3.0,1.0,2.0,0.0,4.0,4.0,26.0,29.0,2450,Lanaudière,1,"Business, finance and administration occupations"
+Quebec,9.0,7.0,4.0,8.0,6.0,10.0,14.0,50.0,2450,Lanaudière,2,Natural and applied sciences and related occupations
+Quebec,0.0,4.0,2.0,1.0,9.0,9.0,36.0,83.0,2450,Lanaudière,3,Health occupations
+Quebec,1.0,2.0,1.0,2.0,4.0,2.0,16.0,26.0,2450,Lanaudière,4,"Occupations in education, law and social, community and government services"
+Quebec,2.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,2450,Lanaudière,5,"Occupations in art, culture, recreation and sport"
+Quebec,4.0,5.0,4.0,15.0,26.0,41.0,273.0,269.0,2450,Lanaudière,6,Sales and service occupations
+Quebec,103.0,75.0,115.0,206.0,265.0,197.0,463.0,491.0,2450,Lanaudière,7,"Trades, transport and equipment operators and related occupations"
+Quebec,2209.0,1742.0,1973.0,2836.0,2460.0,2951.0,3811.0,3082.0,2450,Lanaudière,8,"Natural resources, agriculture and related production occupations"
+Quebec,3.0,105.0,37.0,170.0,231.0,158.0,522.0,395.0,2450,Lanaudière,9,Occupations in manufacturing and utilities
+Quebec,3.0,5.0,3.0,7.0,8.0,4.0,11.0,10.0,2455,Laurentides,0,Management occupations
+Quebec,2.0,1.0,4.0,5.0,3.0,6.0,47.0,76.0,2455,Laurentides,1,"Business, finance and administration occupations"
+Quebec,22.0,9.0,10.0,8.0,9.0,28.0,37.0,71.0,2455,Laurentides,2,Natural and applied sciences and related occupations
+Quebec,4.0,1.0,0.0,8.0,8.0,24.0,63.0,124.0,2455,Laurentides,3,Health occupations
+Quebec,4.0,3.0,4.0,2.0,16.0,11.0,27.0,24.0,2455,Laurentides,4,"Occupations in education, law and social, community and government services"
+Quebec,5.0,3.0,4.0,2.0,0.0,3.0,2.0,4.0,2455,Laurentides,5,"Occupations in art, culture, recreation and sport"
+Quebec,9.0,8.0,23.0,14.0,96.0,90.0,381.0,571.0,2455,Laurentides,6,Sales and service occupations
+Quebec,11.0,14.0,43.0,114.0,174.0,77.0,223.0,232.0,2455,Laurentides,7,"Trades, transport and equipment operators and related occupations"
+Quebec,2002.0,1345.0,1802.0,2537.0,2377.0,2853.0,3423.0,3443.0,2455,Laurentides,8,"Natural resources, agriculture and related production occupations"
+Quebec,0.0,2.0,2.0,9.0,61.0,78.0,285.0,385.0,2455,Laurentides,9,Occupations in manufacturing and utilities
+Quebec,0.0,1.0,1.0,2.0,1.0,1.0,6.0,20.0,2460,Outaouais,0,Management occupations
+Quebec,0.0,1.0,0.0,2.0,7.0,2.0,20.0,20.0,2460,Outaouais,1,"Business, finance and administration occupations"
+Quebec,5.0,15.0,14.0,19.0,13.0,5.0,15.0,21.0,2460,Outaouais,2,Natural and applied sciences and related occupations
+Quebec,23.0,9.0,5.0,21.0,38.0,26.0,84.0,85.0,2460,Outaouais,3,Health occupations
+Quebec,3.0,6.0,2.0,9.0,8.0,12.0,21.0,31.0,2460,Outaouais,4,"Occupations in education, law and social, community and government services"
+Quebec,3.0,5.0,1.0,3.0,1.0,1.0,1.0,1.0,2460,Outaouais,5,"Occupations in art, culture, recreation and sport"
+Quebec,9.0,8.0,3.0,13.0,36.0,30.0,198.0,199.0,2460,Outaouais,6,Sales and service occupations
+Quebec,0.0,1.0,12.0,28.0,46.0,20.0,108.0,132.0,2460,Outaouais,7,"Trades, transport and equipment operators and related occupations"
+Quebec,85.0,52.0,66.0,182.0,125.0,111.0,315.0,168.0,2460,Outaouais,8,"Natural resources, agriculture and related production occupations"
+Quebec,0.0,0.0,0.0,4.0,2.0,9.0,65.0,13.0,2460,Outaouais,9,Occupations in manufacturing and utilities
+Quebec,2.0,0.0,1.0,2.0,2.0,4.0,17.0,6.0,2465,Abitibi-Témiscamingue,0,Management occupations
+Quebec,1.0,2.0,2.0,4.0,3.0,5.0,14.0,22.0,2465,Abitibi-Témiscamingue,1,"Business, finance and administration occupations"
+Quebec,1.0,4.0,3.0,11.0,5.0,10.0,30.0,45.0,2465,Abitibi-Témiscamingue,2,Natural and applied sciences and related occupations
+Quebec,12.0,11.0,3.0,1.0,1.0,15.0,33.0,38.0,2465,Abitibi-Témiscamingue,3,Health occupations
+Quebec,2.0,2.0,1.0,4.0,3.0,9.0,15.0,30.0,2465,Abitibi-Témiscamingue,4,"Occupations in education, law and social, community and government services"
+Quebec,0.0,1.0,0.0,0.0,1.0,1.0,4.0,1.0,2465,Abitibi-Témiscamingue,5,"Occupations in art, culture, recreation and sport"
+Quebec,6.0,16.0,15.0,40.0,39.0,59.0,218.0,300.0,2465,Abitibi-Témiscamingue,6,Sales and service occupations
+Quebec,2.0,7.0,69.0,100.0,139.0,69.0,307.0,324.0,2465,Abitibi-Témiscamingue,7,"Trades, transport and equipment operators and related occupations"
+Quebec,35.0,30.0,87.0,194.0,136.0,194.0,221.0,221.0,2465,Abitibi-Témiscamingue,8,"Natural resources, agriculture and related production occupations"
+Quebec,0.0,0.0,1.0,6.0,4.0,34.0,82.0,118.0,2465,Abitibi-Témiscamingue,9,Occupations in manufacturing and utilities
+Quebec,1.0,2.0,3.0,2.0,1.0,3.0,6.0,4.0,2470,Mauricie,0,Management occupations
+Quebec,0.0,1.0,3.0,1.0,1.0,2.0,17.0,17.0,2470,Mauricie,1,"Business, finance and administration occupations"
+Quebec,0.0,8.0,15.0,17.0,19.0,24.0,52.0,36.0,2470,Mauricie,2,Natural and applied sciences and related occupations
+Quebec,2.0,1.0,0.0,1.0,23.0,23.0,37.0,55.0,2470,Mauricie,3,Health occupations
+Quebec,2.0,1.0,0.0,2.0,3.0,6.0,9.0,7.0,2470,Mauricie,4,"Occupations in education, law and social, community and government services"
+Quebec,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2470,Mauricie,5,"Occupations in art, culture, recreation and sport"
+Quebec,4.0,0.0,43.0,31.0,31.0,55.0,240.0,252.0,2470,Mauricie,6,Sales and service occupations
+Quebec,8.0,3.0,34.0,137.0,95.0,47.0,233.0,162.0,2470,Mauricie,7,"Trades, transport and equipment operators and related occupations"
+Quebec,305.0,442.0,273.0,625.0,375.0,635.0,589.0,541.0,2470,Mauricie,8,"Natural resources, agriculture and related production occupations"
+Quebec,26.0,51.0,35.0,95.0,120.0,152.0,575.0,198.0,2470,Mauricie,9,Occupations in manufacturing and utilities
+Quebec,1.0,0.0,2.0,0.0,1.0,1.0,8.0,12.0,2475,Saguenay--Lac-Saint-Jean,0,Management occupations
+Quebec,0.0,1.0,0.0,0.0,1.0,6.0,12.0,26.0,2475,Saguenay--Lac-Saint-Jean,1,"Business, finance and administration occupations"
+Quebec,2.0,2.0,22.0,17.0,25.0,57.0,70.0,68.0,2475,Saguenay--Lac-Saint-Jean,2,Natural and applied sciences and related occupations
+Quebec,1.0,1.0,2.0,0.0,16.0,25.0,53.0,51.0,2475,Saguenay--Lac-Saint-Jean,3,Health occupations
+Quebec,1.0,3.0,0.0,3.0,2.0,3.0,2.0,23.0,2475,Saguenay--Lac-Saint-Jean,4,"Occupations in education, law and social, community and government services"
+Quebec,2.0,0.0,0.0,2.0,0.0,1.0,2.0,2.0,2475,Saguenay--Lac-Saint-Jean,5,"Occupations in art, culture, recreation and sport"
+Quebec,0.0,4.0,7.0,20.0,30.0,81.0,347.0,318.0,2475,Saguenay--Lac-Saint-Jean,6,Sales and service occupations
+Quebec,1.0,1.0,13.0,97.0,88.0,140.0,414.0,384.0,2475,Saguenay--Lac-Saint-Jean,7,"Trades, transport and equipment operators and related occupations"
+Quebec,229.0,220.0,369.0,675.0,686.0,765.0,950.0,1141.0,2475,Saguenay--Lac-Saint-Jean,8,"Natural resources, agriculture and related production occupations"
+Quebec,15.0,23.0,38.0,85.0,143.0,169.0,373.0,369.0,2475,Saguenay--Lac-Saint-Jean,9,Occupations in manufacturing and utilities
+Quebec,0.0,1.0,0.0,1.0,0.0,2.0,2.0,9.0,2480,Côte-Nord,0,Management occupations
+Quebec,0.0,0.0,0.0,1.0,0.0,1.0,11.0,12.0,2480,Côte-Nord,1,"Business, finance and administration occupations"
+Quebec,2.0,0.0,18.0,5.0,2.0,1.0,10.0,6.0,2480,Côte-Nord,2,Natural and applied sciences and related occupations
+Quebec,1.0,0.0,0.0,8.0,18.0,8.0,65.0,31.0,2480,Côte-Nord,3,Health occupations
+Quebec,0.0,0.0,0.0,0.0,4.0,4.0,5.0,1.0,2480,Côte-Nord,4,"Occupations in education, law and social, community and government services"
+Quebec,0.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,2480,Côte-Nord,5,"Occupations in art, culture, recreation and sport"
+Quebec,4.0,9.0,13.0,17.0,40.0,36.0,173.0,194.0,2480,Côte-Nord,6,Sales and service occupations
+Quebec,4.0,6.0,20.0,16.0,52.0,49.0,100.0,200.0,2480,Côte-Nord,7,"Trades, transport and equipment operators and related occupations"
+Quebec,2.0,9.0,8.0,23.0,9.0,27.0,64.0,50.0,2480,Côte-Nord,8,"Natural resources, agriculture and related production occupations"
+Quebec,5.0,7.0,10.0,24.0,48.0,87.0,268.0,121.0,2480,Côte-Nord,9,Occupations in manufacturing and utilities
+Quebec,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,2490,Nord-du-Québec,0,Management occupations
+Quebec,0.0,0.0,0.0,0.0,2.0,0.0,1.0,6.0,2490,Nord-du-Québec,1,"Business, finance and administration occupations"
+Quebec,0.0,0.0,0.0,9.0,2.0,2.0,9.0,10.0,2490,Nord-du-Québec,2,Natural and applied sciences and related occupations
+Quebec,0.0,1.0,0.0,1.0,1.0,0.0,4.0,6.0,2490,Nord-du-Québec,3,Health occupations
+Quebec,1.0,1.0,2.0,0.0,0.0,1.0,1.0,2.0,2490,Nord-du-Québec,4,"Occupations in education, law and social, community and government services"
+Quebec,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2490,Nord-du-Québec,5,"Occupations in art, culture, recreation and sport"
+Quebec,2.0,1.0,0.0,3.0,9.0,18.0,81.0,50.0,2490,Nord-du-Québec,6,Sales and service occupations
+Quebec,0.0,0.0,0.0,20.0,6.0,9.0,63.0,45.0,2490,Nord-du-Québec,7,"Trades, transport and equipment operators and related occupations"
+Quebec,56.0,0.0,0.0,13.0,10.0,33.0,20.0,17.0,2490,Nord-du-Québec,8,"Natural resources, agriculture and related production occupations"
+Quebec,0.0,0.0,15.0,17.0,73.0,12.0,48.0,100.0,2490,Nord-du-Québec,9,Occupations in manufacturing and utilities
+Ontario,19.0,37.0,20.0,53.0,53.0,45.0,68.0,133.0,3510,Ottawa,0,Management occupations
+Ontario,11.0,8.0,5.0,4.0,14.0,15.0,40.0,84.0,3510,Ottawa,1,"Business, finance and administration occupations"
+Ontario,83.0,47.0,102.0,153.0,104.0,190.0,305.0,206.0,3510,Ottawa,2,Natural and applied sciences and related occupations
+Ontario,20.0,16.0,11.0,10.0,13.0,32.0,120.0,169.0,3510,Ottawa,3,Health occupations
+Ontario,124.0,102.0,117.0,79.0,56.0,71.0,77.0,95.0,3510,Ottawa,4,"Occupations in education, law and social, community and government services"
+Ontario,65.0,34.0,39.0,30.0,10.0,10.0,23.0,16.0,3510,Ottawa,5,"Occupations in art, culture, recreation and sport"
+Ontario,59.0,57.0,73.0,98.0,134.0,145.0,534.0,1098.0,3510,Ottawa,6,Sales and service occupations
+Ontario,15.0,13.0,10.0,30.0,85.0,68.0,323.0,285.0,3510,Ottawa,7,"Trades, transport and equipment operators and related occupations"
+Ontario,326.0,401.0,454.0,400.0,432.0,592.0,619.0,681.0,3510,Ottawa,8,"Natural resources, agriculture and related production occupations"
+Ontario,0.0,0.0,1.0,2.0,61.0,27.0,240.0,215.0,3510,Ottawa,9,Occupations in manufacturing and utilities
+Ontario,9.0,9.0,9.0,12.0,21.0,9.0,27.0,34.0,3515,Kingston--Pembroke,0,Management occupations
+Ontario,0.0,2.0,1.0,18.0,7.0,14.0,33.0,25.0,3515,Kingston--Pembroke,1,"Business, finance and administration occupations"
+Ontario,18.0,33.0,27.0,14.0,11.0,16.0,18.0,11.0,3515,Kingston--Pembroke,2,Natural and applied sciences and related occupations
+Ontario,12.0,2.0,2.0,2.0,2.0,2.0,36.0,84.0,3515,Kingston--Pembroke,3,Health occupations
+Ontario,27.0,13.0,42.0,33.0,20.0,21.0,21.0,50.0,3515,Kingston--Pembroke,4,"Occupations in education, law and social, community and government services"
+Ontario,4.0,2.0,3.0,1.0,0.0,0.0,0.0,2.0,3515,Kingston--Pembroke,5,"Occupations in art, culture, recreation and sport"
+Ontario,10.0,8.0,23.0,48.0,74.0,58.0,200.0,459.0,3515,Kingston--Pembroke,6,Sales and service occupations
+Ontario,1.0,4.0,10.0,2.0,18.0,24.0,44.0,83.0,3515,Kingston--Pembroke,7,"Trades, transport and equipment operators and related occupations"
+Ontario,239.0,337.0,425.0,325.0,423.0,336.0,427.0,456.0,3515,Kingston--Pembroke,8,"Natural resources, agriculture and related production occupations"
+Ontario,1.0,0.0,1.0,1.0,10.0,31.0,31.0,94.0,3515,Kingston--Pembroke,9,Occupations in manufacturing and utilities
+Ontario,3.0,4.0,6.0,7.0,11.0,7.0,9.0,31.0,3520,Muskoka--Kawarthas,0,Management occupations
+Ontario,4.0,1.0,2.0,3.0,6.0,2.0,12.0,24.0,3520,Muskoka--Kawarthas,1,"Business, finance and administration occupations"
+Ontario,12.0,2.0,5.0,5.0,1.0,2.0,7.0,5.0,3520,Muskoka--Kawarthas,2,Natural and applied sciences and related occupations
+Ontario,2.0,1.0,0.0,5.0,5.0,12.0,7.0,37.0,3520,Muskoka--Kawarthas,3,Health occupations
+Ontario,6.0,16.0,13.0,5.0,5.0,9.0,8.0,9.0,3520,Muskoka--Kawarthas,4,"Occupations in education, law and social, community and government services"
+Ontario,0.0,0.0,2.0,0.0,1.0,0.0,2.0,0.0,3520,Muskoka--Kawarthas,5,"Occupations in art, culture, recreation and sport"
+Ontario,18.0,33.0,92.0,72.0,99.0,84.0,282.0,311.0,3520,Muskoka--Kawarthas,6,Sales and service occupations
+Ontario,4.0,30.0,9.0,9.0,10.0,16.0,91.0,101.0,3520,Muskoka--Kawarthas,7,"Trades, transport and equipment operators and related occupations"
+Ontario,233.0,271.0,446.0,349.0,440.0,377.0,478.0,472.0,3520,Muskoka--Kawarthas,8,"Natural resources, agriculture and related production occupations"
+Ontario,0.0,0.0,2.0,1.0,1.0,0.0,34.0,25.0,3520,Muskoka--Kawarthas,9,Occupations in manufacturing and utilities
+Ontario,441.0,422.0,469.0,599.0,768.0,785.0,1212.0,1479.0,3530,Toronto,0,Management occupations
+Ontario,338.0,443.0,415.0,747.0,1142.0,731.0,1679.0,3321.0,3530,Toronto,1,"Business, finance and administration occupations"
+Ontario,549.0,709.0,785.0,1163.0,1133.0,1448.0,2664.0,2166.0,3530,Toronto,2,Natural and applied sciences and related occupations
+Ontario,60.0,59.0,67.0,78.0,90.0,122.0,203.0,372.0,3530,Toronto,3,Health occupations
+Ontario,2768.0,3032.0,3567.0,2784.0,1561.0,2108.0,1643.0,1902.0,3530,Toronto,4,"Occupations in education, law and social, community and government services"
+Ontario,851.0,608.0,481.0,506.0,243.0,229.0,488.0,400.0,3530,Toronto,5,"Occupations in art, culture, recreation and sport"
+Ontario,621.0,869.0,1054.0,1613.0,2126.0,1835.0,4074.0,6291.0,3530,Toronto,6,Sales and service occupations
+Ontario,571.0,746.0,797.0,1384.0,2018.0,1830.0,4268.0,5022.0,3530,Toronto,7,"Trades, transport and equipment operators and related occupations"
+Ontario,1513.0,2308.0,2001.0,2363.0,2051.0,2712.0,2986.0,2887.0,3530,Toronto,8,"Natural resources, agriculture and related production occupations"
+Ontario,22.0,57.0,36.0,65.0,80.0,125.0,433.0,509.0,3530,Toronto,9,Occupations in manufacturing and utilities
+Ontario,30.0,39.0,34.0,31.0,46.0,52.0,80.0,165.0,3540,Kitchener--Waterloo--Barrie,0,Management occupations
+Ontario,11.0,10.0,12.0,19.0,33.0,26.0,63.0,206.0,3540,Kitchener--Waterloo--Barrie,1,"Business, finance and administration occupations"
+Ontario,80.0,108.0,111.0,145.0,112.0,135.0,255.0,151.0,3540,Kitchener--Waterloo--Barrie,2,Natural and applied sciences and related occupations
+Ontario,6.0,4.0,6.0,6.0,14.0,34.0,84.0,171.0,3540,Kitchener--Waterloo--Barrie,3,Health occupations
+Ontario,133.0,122.0,169.0,133.0,74.0,87.0,128.0,98.0,3540,Kitchener--Waterloo--Barrie,4,"Occupations in education, law and social, community and government services"
+Ontario,7.0,15.0,13.0,7.0,0.0,9.0,9.0,8.0,3540,Kitchener--Waterloo--Barrie,5,"Occupations in art, culture, recreation and sport"
+Ontario,80.0,201.0,188.0,264.0,360.0,477.0,1184.0,1238.0,3540,Kitchener--Waterloo--Barrie,6,Sales and service occupations
+Ontario,72.0,64.0,137.0,189.0,135.0,469.0,507.0,698.0,3540,Kitchener--Waterloo--Barrie,7,"Trades, transport and equipment operators and related occupations"
+Ontario,915.0,1306.0,1180.0,1089.0,1129.0,1308.0,1289.0,1779.0,3540,Kitchener--Waterloo--Barrie,8,"Natural resources, agriculture and related production occupations"
+Ontario,4.0,40.0,136.0,65.0,99.0,130.0,398.0,185.0,3540,Kitchener--Waterloo--Barrie,9,Occupations in manufacturing and utilities
+Ontario,47.0,30.0,33.0,44.0,59.0,51.0,81.0,199.0,3550,Hamilton--Niagara Peninsula,0,Management occupations
+Ontario,9.0,12.0,13.0,40.0,43.0,31.0,79.0,190.0,3550,Hamilton--Niagara Peninsula,1,"Business, finance and administration occupations"
+Ontario,72.0,46.0,57.0,51.0,37.0,38.0,75.0,125.0,3550,Hamilton--Niagara Peninsula,2,Natural and applied sciences and related occupations
+Ontario,1.0,7.0,4.0,10.0,23.0,28.0,64.0,83.0,3550,Hamilton--Niagara Peninsula,3,Health occupations
+Ontario,165.0,169.0,212.0,154.0,80.0,135.0,94.0,195.0,3550,Hamilton--Niagara Peninsula,4,"Occupations in education, law and social, community and government services"
+Ontario,27.0,9.0,30.0,15.0,4.0,6.0,12.0,6.0,3550,Hamilton--Niagara Peninsula,5,"Occupations in art, culture, recreation and sport"
+Ontario,45.0,84.0,69.0,209.0,252.0,274.0,910.0,1375.0,3550,Hamilton--Niagara Peninsula,6,Sales and service occupations
+Ontario,55.0,50.0,40.0,108.0,98.0,94.0,344.0,555.0,3550,Hamilton--Niagara Peninsula,7,"Trades, transport and equipment operators and related occupations"
+Ontario,7880.0,12372.0,11474.0,10957.0,10233.0,11373.0,12545.0,15142.0,3550,Hamilton--Niagara Peninsula,8,"Natural resources, agriculture and related production occupations"
+Ontario,2.0,5.0,7.0,11.0,13.0,15.0,116.0,216.0,3550,Hamilton--Niagara Peninsula,9,Occupations in manufacturing and utilities
+Ontario,11.0,14.0,11.0,13.0,13.0,13.0,20.0,62.0,3560,London,0,Management occupations
+Ontario,1.0,6.0,1.0,6.0,11.0,12.0,39.0,78.0,3560,London,1,"Business, finance and administration occupations"
+Ontario,45.0,39.0,24.0,30.0,23.0,29.0,26.0,39.0,3560,London,2,Natural and applied sciences and related occupations
+Ontario,12.0,14.0,13.0,3.0,14.0,14.0,25.0,56.0,3560,London,3,Health occupations
+Ontario,57.0,54.0,60.0,58.0,35.0,39.0,42.0,46.0,3560,London,4,"Occupations in education, law and social, community and government services"
+Ontario,4.0,13.0,6.0,4.0,7.0,7.0,6.0,8.0,3560,London,5,"Occupations in art, culture, recreation and sport"
+Ontario,19.0,19.0,28.0,39.0,70.0,75.0,202.0,576.0,3560,London,6,Sales and service occupations
+Ontario,8.0,14.0,23.0,42.0,36.0,43.0,158.0,216.0,3560,London,7,"Trades, transport and equipment operators and related occupations"
+Ontario,1770.0,2487.0,2499.0,2663.0,2711.0,2506.0,3254.0,2835.0,3560,London,8,"Natural resources, agriculture and related production occupations"
+Ontario,0.0,2.0,89.0,196.0,122.0,142.0,179.0,204.0,3560,London,9,Occupations in manufacturing and utilities
+Ontario,11.0,13.0,8.0,19.0,11.0,14.0,31.0,46.0,3570,Windsor--Sarnia,0,Management occupations
+Ontario,0.0,3.0,1.0,4.0,3.0,15.0,21.0,50.0,3570,Windsor--Sarnia,1,"Business, finance and administration occupations"
+Ontario,57.0,47.0,37.0,36.0,18.0,27.0,32.0,43.0,3570,Windsor--Sarnia,2,Natural and applied sciences and related occupations
+Ontario,7.0,8.0,4.0,3.0,6.0,7.0,22.0,37.0,3570,Windsor--Sarnia,3,Health occupations
+Ontario,17.0,23.0,27.0,22.0,13.0,18.0,13.0,22.0,3570,Windsor--Sarnia,4,"Occupations in education, law and social, community and government services"
+Ontario,3.0,1.0,2.0,0.0,0.0,0.0,2.0,2.0,3570,Windsor--Sarnia,5,"Occupations in art, culture, recreation and sport"
+Ontario,4.0,29.0,9.0,33.0,44.0,57.0,140.0,313.0,3570,Windsor--Sarnia,6,Sales and service occupations
+Ontario,32.0,41.0,27.0,47.0,26.0,33.0,107.0,204.0,3570,Windsor--Sarnia,7,"Trades, transport and equipment operators and related occupations"
+Ontario,8281.0,8832.0,9170.0,8986.0,9483.0,10674.0,10980.0,12020.0,3570,Windsor--Sarnia,8,"Natural resources, agriculture and related production occupations"
+Ontario,0.0,0.0,601.0,438.0,444.0,454.0,501.0,555.0,3570,Windsor--Sarnia,9,Occupations in manufacturing and utilities
+Ontario,4.0,6.0,7.0,3.0,9.0,4.0,14.0,31.0,3580,Stratford--Bruce Peninsula,0,Management occupations
+Ontario,3.0,0.0,0.0,2.0,1.0,0.0,8.0,22.0,3580,Stratford--Bruce Peninsula,1,"Business, finance and administration occupations"
+Ontario,13.0,42.0,138.0,11.0,9.0,5.0,6.0,9.0,3580,Stratford--Bruce Peninsula,2,Natural and applied sciences and related occupations
+Ontario,4.0,5.0,3.0,3.0,2.0,0.0,95.0,61.0,3580,Stratford--Bruce Peninsula,3,Health occupations
+Ontario,10.0,13.0,16.0,19.0,4.0,11.0,9.0,8.0,3580,Stratford--Bruce Peninsula,4,"Occupations in education, law and social, community and government services"
+Ontario,8.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3580,Stratford--Bruce Peninsula,5,"Occupations in art, culture, recreation and sport"
+Ontario,7.0,12.0,13.0,97.0,80.0,124.0,402.0,479.0,3580,Stratford--Bruce Peninsula,6,Sales and service occupations
+Ontario,4.0,12.0,14.0,50.0,28.0,41.0,141.0,97.0,3580,Stratford--Bruce Peninsula,7,"Trades, transport and equipment operators and related occupations"
+Ontario,942.0,1393.0,1548.0,1267.0,1400.0,1329.0,1873.0,2120.0,3580,Stratford--Bruce Peninsula,8,"Natural resources, agriculture and related production occupations"
+Ontario,1.0,4.0,16.0,30.0,33.0,40.0,152.0,82.0,3580,Stratford--Bruce Peninsula,9,Occupations in manufacturing and utilities
+Ontario,13.0,9.0,10.0,9.0,14.0,14.0,24.0,46.0,3590,Northeast,0,Management occupations
+Ontario,4.0,0.0,6.0,5.0,4.0,8.0,22.0,31.0,3590,Northeast,1,"Business, finance and administration occupations"
+Ontario,24.0,13.0,15.0,22.0,10.0,5.0,9.0,53.0,3590,Northeast,2,Natural and applied sciences and related occupations
+Ontario,4.0,5.0,3.0,10.0,10.0,19.0,41.0,47.0,3590,Northeast,3,Health occupations
+Ontario,10.0,11.0,19.0,10.0,4.0,4.0,7.0,9.0,3590,Northeast,4,"Occupations in education, law and social, community and government services"
+Ontario,6.0,5.0,3.0,1.0,1.0,1.0,1.0,5.0,3590,Northeast,5,"Occupations in art, culture, recreation and sport"
+Ontario,31.0,23.0,42.0,74.0,108.0,73.0,308.0,372.0,3590,Northeast,6,Sales and service occupations
+Ontario,6.0,9.0,19.0,60.0,48.0,74.0,197.0,266.0,3590,Northeast,7,"Trades, transport and equipment operators and related occupations"
+Ontario,138.0,226.0,214.0,190.0,187.0,140.0,225.0,294.0,3590,Northeast,8,"Natural resources, agriculture and related production occupations"
+Ontario,0.0,0.0,2.0,3.0,18.0,7.0,74.0,61.0,3590,Northeast,9,Occupations in manufacturing and utilities
+Ontario,5.0,0.0,7.0,4.0,9.0,7.0,8.0,12.0,3595,Northwest,0,Management occupations
+Ontario,0.0,0.0,0.0,0.0,2.0,2.0,6.0,13.0,3595,Northwest,1,"Business, finance and administration occupations"
+Ontario,4.0,2.0,26.0,17.0,1.0,1.0,3.0,19.0,3595,Northwest,2,Natural and applied sciences and related occupations
+Ontario,5.0,2.0,5.0,3.0,14.0,2.0,70.0,18.0,3595,Northwest,3,Health occupations
+Ontario,7.0,9.0,14.0,10.0,3.0,9.0,2.0,4.0,3595,Northwest,4,"Occupations in education, law and social, community and government services"
+Ontario,1.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,3595,Northwest,5,"Occupations in art, culture, recreation and sport"
+Ontario,7.0,25.0,28.0,39.0,60.0,82.0,210.0,361.0,3595,Northwest,6,Sales and service occupations
+Ontario,1.0,3.0,7.0,3.0,19.0,7.0,56.0,75.0,3595,Northwest,7,"Trades, transport and equipment operators and related occupations"
+Ontario,1.0,1.0,22.0,9.0,9.0,10.0,44.0,73.0,3595,Northwest,8,"Natural resources, agriculture and related production occupations"
+Ontario,0.0,0.0,3.0,1.0,0.0,10.0,14.0,22.0,3595,Northwest,9,Occupations in manufacturing and utilities
+Manitoba,1.0,1.0,1.0,2.0,3.0,2.0,3.0,6.0,4610,Southeast,0,Management occupations
+Manitoba,0.0,0.0,0.0,2.0,0.0,5.0,4.0,24.0,4610,Southeast,1,"Business, finance and administration occupations"
+Manitoba,1.0,0.0,1.0,0.0,0.0,2.0,0.0,2.0,4610,Southeast,2,Natural and applied sciences and related occupations
+Manitoba,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4610,Southeast,3,Health occupations
+Manitoba,0.0,0.0,1.0,3.0,0.0,1.0,0.0,0.0,4610,Southeast,4,"Occupations in education, law and social, community and government services"
+Manitoba,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4610,Southeast,5,"Occupations in art, culture, recreation and sport"
+Manitoba,0.0,4.0,6.0,29.0,1.0,10.0,102.0,75.0,4610,Southeast,6,Sales and service occupations
+Manitoba,10.0,0.0,2.0,76.0,51.0,32.0,95.0,130.0,4610,Southeast,7,"Trades, transport and equipment operators and related occupations"
+Manitoba,70.0,62.0,49.0,67.0,79.0,38.0,150.0,91.0,4610,Southeast,8,"Natural resources, agriculture and related production occupations"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,4610,Southeast,9,Occupations in manufacturing and utilities
+Manitoba,0.0,0.0,1.0,1.0,0.0,0.0,1.0,3.0,4620,South Central,0,Management occupations
+Manitoba,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,4620,South Central,1,"Business, finance and administration occupations"
+Manitoba,1.0,4.0,4.0,5.0,2.0,3.0,1.0,0.0,4620,South Central,2,Natural and applied sciences and related occupations
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,4620,South Central,3,Health occupations
+Manitoba,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,4620,South Central,4,"Occupations in education, law and social, community and government services"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4620,South Central,5,"Occupations in art, culture, recreation and sport"
+Manitoba,2.0,4.0,6.0,8.0,3.0,8.0,56.0,66.0,4620,South Central,6,Sales and service occupations
+Manitoba,1.0,4.0,1.0,12.0,6.0,0.0,22.0,12.0,4620,South Central,7,"Trades, transport and equipment operators and related occupations"
+Manitoba,125.0,82.0,183.0,200.0,178.0,186.0,183.0,345.0,4620,South Central,8,"Natural resources, agriculture and related production occupations"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,4620,South Central,9,Occupations in manufacturing and utilities
+Manitoba,5.0,1.0,3.0,4.0,0.0,2.0,8.0,4.0,4630,Southwest,0,Management occupations
+Manitoba,0.0,0.0,0.0,0.0,0.0,1.0,2.0,11.0,4630,Southwest,1,"Business, finance and administration occupations"
+Manitoba,4.0,8.0,6.0,4.0,14.0,6.0,15.0,8.0,4630,Southwest,2,Natural and applied sciences and related occupations
+Manitoba,4.0,2.0,2.0,4.0,3.0,7.0,2.0,9.0,4630,Southwest,3,Health occupations
+Manitoba,2.0,2.0,4.0,3.0,1.0,1.0,0.0,2.0,4630,Southwest,4,"Occupations in education, law and social, community and government services"
+Manitoba,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4630,Southwest,5,"Occupations in art, culture, recreation and sport"
+Manitoba,172.0,179.0,170.0,192.0,17.0,173.0,234.0,107.0,4630,Southwest,6,Sales and service occupations
+Manitoba,14.0,3.0,2.0,10.0,2.0,2.0,18.0,8.0,4630,Southwest,7,"Trades, transport and equipment operators and related occupations"
+Manitoba,39.0,19.0,37.0,37.0,57.0,62.0,67.0,74.0,4630,Southwest,8,"Natural resources, agriculture and related production occupations"
+Manitoba,0.0,65.0,0.0,0.0,0.0,50.0,102.0,17.0,4630,Southwest,9,Occupations in manufacturing and utilities
+Manitoba,3.0,2.0,1.0,2.0,1.0,0.0,1.0,1.0,4640,North Central,0,Management occupations
+Manitoba,0.0,0.0,2.0,1.0,0.0,1.0,2.0,6.0,4640,North Central,1,"Business, finance and administration occupations"
+Manitoba,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4640,North Central,2,Natural and applied sciences and related occupations
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4640,North Central,3,Health occupations
+Manitoba,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,4640,North Central,4,"Occupations in education, law and social, community and government services"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4640,North Central,5,"Occupations in art, culture, recreation and sport"
+Manitoba,5.0,0.0,9.0,3.0,1.0,5.0,43.0,48.0,4640,North Central,6,Sales and service occupations
+Manitoba,8.0,4.0,7.0,26.0,18.0,2.0,18.0,14.0,4640,North Central,7,"Trades, transport and equipment operators and related occupations"
+Manitoba,301.0,290.0,284.0,275.0,474.0,336.0,381.0,587.0,4640,North Central,8,"Natural resources, agriculture and related production occupations"
+Manitoba,0.0,0.0,1.0,0.0,0.0,0.0,3.0,3.0,4640,North Central,9,Occupations in manufacturing and utilities
+Manitoba,7.0,7.0,12.0,25.0,19.0,22.0,29.0,30.0,4650,Winnipeg,0,Management occupations
+Manitoba,7.0,6.0,12.0,26.0,22.0,37.0,166.0,283.0,4650,Winnipeg,1,"Business, finance and administration occupations"
+Manitoba,10.0,25.0,86.0,33.0,24.0,54.0,67.0,40.0,4650,Winnipeg,2,Natural and applied sciences and related occupations
+Manitoba,16.0,16.0,6.0,11.0,8.0,22.0,27.0,39.0,4650,Winnipeg,3,Health occupations
+Manitoba,28.0,24.0,35.0,43.0,28.0,43.0,30.0,44.0,4650,Winnipeg,4,"Occupations in education, law and social, community and government services"
+Manitoba,25.0,11.0,36.0,3.0,2.0,5.0,4.0,8.0,4650,Winnipeg,5,"Occupations in art, culture, recreation and sport"
+Manitoba,39.0,22.0,46.0,64.0,99.0,104.0,347.0,688.0,4650,Winnipeg,6,Sales and service occupations
+Manitoba,78.0,99.0,84.0,260.0,244.0,366.0,812.0,941.0,4650,Winnipeg,7,"Trades, transport and equipment operators and related occupations"
+Manitoba,6.0,11.0,3.0,3.0,5.0,1.0,12.0,11.0,4650,Winnipeg,8,"Natural resources, agriculture and related production occupations"
+Manitoba,0.0,0.0,5.0,4.0,2.0,2.0,117.0,14.0,4650,Winnipeg,9,Occupations in manufacturing and utilities
+Manitoba,0.0,0.0,1.0,1.0,0.0,2.0,1.0,2.0,4660,Interlake,0,Management occupations
+Manitoba,0.0,0.0,0.0,1.0,3.0,3.0,15.0,35.0,4660,Interlake,1,"Business, finance and administration occupations"
+Manitoba,2.0,0.0,2.0,2.0,0.0,0.0,3.0,2.0,4660,Interlake,2,Natural and applied sciences and related occupations
+Manitoba,3.0,3.0,0.0,0.0,1.0,2.0,2.0,2.0,4660,Interlake,3,Health occupations
+Manitoba,2.0,2.0,1.0,5.0,1.0,0.0,1.0,1.0,4660,Interlake,4,"Occupations in education, law and social, community and government services"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4660,Interlake,5,"Occupations in art, culture, recreation and sport"
+Manitoba,5.0,4.0,9.0,12.0,6.0,10.0,61.0,75.0,4660,Interlake,6,Sales and service occupations
+Manitoba,7.0,0.0,4.0,52.0,57.0,92.0,167.0,281.0,4660,Interlake,7,"Trades, transport and equipment operators and related occupations"
+Manitoba,35.0,149.0,137.0,179.0,172.0,66.0,106.0,92.0,4660,Interlake,8,"Natural resources, agriculture and related production occupations"
+Manitoba,1.0,0.0,0.0,0.0,0.0,0.0,4.0,15.0,4660,Interlake,9,Occupations in manufacturing and utilities
+Manitoba,0.0,1.0,0.0,2.0,1.0,0.0,2.0,4.0,4670,Parklands,0,Management occupations
+Manitoba,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,4670,Parklands,1,"Business, finance and administration occupations"
+Manitoba,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,4670,Parklands,2,Natural and applied sciences and related occupations
+Manitoba,1.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,4670,Parklands,3,Health occupations
+Manitoba,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,4670,Parklands,4,"Occupations in education, law and social, community and government services"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4670,Parklands,5,"Occupations in art, culture, recreation and sport"
+Manitoba,7.0,11.0,12.0,15.0,21.0,11.0,81.0,89.0,4670,Parklands,6,Sales and service occupations
+Manitoba,0.0,1.0,1.0,5.0,1.0,11.0,2.0,31.0,4670,Parklands,7,"Trades, transport and equipment operators and related occupations"
+Manitoba,111.0,72.0,84.0,115.0,112.0,41.0,141.0,105.0,4670,Parklands,8,"Natural resources, agriculture and related production occupations"
+Manitoba,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,4670,Parklands,9,Occupations in manufacturing and utilities
+Manitoba,0.0,1.0,0.0,0.0,0.0,0.0,1.0,8.0,4680,North,0,Management occupations
+Manitoba,3.0,3.0,2.0,0.0,1.0,1.0,4.0,3.0,4680,North,1,"Business, finance and administration occupations"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4680,North,2,Natural and applied sciences and related occupations
+Manitoba,2.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,4680,North,3,Health occupations
+Manitoba,25.0,20.0,19.0,14.0,6.0,1.0,5.0,5.0,4680,North,4,"Occupations in education, law and social, community and government services"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4680,North,5,"Occupations in art, culture, recreation and sport"
+Manitoba,15.0,35.0,3.0,26.0,8.0,12.0,102.0,70.0,4680,North,6,Sales and service occupations
+Manitoba,15.0,2.0,3.0,7.0,1.0,5.0,9.0,10.0,4680,North,7,"Trades, transport and equipment operators and related occupations"
+Manitoba,0.0,0.0,0.0,65.0,11.0,3.0,8.0,17.0,4680,North,8,"Natural resources, agriculture and related production occupations"
+Manitoba,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4680,North,9,Occupations in manufacturing and utilities
+Saskatchewan,7.0,7.0,3.0,6.0,6.0,11.0,7.0,18.0,4710,Regina--Moose Mountain,0,Management occupations
+Saskatchewan,1.0,0.0,0.0,1.0,1.0,5.0,23.0,28.0,4710,Regina--Moose Mountain,1,"Business, finance and administration occupations"
+Saskatchewan,69.0,46.0,24.0,22.0,3.0,8.0,23.0,7.0,4710,Regina--Moose Mountain,2,Natural and applied sciences and related occupations
+Saskatchewan,8.0,9.0,12.0,4.0,7.0,9.0,11.0,12.0,4710,Regina--Moose Mountain,3,Health occupations
+Saskatchewan,18.0,16.0,33.0,19.0,1.0,13.0,6.0,6.0,4710,Regina--Moose Mountain,4,"Occupations in education, law and social, community and government services"
+Saskatchewan,1.0,2.0,8.0,4.0,0.0,0.0,5.0,4.0,4710,Regina--Moose Mountain,5,"Occupations in art, culture, recreation and sport"
+Saskatchewan,58.0,55.0,36.0,64.0,47.0,76.0,240.0,336.0,4710,Regina--Moose Mountain,6,Sales and service occupations
+Saskatchewan,89.0,27.0,37.0,102.0,65.0,80.0,163.0,173.0,4710,Regina--Moose Mountain,7,"Trades, transport and equipment operators and related occupations"
+Saskatchewan,57.0,75.0,82.0,100.0,90.0,90.0,154.0,132.0,4710,Regina--Moose Mountain,8,"Natural resources, agriculture and related production occupations"
+Saskatchewan,0.0,0.0,2.0,2.0,0.0,1.0,9.0,5.0,4710,Regina--Moose Mountain,9,Occupations in manufacturing and utilities
+Saskatchewan,2.0,0.0,1.0,0.0,0.0,1.0,2.0,2.0,4720,Swift Current--Moose Jaw,0,Management occupations
+Saskatchewan,0.0,0.0,0.0,0.0,0.0,1.0,3.0,10.0,4720,Swift Current--Moose Jaw,1,"Business, finance and administration occupations"
+Saskatchewan,4.0,1.0,0.0,3.0,2.0,0.0,4.0,2.0,4720,Swift Current--Moose Jaw,2,Natural and applied sciences and related occupations
+Saskatchewan,3.0,4.0,2.0,1.0,1.0,1.0,5.0,5.0,4720,Swift Current--Moose Jaw,3,Health occupations
+Saskatchewan,4.0,2.0,7.0,2.0,1.0,4.0,0.0,3.0,4720,Swift Current--Moose Jaw,4,"Occupations in education, law and social, community and government services"
+Saskatchewan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4720,Swift Current--Moose Jaw,5,"Occupations in art, culture, recreation and sport"
+Saskatchewan,16.0,21.0,8.0,59.0,40.0,20.0,110.0,100.0,4720,Swift Current--Moose Jaw,6,Sales and service occupations
+Saskatchewan,0.0,9.0,4.0,26.0,4.0,6.0,41.0,55.0,4720,Swift Current--Moose Jaw,7,"Trades, transport and equipment operators and related occupations"
+Saskatchewan,68.0,70.0,63.0,116.0,101.0,45.0,155.0,132.0,4720,Swift Current--Moose Jaw,8,"Natural resources, agriculture and related production occupations"
+Saskatchewan,0.0,0.0,0.0,2.0,0.0,0.0,30.0,3.0,4720,Swift Current--Moose Jaw,9,Occupations in manufacturing and utilities
+Saskatchewan,4.0,7.0,3.0,1.0,5.0,7.0,11.0,14.0,4730,Saskatoon--Biggar,0,Management occupations
+Saskatchewan,2.0,3.0,1.0,5.0,1.0,3.0,15.0,28.0,4730,Saskatoon--Biggar,1,"Business, finance and administration occupations"
+Saskatchewan,5.0,28.0,37.0,24.0,14.0,26.0,18.0,7.0,4730,Saskatoon--Biggar,2,Natural and applied sciences and related occupations
+Saskatchewan,8.0,10.0,6.0,4.0,5.0,6.0,12.0,3.0,4730,Saskatoon--Biggar,3,Health occupations
+Saskatchewan,35.0,31.0,49.0,38.0,10.0,10.0,14.0,13.0,4730,Saskatoon--Biggar,4,"Occupations in education, law and social, community and government services"
+Saskatchewan,1.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,4730,Saskatoon--Biggar,5,"Occupations in art, culture, recreation and sport"
+Saskatchewan,39.0,25.0,26.0,50.0,48.0,74.0,244.0,343.0,4730,Saskatoon--Biggar,6,Sales and service occupations
+Saskatchewan,49.0,23.0,37.0,37.0,57.0,80.0,188.0,240.0,4730,Saskatoon--Biggar,7,"Trades, transport and equipment operators and related occupations"
+Saskatchewan,141.0,154.0,189.0,172.0,161.0,152.0,157.0,270.0,4730,Saskatoon--Biggar,8,"Natural resources, agriculture and related production occupations"
+Saskatchewan,0.0,0.0,2.0,0.0,0.0,6.0,28.0,35.0,4730,Saskatoon--Biggar,9,Occupations in manufacturing and utilities
+Saskatchewan,4.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,4740,Yorkton--Melville,0,Management occupations
+Saskatchewan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4740,Yorkton--Melville,1,"Business, finance and administration occupations"
+Saskatchewan,3.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,4740,Yorkton--Melville,2,Natural and applied sciences and related occupations
+Saskatchewan,0.0,2.0,0.0,2.0,1.0,0.0,1.0,3.0,4740,Yorkton--Melville,3,Health occupations
+Saskatchewan,3.0,3.0,3.0,4.0,2.0,2.0,3.0,1.0,4740,Yorkton--Melville,4,"Occupations in education, law and social, community and government services"
+Saskatchewan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4740,Yorkton--Melville,5,"Occupations in art, culture, recreation and sport"
+Saskatchewan,35.0,22.0,25.0,33.0,27.0,14.0,74.0,121.0,4740,Yorkton--Melville,6,Sales and service occupations
+Saskatchewan,1.0,4.0,2.0,13.0,1.0,3.0,4.0,16.0,4740,Yorkton--Melville,7,"Trades, transport and equipment operators and related occupations"
+Saskatchewan,71.0,94.0,59.0,123.0,113.0,78.0,110.0,132.0,4740,Yorkton--Melville,8,"Natural resources, agriculture and related production occupations"
+Saskatchewan,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,4740,Yorkton--Melville,9,Occupations in manufacturing and utilities
+Saskatchewan,0.0,2.0,0.0,1.0,1.0,2.0,1.0,2.0,4750,Prince Albert,0,Management occupations
+Saskatchewan,1.0,2.0,0.0,0.0,1.0,1.0,1.0,1.0,4750,Prince Albert,1,"Business, finance and administration occupations"
+Saskatchewan,6.0,11.0,7.0,9.0,8.0,9.0,10.0,14.0,4750,Prince Albert,2,Natural and applied sciences and related occupations
+Saskatchewan,22.0,16.0,18.0,5.0,14.0,12.0,14.0,7.0,4750,Prince Albert,3,Health occupations
+Saskatchewan,17.0,20.0,19.0,13.0,7.0,12.0,5.0,3.0,4750,Prince Albert,4,"Occupations in education, law and social, community and government services"
+Saskatchewan,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4750,Prince Albert,5,"Occupations in art, culture, recreation and sport"
+Saskatchewan,23.0,35.0,35.0,66.0,28.0,70.0,172.0,199.0,4750,Prince Albert,6,Sales and service occupations
+Saskatchewan,3.0,3.0,7.0,1.0,6.0,6.0,15.0,28.0,4750,Prince Albert,7,"Trades, transport and equipment operators and related occupations"
+Saskatchewan,208.0,216.0,203.0,290.0,278.0,241.0,304.0,551.0,4750,Prince Albert,8,"Natural resources, agriculture and related production occupations"
+Saskatchewan,0.0,3.0,0.0,0.0,2.0,0.0,10.0,5.0,4750,Prince Albert,9,Occupations in manufacturing and utilities
+Saskatchewan,2.0,2.0,2.0,4.0,2.0,2.0,2.0,3.0,4760,Northern,0,Management occupations
+Saskatchewan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4760,Northern,1,"Business, finance and administration occupations"
+Saskatchewan,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4760,Northern,2,Natural and applied sciences and related occupations
+Saskatchewan,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,4760,Northern,3,Health occupations
+Saskatchewan,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,4760,Northern,4,"Occupations in education, law and social, community and government services"
+Saskatchewan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4760,Northern,5,"Occupations in art, culture, recreation and sport"
+Saskatchewan,0.0,2.0,1.0,2.0,0.0,2.0,15.0,5.0,4760,Northern,6,Sales and service occupations
+Saskatchewan,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4760,Northern,7,"Trades, transport and equipment operators and related occupations"
+Saskatchewan,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,4760,Northern,8,"Natural resources, agriculture and related production occupations"
+Saskatchewan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4760,Northern,9,Occupations in manufacturing and utilities
+Alberta,36.0,12.0,7.0,12.0,3.0,5.0,19.0,9.0,4810,Lethbridge--Medicine Hat,0,Management occupations
+Alberta,4.0,6.0,4.0,5.0,4.0,7.0,24.0,35.0,4810,Lethbridge--Medicine Hat,1,"Business, finance and administration occupations"
+Alberta,20.0,2.0,3.0,1.0,2.0,1.0,3.0,11.0,4810,Lethbridge--Medicine Hat,2,Natural and applied sciences and related occupations
+Alberta,5.0,6.0,4.0,7.0,8.0,6.0,13.0,32.0,4810,Lethbridge--Medicine Hat,3,Health occupations
+Alberta,25.0,29.0,28.0,20.0,7.0,10.0,10.0,7.0,4810,Lethbridge--Medicine Hat,4,"Occupations in education, law and social, community and government services"
+Alberta,1.0,1.0,2.0,2.0,0.0,0.0,1.0,0.0,4810,Lethbridge--Medicine Hat,5,"Occupations in art, culture, recreation and sport"
+Alberta,130.0,183.0,103.0,176.0,119.0,138.0,541.0,500.0,4810,Lethbridge--Medicine Hat,6,Sales and service occupations
+Alberta,30.0,23.0,14.0,26.0,2.0,1.0,64.0,91.0,4810,Lethbridge--Medicine Hat,7,"Trades, transport and equipment operators and related occupations"
+Alberta,1132.0,991.0,1015.0,1197.0,1021.0,1312.0,1157.0,1838.0,4810,Lethbridge--Medicine Hat,8,"Natural resources, agriculture and related production occupations"
+Alberta,80.0,195.0,100.0,220.0,273.0,100.0,359.0,199.0,4810,Lethbridge--Medicine Hat,9,Occupations in manufacturing and utilities
+Alberta,18.0,8.0,14.0,11.0,5.0,8.0,16.0,13.0,4820,Camrose--Drumheller,0,Management occupations
+Alberta,2.0,0.0,1.0,1.0,3.0,5.0,27.0,21.0,4820,Camrose--Drumheller,1,"Business, finance and administration occupations"
+Alberta,1.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,4820,Camrose--Drumheller,2,Natural and applied sciences and related occupations
+Alberta,19.0,0.0,1.0,7.0,0.0,7.0,13.0,26.0,4820,Camrose--Drumheller,3,Health occupations
+Alberta,17.0,24.0,21.0,13.0,7.0,11.0,8.0,8.0,4820,Camrose--Drumheller,4,"Occupations in education, law and social, community and government services"
+Alberta,1.0,1.0,2.0,2.0,1.0,0.0,2.0,1.0,4820,Camrose--Drumheller,5,"Occupations in art, culture, recreation and sport"
+Alberta,179.0,149.0,149.0,200.0,134.0,144.0,517.0,489.0,4820,Camrose--Drumheller,6,Sales and service occupations
+Alberta,18.0,10.0,12.0,9.0,10.0,3.0,94.0,62.0,4820,Camrose--Drumheller,7,"Trades, transport and equipment operators and related occupations"
+Alberta,237.0,269.0,319.0,329.0,277.0,374.0,431.0,522.0,4820,Camrose--Drumheller,8,"Natural resources, agriculture and related production occupations"
+Alberta,7.0,14.0,10.0,36.0,13.0,22.0,6.0,33.0,4820,Camrose--Drumheller,9,Occupations in manufacturing and utilities
+Alberta,188.0,134.0,72.0,114.0,79.0,98.0,163.0,194.0,4830,Calgary,0,Management occupations
+Alberta,81.0,70.0,58.0,179.0,155.0,180.0,736.0,990.0,4830,Calgary,1,"Business, finance and administration occupations"
+Alberta,108.0,78.0,71.0,124.0,76.0,147.0,485.0,268.0,4830,Calgary,2,Natural and applied sciences and related occupations
+Alberta,33.0,28.0,25.0,26.0,17.0,20.0,36.0,75.0,4830,Calgary,3,Health occupations
+Alberta,516.0,467.0,589.0,425.0,158.0,233.0,176.0,207.0,4830,Calgary,4,"Occupations in education, law and social, community and government services"
+Alberta,77.0,40.0,38.0,43.0,18.0,22.0,62.0,56.0,4830,Calgary,5,"Occupations in art, culture, recreation and sport"
+Alberta,1103.0,970.0,774.0,1321.0,787.0,873.0,2796.0,3692.0,4830,Calgary,6,Sales and service occupations
+Alberta,465.0,407.0,376.0,992.0,595.0,355.0,2156.0,2694.0,4830,Calgary,7,"Trades, transport and equipment operators and related occupations"
+Alberta,215.0,176.0,279.0,247.0,255.0,212.0,301.0,614.0,4830,Calgary,8,"Natural resources, agriculture and related production occupations"
+Alberta,67.0,31.0,60.0,70.0,20.0,37.0,152.0,193.0,4830,Calgary,9,Occupations in manufacturing and utilities
+Alberta,12.0,14.0,5.0,11.0,10.0,6.0,18.0,8.0,4840,Banff--Jasper--Rocky Mountain House,0,Management occupations
+Alberta,1.0,3.0,0.0,8.0,3.0,4.0,17.0,14.0,4840,Banff--Jasper--Rocky Mountain House,1,"Business, finance and administration occupations"
+Alberta,2.0,1.0,4.0,3.0,1.0,0.0,0.0,2.0,4840,Banff--Jasper--Rocky Mountain House,2,Natural and applied sciences and related occupations
+Alberta,5.0,1.0,1.0,3.0,2.0,2.0,4.0,21.0,4840,Banff--Jasper--Rocky Mountain House,3,Health occupations
+Alberta,6.0,15.0,23.0,12.0,4.0,8.0,4.0,11.0,4840,Banff--Jasper--Rocky Mountain House,4,"Occupations in education, law and social, community and government services"
+Alberta,29.0,17.0,19.0,10.0,1.0,1.0,1.0,14.0,4840,Banff--Jasper--Rocky Mountain House,5,"Occupations in art, culture, recreation and sport"
+Alberta,257.0,264.0,212.0,494.0,234.0,265.0,1175.0,750.0,4840,Banff--Jasper--Rocky Mountain House,6,Sales and service occupations
+Alberta,14.0,13.0,21.0,8.0,8.0,8.0,18.0,37.0,4840,Banff--Jasper--Rocky Mountain House,7,"Trades, transport and equipment operators and related occupations"
+Alberta,14.0,38.0,68.0,67.0,45.0,47.0,57.0,82.0,4840,Banff--Jasper--Rocky Mountain House,8,"Natural resources, agriculture and related production occupations"
+Alberta,3.0,2.0,0.0,10.0,0.0,0.0,4.0,9.0,4840,Banff--Jasper--Rocky Mountain House,9,Occupations in manufacturing and utilities
+Alberta,23.0,8.0,3.0,8.0,5.0,1.0,13.0,18.0,4850,Red Deer,0,Management occupations
+Alberta,2.0,2.0,1.0,2.0,2.0,7.0,17.0,21.0,4850,Red Deer,1,"Business, finance and administration occupations"
+Alberta,8.0,8.0,4.0,6.0,1.0,0.0,6.0,9.0,4850,Red Deer,2,Natural and applied sciences and related occupations
+Alberta,5.0,4.0,1.0,3.0,4.0,8.0,15.0,30.0,4850,Red Deer,3,Health occupations
+Alberta,46.0,46.0,48.0,21.0,12.0,21.0,19.0,16.0,4850,Red Deer,4,"Occupations in education, law and social, community and government services"
+Alberta,6.0,6.0,5.0,2.0,2.0,1.0,1.0,7.0,4850,Red Deer,5,"Occupations in art, culture, recreation and sport"
+Alberta,139.0,134.0,117.0,192.0,102.0,139.0,447.0,514.0,4850,Red Deer,6,Sales and service occupations
+Alberta,18.0,29.0,24.0,40.0,23.0,13.0,78.0,67.0,4850,Red Deer,7,"Trades, transport and equipment operators and related occupations"
+Alberta,140.0,201.0,252.0,231.0,260.0,234.0,333.0,456.0,4850,Red Deer,8,"Natural resources, agriculture and related production occupations"
+Alberta,8.0,4.0,1.0,2.0,6.0,4.0,248.0,5.0,4850,Red Deer,9,Occupations in manufacturing and utilities
+Alberta,162.0,106.0,49.0,87.0,44.0,81.0,137.0,179.0,4860,Edmonton,0,Management occupations
+Alberta,99.0,71.0,92.0,271.0,180.0,272.0,922.0,1113.0,4860,Edmonton,1,"Business, finance and administration occupations"
+Alberta,83.0,51.0,76.0,93.0,55.0,77.0,205.0,159.0,4860,Edmonton,2,Natural and applied sciences and related occupations
+Alberta,52.0,42.0,35.0,44.0,30.0,21.0,33.0,58.0,4860,Edmonton,3,Health occupations
+Alberta,469.0,521.0,576.0,468.0,203.0,272.0,332.0,343.0,4860,Edmonton,4,"Occupations in education, law and social, community and government services"
+Alberta,29.0,25.0,12.0,22.0,12.0,15.0,33.0,39.0,4860,Edmonton,5,"Occupations in art, culture, recreation and sport"
+Alberta,1453.0,1090.0,784.0,1467.0,816.0,1172.0,3219.0,4013.0,4860,Edmonton,6,Sales and service occupations
+Alberta,563.0,642.0,585.0,1380.0,608.0,583.0,2701.0,2793.0,4860,Edmonton,7,"Trades, transport and equipment operators and related occupations"
+Alberta,306.0,246.0,317.0,332.0,286.0,258.0,360.0,595.0,4860,Edmonton,8,"Natural resources, agriculture and related production occupations"
+Alberta,84.0,28.0,37.0,46.0,10.0,11.0,121.0,157.0,4860,Edmonton,9,Occupations in manufacturing and utilities
+Alberta,33.0,27.0,19.0,22.0,10.0,12.0,14.0,9.0,4870,Athabasca--Grande Prairie--Peace River,0,Management occupations
+Alberta,8.0,4.0,8.0,4.0,7.0,9.0,33.0,25.0,4870,Athabasca--Grande Prairie--Peace River,1,"Business, finance and administration occupations"
+Alberta,3.0,8.0,6.0,4.0,0.0,10.0,6.0,3.0,4870,Athabasca--Grande Prairie--Peace River,2,Natural and applied sciences and related occupations
+Alberta,25.0,7.0,6.0,10.0,13.0,13.0,41.0,102.0,4870,Athabasca--Grande Prairie--Peace River,3,Health occupations
+Alberta,64.0,62.0,73.0,47.0,17.0,21.0,10.0,20.0,4870,Athabasca--Grande Prairie--Peace River,4,"Occupations in education, law and social, community and government services"
+Alberta,0.0,1.0,1.0,2.0,2.0,3.0,0.0,0.0,4870,Athabasca--Grande Prairie--Peace River,5,"Occupations in art, culture, recreation and sport"
+Alberta,306.0,349.0,300.0,561.0,275.0,418.0,1004.0,868.0,4870,Athabasca--Grande Prairie--Peace River,6,Sales and service occupations
+Alberta,39.0,24.0,30.0,76.0,29.0,22.0,91.0,146.0,4870,Athabasca--Grande Prairie--Peace River,7,"Trades, transport and equipment operators and related occupations"
+Alberta,197.0,280.0,339.0,401.0,278.0,293.0,364.0,531.0,4870,Athabasca--Grande Prairie--Peace River,8,"Natural resources, agriculture and related production occupations"
+Alberta,5.0,5.0,1.0,0.0,1.0,2.0,22.0,12.0,4870,Athabasca--Grande Prairie--Peace River,9,Occupations in manufacturing and utilities
+Alberta,36.0,16.0,12.0,3.0,9.0,8.0,6.0,8.0,4880,Wood Buffalo--Cold Lake,0,Management occupations
+Alberta,4.0,5.0,2.0,4.0,5.0,4.0,10.0,19.0,4880,Wood Buffalo--Cold Lake,1,"Business, finance and administration occupations"
+Alberta,30.0,32.0,38.0,21.0,15.0,0.0,18.0,14.0,4880,Wood Buffalo--Cold Lake,2,Natural and applied sciences and related occupations
+Alberta,11.0,6.0,2.0,1.0,0.0,7.0,9.0,24.0,4880,Wood Buffalo--Cold Lake,3,Health occupations
+Alberta,106.0,118.0,129.0,86.0,23.0,39.0,33.0,37.0,4880,Wood Buffalo--Cold Lake,4,"Occupations in education, law and social, community and government services"
+Alberta,3.0,5.0,5.0,3.0,0.0,2.0,0.0,1.0,4880,Wood Buffalo--Cold Lake,5,"Occupations in art, culture, recreation and sport"
+Alberta,186.0,289.0,152.0,258.0,172.0,200.0,551.0,501.0,4880,Wood Buffalo--Cold Lake,6,Sales and service occupations
+Alberta,48.0,25.0,61.0,32.0,33.0,37.0,115.0,78.0,4880,Wood Buffalo--Cold Lake,7,"Trades, transport and equipment operators and related occupations"
+Alberta,96.0,113.0,111.0,121.0,151.0,110.0,110.0,218.0,4880,Wood Buffalo--Cold Lake,8,"Natural resources, agriculture and related production occupations"
+Alberta,11.0,1.0,2.0,7.0,6.0,0.0,4.0,0.0,4880,Wood Buffalo--Cold Lake,9,Occupations in manufacturing and utilities
+British Columbia,36.0,51.0,44.0,58.0,95.0,67.0,120.0,108.0,5910,Vancouver Island and Coast,0,Management occupations
+British Columbia,11.0,7.0,2.0,9.0,13.0,16.0,53.0,86.0,5910,Vancouver Island and Coast,1,"Business, finance and administration occupations"
+British Columbia,140.0,76.0,46.0,47.0,29.0,36.0,36.0,32.0,5910,Vancouver Island and Coast,2,Natural and applied sciences and related occupations
+British Columbia,5.0,5.0,8.0,19.0,44.0,35.0,83.0,69.0,5910,Vancouver Island and Coast,3,Health occupations
+British Columbia,134.0,145.0,191.0,139.0,111.0,108.0,129.0,152.0,5910,Vancouver Island and Coast,4,"Occupations in education, law and social, community and government services"
+British Columbia,38.0,15.0,10.0,11.0,12.0,14.0,19.0,10.0,5910,Vancouver Island and Coast,5,"Occupations in art, culture, recreation and sport"
+British Columbia,154.0,330.0,330.0,661.0,572.0,844.0,1890.0,1733.0,5910,Vancouver Island and Coast,6,Sales and service occupations
+British Columbia,794.0,49.0,18.0,58.0,45.0,87.0,246.0,268.0,5910,Vancouver Island and Coast,7,"Trades, transport and equipment operators and related occupations"
+British Columbia,173.0,198.0,263.0,282.0,294.0,282.0,368.0,487.0,5910,Vancouver Island and Coast,8,"Natural resources, agriculture and related production occupations"
+British Columbia,6.0,16.0,4.0,18.0,63.0,84.0,337.0,176.0,5910,Vancouver Island and Coast,9,Occupations in manufacturing and utilities
+British Columbia,391.0,453.0,362.0,698.0,924.0,826.0,1136.0,909.0,5920,Lower Mainland--Southwest,0,Management occupations
+British Columbia,343.0,412.0,394.0,1011.0,1009.0,851.0,1847.0,2025.0,5920,Lower Mainland--Southwest,1,"Business, finance and administration occupations"
+British Columbia,620.0,788.0,652.0,868.0,873.0,914.0,1517.0,840.0,5920,Lower Mainland--Southwest,2,Natural and applied sciences and related occupations
+British Columbia,40.0,46.0,51.0,69.0,69.0,92.0,144.0,195.0,5920,Lower Mainland--Southwest,3,Health occupations
+British Columbia,1486.0,1846.0,2425.0,1950.0,1276.0,1523.0,1188.0,1180.0,5920,Lower Mainland--Southwest,4,"Occupations in education, law and social, community and government services"
+British Columbia,1996.0,1404.0,1114.0,993.0,483.0,578.0,860.0,684.0,5920,Lower Mainland--Southwest,5,"Occupations in art, culture, recreation and sport"
+British Columbia,1395.0,2155.0,2397.0,4315.0,3398.0,3117.0,6373.0,6513.0,5920,Lower Mainland--Southwest,6,Sales and service occupations
+British Columbia,1534.0,2490.0,2368.0,5694.0,4013.0,4639.0,8068.0,7735.0,5920,Lower Mainland--Southwest,7,"Trades, transport and equipment operators and related occupations"
+British Columbia,5473.0,6466.0,9778.0,7012.0,8685.0,7697.0,9309.0,14255.0,5920,Lower Mainland--Southwest,8,"Natural resources, agriculture and related production occupations"
+British Columbia,32.0,93.0,160.0,275.0,448.0,485.0,1218.0,847.0,5920,Lower Mainland--Southwest,9,Occupations in manufacturing and utilities
+British Columbia,28.0,32.0,30.0,58.0,120.0,65.0,74.0,81.0,5930,Thompson--Okanagan,0,Management occupations
+British Columbia,9.0,6.0,11.0,12.0,15.0,23.0,57.0,83.0,5930,Thompson--Okanagan,1,"Business, finance and administration occupations"
+British Columbia,8.0,14.0,9.0,12.0,13.0,18.0,15.0,13.0,5930,Thompson--Okanagan,2,Natural and applied sciences and related occupations
+British Columbia,5.0,5.0,0.0,25.0,13.0,27.0,49.0,56.0,5930,Thompson--Okanagan,3,Health occupations
+British Columbia,50.0,66.0,97.0,50.0,43.0,45.0,29.0,37.0,5930,Thompson--Okanagan,4,"Occupations in education, law and social, community and government services"
+British Columbia,50.0,58.0,35.0,32.0,6.0,26.0,22.0,13.0,5930,Thompson--Okanagan,5,"Occupations in art, culture, recreation and sport"
+British Columbia,186.0,329.0,377.0,567.0,521.0,689.0,2207.0,1659.0,5930,Thompson--Okanagan,6,Sales and service occupations
+British Columbia,14.0,22.0,61.0,68.0,66.0,105.0,496.0,429.0,5930,Thompson--Okanagan,7,"Trades, transport and equipment operators and related occupations"
+British Columbia,3888.0,3885.0,6209.0,5457.0,6140.0,5823.0,6456.0,9213.0,5930,Thompson--Okanagan,8,"Natural resources, agriculture and related production occupations"
+British Columbia,5.0,3.0,1.0,18.0,12.0,61.0,82.0,110.0,5930,Thompson--Okanagan,9,Occupations in manufacturing and utilities
+British Columbia,3.0,4.0,3.0,11.0,21.0,14.0,15.0,26.0,5940,Kootenay,0,Management occupations
+British Columbia,0.0,1.0,0.0,2.0,5.0,1.0,7.0,9.0,5940,Kootenay,1,"Business, finance and administration occupations"
+British Columbia,4.0,7.0,5.0,2.0,3.0,3.0,5.0,2.0,5940,Kootenay,2,Natural and applied sciences and related occupations
+British Columbia,11.0,14.0,3.0,2.0,8.0,8.0,2.0,1.0,5940,Kootenay,3,Health occupations
+British Columbia,10.0,14.0,12.0,19.0,4.0,6.0,4.0,8.0,5940,Kootenay,4,"Occupations in education, law and social, community and government services"
+British Columbia,4.0,1.0,1.0,1.0,0.0,0.0,16.0,6.0,5940,Kootenay,5,"Occupations in art, culture, recreation and sport"
+British Columbia,43.0,64.0,67.0,156.0,121.0,105.0,409.0,363.0,5940,Kootenay,6,Sales and service occupations
+British Columbia,18.0,0.0,4.0,19.0,26.0,30.0,55.0,75.0,5940,Kootenay,7,"Trades, transport and equipment operators and related occupations"
+British Columbia,129.0,137.0,364.0,233.0,411.0,312.0,649.0,1166.0,5940,Kootenay,8,"Natural resources, agriculture and related production occupations"
+British Columbia,2.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,5940,Kootenay,9,Occupations in manufacturing and utilities
+British Columbia,7.0,8.0,8.0,15.0,21.0,17.0,21.0,18.0,5950,Cariboo,0,Management occupations
+British Columbia,2.0,1.0,1.0,4.0,10.0,11.0,17.0,18.0,5950,Cariboo,1,"Business, finance and administration occupations"
+British Columbia,8.0,6.0,3.0,4.0,1.0,1.0,6.0,7.0,5950,Cariboo,2,Natural and applied sciences and related occupations
+British Columbia,6.0,8.0,1.0,10.0,5.0,7.0,8.0,9.0,5950,Cariboo,3,Health occupations
+British Columbia,16.0,11.0,25.0,12.0,9.0,7.0,4.0,4.0,5950,Cariboo,4,"Occupations in education, law and social, community and government services"
+British Columbia,17.0,6.0,0.0,3.0,0.0,1.0,5.0,15.0,5950,Cariboo,5,"Occupations in art, culture, recreation and sport"
+British Columbia,47.0,39.0,62.0,98.0,78.0,94.0,286.0,329.0,5950,Cariboo,6,Sales and service occupations
+British Columbia,30.0,4.0,13.0,29.0,15.0,20.0,34.0,42.0,5950,Cariboo,7,"Trades, transport and equipment operators and related occupations"
+British Columbia,13.0,52.0,150.0,267.0,185.0,85.0,136.0,142.0,5950,Cariboo,8,"Natural resources, agriculture and related production occupations"
+British Columbia,10.0,16.0,2.0,4.0,2.0,2.0,1.0,0.0,5950,Cariboo,9,Occupations in manufacturing and utilities
+British Columbia,4.0,3.0,4.0,6.0,10.0,14.0,20.0,11.0,5960,North Coast,0,Management occupations
+British Columbia,1.0,2.0,2.0,5.0,1.0,1.0,8.0,14.0,5960,North Coast,1,"Business, finance and administration occupations"
+British Columbia,5.0,0.0,19.0,18.0,3.0,0.0,2.0,1.0,5960,North Coast,2,Natural and applied sciences and related occupations
+British Columbia,0.0,3.0,0.0,0.0,3.0,4.0,9.0,5.0,5960,North Coast,3,Health occupations
+British Columbia,8.0,3.0,4.0,6.0,1.0,5.0,4.0,2.0,5960,North Coast,4,"Occupations in education, law and social, community and government services"
+British Columbia,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0,5960,North Coast,5,"Occupations in art, culture, recreation and sport"
+British Columbia,32.0,26.0,48.0,85.0,68.0,101.0,193.0,227.0,5960,North Coast,6,Sales and service occupations
+British Columbia,1.0,1.0,7.0,44.0,11.0,13.0,115.0,24.0,5960,North Coast,7,"Trades, transport and equipment operators and related occupations"
+British Columbia,0.0,0.0,2.0,0.0,4.0,4.0,2.0,14.0,5960,North Coast,8,"Natural resources, agriculture and related production occupations"
+British Columbia,10.0,0.0,0.0,0.0,18.0,11.0,4.0,9.0,5960,North Coast,9,Occupations in manufacturing and utilities
+British Columbia,3.0,3.0,0.0,3.0,5.0,5.0,10.0,8.0,5970,Nechako,0,Management occupations
+British Columbia,0.0,1.0,2.0,0.0,5.0,0.0,2.0,4.0,5970,Nechako,1,"Business, finance and administration occupations"
+British Columbia,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5970,Nechako,2,Natural and applied sciences and related occupations
+British Columbia,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,5970,Nechako,3,Health occupations
+British Columbia,3.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,5970,Nechako,4,"Occupations in education, law and social, community and government services"
+British Columbia,1.0,0.0,0.0,1.0,0.0,1.0,6.0,0.0,5970,Nechako,5,"Occupations in art, culture, recreation and sport"
+British Columbia,15.0,15.0,30.0,51.0,55.0,74.0,148.0,118.0,5970,Nechako,6,Sales and service occupations
+British Columbia,4.0,1.0,0.0,4.0,4.0,32.0,56.0,30.0,5970,Nechako,7,"Trades, transport and equipment operators and related occupations"
+British Columbia,0.0,6.0,1.0,52.0,4.0,13.0,22.0,17.0,5970,Nechako,8,"Natural resources, agriculture and related production occupations"
+British Columbia,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,5970,Nechako,9,Occupations in manufacturing and utilities
+British Columbia,5.0,7.0,3.0,13.0,10.0,3.0,13.0,11.0,5980,Northeast,0,Management occupations
+British Columbia,1.0,0.0,1.0,4.0,2.0,7.0,5.0,10.0,5980,Northeast,1,"Business, finance and administration occupations"
+British Columbia,1.0,16.0,3.0,2.0,5.0,6.0,5.0,7.0,5980,Northeast,2,Natural and applied sciences and related occupations
+British Columbia,2.0,1.0,2.0,0.0,3.0,2.0,1.0,1.0,5980,Northeast,3,Health occupations
+British Columbia,13.0,11.0,25.0,10.0,6.0,8.0,7.0,6.0,5980,Northeast,4,"Occupations in education, law and social, community and government services"
+British Columbia,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,5980,Northeast,5,"Occupations in art, culture, recreation and sport"
+British Columbia,44.0,66.0,60.0,148.0,75.0,126.0,241.0,254.0,5980,Northeast,6,Sales and service occupations
+British Columbia,11.0,11.0,32.0,75.0,7.0,20.0,161.0,67.0,5980,Northeast,7,"Trades, transport and equipment operators and related occupations"
+British Columbia,0.0,1.0,10.0,1.0,1.0,55.0,7.0,77.0,5980,Northeast,8,"Natural resources, agriculture and related production occupations"
+British Columbia,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,5980,Northeast,9,Occupations in manufacturing and utilities
+Yukon,1.0,1.0,1.0,1.0,1.0,3.0,1.0,0.0,6010,Yukon,0,Management occupations
+Yukon,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,6010,Yukon,1,"Business, finance and administration occupations"
+Yukon,4.0,4.0,2.0,0.0,0.0,3.0,1.0,2.0,6010,Yukon,2,Natural and applied sciences and related occupations
+Yukon,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,6010,Yukon,3,Health occupations
+Yukon,5.0,11.0,7.0,7.0,0.0,1.0,0.0,2.0,6010,Yukon,4,"Occupations in education, law and social, community and government services"
+Yukon,86.0,72.0,85.0,93.0,31.0,111.0,103.0,104.0,6010,Yukon,5,"Occupations in art, culture, recreation and sport"
+Yukon,5.0,3.0,3.0,21.0,5.0,5.0,26.0,19.0,6010,Yukon,6,Sales and service occupations
+Yukon,6.0,25.0,9.0,17.0,3.0,2.0,23.0,8.0,6010,Yukon,7,"Trades, transport and equipment operators and related occupations"
+Yukon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6010,Yukon,8,"Natural resources, agriculture and related production occupations"
+Yukon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6010,Yukon,9,Occupations in manufacturing and utilities
+Northwest Territories,3.0,2.0,1.0,5.0,0.0,2.0,4.0,2.0,6110,Northwest Territories,0,Management occupations
+Northwest Territories,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,6110,Northwest Territories,1,"Business, finance and administration occupations"
+Northwest Territories,8.0,5.0,0.0,0.0,0.0,0.0,1.0,13.0,6110,Northwest Territories,2,Natural and applied sciences and related occupations
+Northwest Territories,0.0,0.0,0.0,3.0,2.0,0.0,2.0,2.0,6110,Northwest Territories,3,Health occupations
+Northwest Territories,11.0,13.0,12.0,7.0,5.0,5.0,2.0,1.0,6110,Northwest Territories,4,"Occupations in education, law and social, community and government services"
+Northwest Territories,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6110,Northwest Territories,5,"Occupations in art, culture, recreation and sport"
+Northwest Territories,30.0,10.0,5.0,37.0,18.0,22.0,106.0,85.0,6110,Northwest Territories,6,Sales and service occupations
+Northwest Territories,11.0,13.0,2.0,2.0,2.0,0.0,15.0,20.0,6110,Northwest Territories,7,"Trades, transport and equipment operators and related occupations"
+Northwest Territories,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,6110,Northwest Territories,8,"Natural resources, agriculture and related production occupations"
+Northwest Territories,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,6110,Northwest Territories,9,Occupations in manufacturing and utilities
+Nunavut,2.0,1.0,4.0,0.0,1.0,0.0,2.0,0.0,6210,Nunavut,0,Management occupations
+Nunavut,3.0,0.0,1.0,1.0,3.0,3.0,1.0,3.0,6210,Nunavut,1,"Business, finance and administration occupations"
+Nunavut,12.0,13.0,27.0,16.0,18.0,17.0,16.0,40.0,6210,Nunavut,2,Natural and applied sciences and related occupations
+Nunavut,2.0,1.0,1.0,0.0,0.0,1.0,3.0,0.0,6210,Nunavut,3,Health occupations
+Nunavut,6.0,6.0,10.0,2.0,2.0,2.0,1.0,1.0,6210,Nunavut,4,"Occupations in education, law and social, community and government services"
+Nunavut,7.0,1.0,8.0,1.0,0.0,2.0,0.0,0.0,6210,Nunavut,5,"Occupations in art, culture, recreation and sport"
+Nunavut,98.0,15.0,49.0,71.0,7.0,9.0,46.0,39.0,6210,Nunavut,6,Sales and service occupations
+Nunavut,15.0,4.0,32.0,42.0,15.0,29.0,19.0,39.0,6210,Nunavut,7,"Trades, transport and equipment operators and related occupations"
+Nunavut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6210,Nunavut,8,"Natural resources, agriculture and related production occupations"
+Nunavut,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6210,Nunavut,9,Occupations in manufacturing and utilities
