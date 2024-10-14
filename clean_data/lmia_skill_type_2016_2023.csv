@@ -1,4 +1,4 @@
-province_region,occupation,skill_type,2016,2017,2018,2019,2020,2021,2022,2023
+Province_Region,Occupation,Skill_Type_Classification,2016,2017,2018,2019,2020,2021,2022,2023
 Canada,Management occupations,0.0,1834.0,1701.0,1452.0,2180.0,2646.0,2569.0,3894.0,4460.0
 Canada,"Business, finance and administration occupations",1.0,1065.0,1196.0,1153.0,2492.0,2887.0,2499.0,6739.0,10035.0
 Canada,Natural and applied sciences and related occupations,2.0,3350.0,3238.0,3465.0,5003.0,4200.0,5360.0,9419.0,7204.0

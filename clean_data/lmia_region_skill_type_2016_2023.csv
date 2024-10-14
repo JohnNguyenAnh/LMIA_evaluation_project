@@ -1,4 +1,4 @@
-province_territory,2016,2017,2018,2019,2020,2021,2022,2023,region_code,region_name,noc_code,occupational_skill_type
+Province_Region,2016,2017,2018,2019,2020,2021,2022,2023,Region_code,Region_name,Skill_Type_Classification,Occupation
 Newfoundland and Labrador,16.0,10.0,8.0,7.0,0.0,3.0,2.0,2.0,1010,Avalon Peninsula,0,Management occupations
 Newfoundland and Labrador,0.0,1.0,5.0,1.0,0.0,0.0,0.0,5.0,1010,Avalon Peninsula,1,"Business, finance and administration occupations"
 Newfoundland and Labrador,77.0,26.0,8.0,28.0,4.0,15.0,6.0,8.0,1010,Avalon Peninsula,2,Natural and applied sciences and related occupations
