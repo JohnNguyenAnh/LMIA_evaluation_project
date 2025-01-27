@@ -1,0 +1,77 @@
+2016,2017,2018,2019,2020,2021,2022,2023,Province_Territory,Region_Code,Region_Name
+219,144,152,101,79,74,583,840,Newfoundland and Labrador,1010,Avalon Peninsula 
+1,9,4,3,2,4,36,61,Newfoundland and Labrador,1020,South Coast--Burin Peninsula 
+49,34,56,39,45,53,108,151,Newfoundland and Labrador,1030,West Coast--Northern Peninsula--Labrador 
+18,12,7,40,38,59,153,162,Newfoundland and Labrador,1040,Notre Dame--Central Bonavista Bay 
+946,"1,056","1,012","1,179","1,724","1,504","2,291","1,711",Prince Edward Island,1110,Prince Edward Island 
+97,109,92,69,161,195,337,386,Nova Scotia,1210,Cape Breton 
+446,582,"1,073",665,704,"1,040","1,393",956,Nova Scotia,1220,North Shore 
+"1,214","1,368","1,694","1,277","1,674","1,796","1,990","2,338",Nova Scotia,1230,Annapolis Valley 
+155,227,196,381,379,713,918,773,Nova Scotia,1240,Southern 
+314,269,324,312,244,337,935,951,Nova Scotia,1250,Halifax 
+69,66,180,198,245,686,"1,321",921,New Brunswick,1310,Campbellton--Miramichi 
+857,"1,275",833,"1,132","2,106","1,574","4,588","2,882",New Brunswick,1320,Moncton--Richibucto 
+134,176,77,141,173,214,419,426,New Brunswick,1330,Saint John--St. Stephen 
+34,38,32,123,73,217,288,260,New Brunswick,1340,Fredericton--Oromocto 
+126,117,188,332,268,295,488,474,New Brunswick,1350,Edmundston--Woodstock 
+36,57,138,200,170,308,857,886,Quebec,2410,Gaspésie -- Îles-de-la-Madeleine 
+112,180,239,435,428,604,"1,250","1,475",Quebec,2415,Bas-Saint-Laurent 
+"1,435","1,558","1,969","2,763","2,797","3,272","6,810","6,197",Quebec,2420,Capitale-Nationale 
+"1,017","1,093","1,554","3,013","3,055","3,190","6,616","4,700",Quebec,2425,Chaudière-Appalaches 
+490,663,892,"1,285","1,442","1,325","2,540","2,342",Quebec,2430,Estrie 
+922,867,"1,359","2,081","2,167","2,454","4,143","3,624",Quebec,2433,Centre-du-Québec 
+"8,075","6,178","6,880","11,078","10,211","10,793","17,560","15,922",Quebec,2435,Montérégie 
+"2,085","1,798","1,950","3,159","2,958","2,898","8,009","8,690",Quebec,2440,Montréal 
+647,607,691,572,"1,016",659,"1,920","1,819",Quebec,2445,Laval 
+"2,335","1,942","2,140","3,241","3,009","3,375","5,173","4,437",Quebec,2450,Lanaudière 
+"2,062","1,391","1,895","2,706","2,752","3,174","4,499","4,940",Quebec,2455,Laurentides 
+128,98,104,283,277,217,833,690,Quebec,2460,Outaouais 
+61,73,182,362,333,400,941,"1,105",Quebec,2465,Abitibi-Témiscamingue 
+349,510,407,912,668,948,"1,758","1,273",Quebec,2470,Mauricie 
+252,255,453,899,992,"1,248","2,231","2,394",Quebec,2475,Saguenay--Lac-Saint-Jean 
+18,34,70,96,173,216,698,625,Quebec,2480,Côte-Nord 
+59,3,17,63,103,76,227,239,Quebec,2490,Nord-du-Québec 
+722,715,832,859,962,"1,195","2,350","2,983",Ontario,3510,Ottawa 
+321,410,543,456,586,511,837,"1,298",Ontario,3515,Kingston--Pembroke 
+282,358,577,456,579,509,930,"1,015",Ontario,3520,Muskoka--Kawarthas 
+"7,734","9,253","9,672","11,302","11,218","11,925","19,651","24,352",Ontario,3530,Toronto 
+"1,338","1,909","1,986","1,948","2,002","2,727","3,997","4,699",Ontario,3540,Kitchener--Waterloo--Barrie 
+"8,303","12,784","11,939","11,599","10,842","12,045","14,320","18,086",Ontario,3550,Hamilton--Niagara Peninsula 
+"1,927","2,662","2,754","3,054","3,042","2,880","3,951","4,120",Ontario,3560,London 
+"8,412","8,997","9,886","9,588","10,048","11,299","11,849","13,292",Ontario,3570,Windsor--Sarnia 
+996,"1,488","1,755","1,482","1,566","1,554","2,700","2,909",Ontario,3580,Stratford--Bruce Peninsula 
+236,301,333,384,404,345,908,"1,184",Ontario,3590,Northeast 
+31,44,112,86,117,130,415,597,Ontario,3595,Northwest 
+85,67,60,179,134,90,356,334,Manitoba,4610,Southeast 
+129,94,195,228,190,197,269,431,Manitoba,4620,South Central 
+240,279,224,255,94,304,448,240,Manitoba,4630,Southwest 
+320,297,304,307,494,345,448,660,Manitoba,4640,North Central 
+216,221,325,472,453,656,"1,611","2,098",Manitoba,4650,Winnipeg 
+55,158,154,252,240,175,361,505,Manitoba,4660,Interlake 
+121,88,98,141,138,63,229,231,Manitoba,4670,Parklands 
+60,61,28,113,27,22,132,116,Manitoba,4680,North 
+308,237,237,324,220,293,641,721,Saskatchewan,4710,Regina--Moose Mountain 
+97,107,85,209,149,78,350,312,Saskatchewan,4720,Swift Current--Moose Jaw 
+284,283,351,331,301,365,689,953,Saskatchewan,4730,Saskatoon--Biggar 
+117,126,91,177,145,98,193,282,Saskatchewan,4740,Yorkton--Melville 
+281,308,289,385,345,353,532,810,Saskatchewan,4750,Prince Albert 
+10,6,10,8,2,4,18,9,Saskatchewan,4760,Northern 
+"1,463","1,448","1,280","1,666","1,439","1,580","2,191","2,722",Alberta,4810,Lethbridge--Medicine Hat 
+499,477,531,610,452,575,"1,116","1,176",Alberta,4820,Camrose--Drumheller 
+"2,853","2,401","2,342","3,541","2,160","2,177","7,063","8,983",Alberta,4830,Calgary 
+343,368,353,626,308,341,"1,298",948,Alberta,4840,Banff--Jasper--Rocky Mountain House 
+395,442,456,507,417,428,"1,177","1,143",Alberta,4850,Red Deer 
+"3,300","2,822","2,563","4,210","2,244","2,763","8,063","9,449",Alberta,4860,Edmonton 
+680,767,783,"1,127",632,803,"1,585","1,716",Alberta,4870,Athabasca--Grande Prairie--Peace River 
+531,610,514,536,414,407,856,900,Alberta,4880,Wood Buffalo--Cold Lake 
+"1,491",892,916,"1,302","1,278","1,573","3,281","3,121",British Columbia,5910,Vancouver Island and Coast 
+"13,310","16,153","19,701","22,890","21,178","20,722","31,660","35,183",British Columbia,5920,Lower Mainland--Southwest 
+"4,243","4,420","6,830","6,299","6,949","6,882","9,487","11,694",British Columbia,5930,Thompson--Okanagan 
+224,242,459,446,599,479,"1,162","1,660",British Columbia,5940,Kootenay 
+156,151,265,446,326,245,518,584,British Columbia,5950,Cariboo 
+61,40,86,164,119,155,357,309,British Columbia,5960,North Coast 
+28,28,36,111,73,128,244,182,British Columbia,5970,Nechako 
+78,113,136,255,110,227,441,435,British Columbia,5980,Northeast 
+107,119,107,139,40,126,157,136,Yukon,6010,Yukon 
+64,46,21,56,29,30,132,124,Northwest Territories,6110,Northwest Territories 
+145,41,132,133,46,63,88,122,Nunavut,6210,Nunavut 

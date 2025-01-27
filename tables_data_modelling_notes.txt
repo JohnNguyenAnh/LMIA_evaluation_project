@@ -1,0 +1,217 @@
+Rename of all table:
+Table02: Positive LMIA approvals by Census Subdivision (CSD) and Province, 2016-2023
+Table03: Positive LMIA approvals by Economic Region and Province, 2016-2023
+Table04: Positive LMIA approvals by NOC Skill Level and Province, 2016-2023
+Table05: Positive LMIA approvals by NOC Skill Type and Province, 2016-2023
+Table06: Positive LMIA approvals by NAICS (North American Industry Classification System) and Province, 2016-2023
+Table07: Positive LMIA approvals in Agriculture by Province, 2016-2023
+Table08: Positive LMIA approvals for Caregivers (NOC), by Province, 2016-2023
+Table10: Top countries of residency for LMIA applicants by Province, 2020-2023
+Table12: LMIA positions requested by Province, 2016-2023
+Table13: Positive LMIA approvals by Stream and Province, 2016-2023
+Table14: Positive LMIA approvals by Stream and Province, 2016-2023 (duplicate with possibly different metrics)
+Table16: Positive LMIA approvals by NOC Skill Level and Province, 2016-2023
+Table17: Positive LMIA approvals by NOC Skill Type and Province, 2016-2023
+Table18: Positive LMIA approvals by NAICS and Province, 2016-2023
+Table19: Unique employers with positive LMIAs by Stream and Province, 2016-2023
+Table21: Unique employers with positive LMIAs by NAICS and Province, 2016-2023
+Table22: Positive LMIA approvals by Economic Region, Stream, and Province, 2016-2023
+Table23: Positive LMIA approvals by Economic Region and NOC Skill Level, Province, 2016-2023
+Table24: Positive LMIA approvals by Economic Region and NOC Skill Type, Province, 2016-2023
+
+Group tables by category:
+1. Geographical Data (Region and Province)
+Tables:
+Table03: LMIA applications by Economic Region and Province
+Table04: LMIA applications by NOC Skill Level and Province
+Table05: LMIA applications by NOC Skill Type and Province
+Table22: LMIA applications by Economic Region, Stream, and Province
+Table23: LMIA applications by Economic Region, NOC Skill Level, and Province
+Table24: LMIA applications by Economic Region, NOC Skill Type, and Province
+Purpose: These tables provide insights into how LMIA applications vary by geographical area, making them useful for regional analysis and mapping trends.
+2. Occupational and Skill Classification (NOC Codes)
+Tables:
+Table04: Applications by NOC Skill Level and Province
+Table05: Applications by NOC Skill Type and Province
+Table16: Positive LMIA applications by NOC Skill Level
+Table17: Positive LMIA applications by NOC Skill Type
+Table23: By Economic Region, NOC Skill Level, and Province
+Table24: By Economic Region, NOC Skill Type, and Province
+Purpose: These tables focus on occupations and skills, categorized by NOC codes. This grouping is valuable for analyzing labor demand by skill level and occupation type.
+3. Industry Classification (NAICS Codes)
+Tables:
+Table06: Applications by NAICS and Province
+Table18: Positive LMIA applications by NAICS
+Table21: Unique employers by NAICS
+Purpose: These tables let you analyze LMIA applications and approvals by industry sector, making them useful for understanding demand within specific industries.
+4. Application Streams (e.g., High-Wage, Low-Wage)
+Tables:
+Table13: LMIA applications by Stream and Province
+Table14: Positive LMIAs by Stream and Province
+Table19: Unique employers by Stream
+Purpose: These tables are focused on LMIA application streams, helping you analyze trends within different streams (e.g., high-wage vs. low-wage programs).
+5. Temporal Analysis (Yearly Trends)
+Tables:
+All tables with year columns (2016-2023) across different categories can be grouped for time-based trends.
+Purpose: This grouping can help you understand how LMIA applications and approvals change over time across different categories.
+6. Demographics (Applicant Origin)
+Tables:
+Table10: Top countries of residency for LMIA applicants
+Purpose: This table focuses on demographic data about applicants, providing insights into the origin of foreign workers applying through the LMIA program.
+
+
+HOW TO CREAT FACTS AND DIMESIONS TABLES:
+1. Fact Tables
+These represent the core measurable data (e.g., LMIA counts, positions requested).
+
+1.1 Fact_LMIA_Approvals
+Description: Contains the number of LMIA approvals across various dimensions.
+Columns:
+Fact ID (Primary Key)
+Date Key (FK to Dim_Date)
+Region Key (FK to Dim_Region)
+Occupation Key (FK to Dim_Occupation)
+NAICS Key (FK to Dim_Industry)
+Stream Key (FK to Dim_Stream)
+Skill Type Key (FK to Dim_Skill_Type)
+Skill Level Key (FK to Dim_Skill_Level)
+Approvals (Measure)
+Source Tables:
+lmia_csd_province_2016_2023
+lmia_noc_skill_level_2016_2023
+lmia_noc_skill_type_2016_2023
+lmia_naics_2016_2023
+1.2 Fact_LMIA_Positions
+Description: Tracks the total positions requested via LMIAs.
+Columns:
+Fact ID (Primary Key)
+Date Key (FK to Dim_Date)
+Region Key (FK to Dim_Region)
+Positions Requested (Measure)
+Source Tables:
+lmia_positions_requested_2016_2023
+1.3 Fact_LMIA_Employers
+Description: Contains data about unique employers with positive LMIAs.
+Columns:
+Fact ID (Primary Key)
+Date Key (FK to Dim_Date)
+Region Key (FK to Dim_Region)
+Industry Key (FK to Dim_Industry)
+Employers (Measure)
+Source Tables:
+lmia_unique_employers_2016_2023
+2. Dimension Tables
+These provide contextual information for the fact tables.
+
+2.1 Dim_Date
+Description: Standard time dimension for filtering by years.
+Columns:
+Date Key (Primary Key)
+Year
+Month (if applicable)
+Quarter (if applicable)
+2.2 Dim_Region
+Description: Geographic information about regions, provinces, and Census Subdivisions (CSD).
+Columns:
+Region Key (Primary Key)
+Province Name
+Economic Region
+CSD Name
+CSD Code
+Source Tables:
+lmia_csd_province_2016_2023
+lmia_economic_region_2016_2023
+2.3 Dim_Occupation
+Description: Occupation details, including NOC Skill Levels and Types.
+Columns:
+Occupation Key (Primary Key)
+Occupation Name
+NOC Skill Type
+NOC Skill Level
+Source Tables:
+lmia_noc_skill_level_2016_2023
+lmia_noc_skill_type_2016_2023
+2.4 Dim_Industry
+Description: Industry classifications based on NAICS codes.
+Columns:
+Industry Key (Primary Key)
+NAICS Code
+Industry Name
+Source Tables:
+lmia_naics_2016_2023
+2.5 Dim_Stream
+Description: LMIA application streams (e.g., Agricultural Stream, Caregiver Stream).
+Columns:
+Stream Key (Primary Key)
+Stream Name
+Source Tables:
+lmia_stream_2016_2023
+2.6 Dim_Skill_Type
+Description: Types of skills required for LMIA jobs (e.g., Management, Labourers).
+Columns:
+Skill Type Key (Primary Key)
+Skill Type Name
+Source Tables:
+lmia_noc_skill_type_2016_2023
+2.7 Dim_Skill_Level
+Description: Skill levels associated with LMIA jobs (e.g., A, B, C).
+Columns:
+Skill Level Key (Primary Key)
+Skill Level Name
+Source Tables:
+lmia_noc_skill_level_2016_2023
+
+MORE DETAILS AND DEFINITION ON EVERY FACTS TABLE:
+1. Fact Table: LMIA Approvals
+This fact table represents the approvals of LMIA applications.
+It’s primarily concerned with how many applications were approved in various categories.
+Measures: The total number of approved LMIA applications, possibly broken down by:
+Year
+Province
+NOC Skill Level
+NOC Skill Type
+Stream
+This table helps answer questions like:
+
+"How many LMIAs were approved for skilled workers in Ontario in 2022?"
+"How many LMIA approvals were in the agriculture sector in 2020?"
+2. Fact Table: LMIA Positions
+This fact table focuses on the number of positions requested by employers in the LMIA process.
+The measure here is the number of positions requested for foreign workers, as listed in the LMIA application.
+This can be broken down by:
+Industry (NAICS code)
+Province
+Occupation (NOC)
+Skill Level (NOC)
+Example questions this table helps answer:
+
+"How many positions were requested in the health care sector in British Columbia?"
+"What occupations had the highest number of positions requested in 2021?"
+It is not about the number of approvals but rather the demand for positions.
+
+3. Fact Table: Unique Employers
+This fact table tracks employers who have submitted LMIA applications.
+The measure here is the number of unique employers applying for LMIAs.
+This can be broken down by:
+Province
+Economic Region
+Stream
+Industry (NAICS code)
+Example questions:
+
+"How many unique employers submitted LMIA applications in 2023 in Ontario?"
+"Which industry had the most unique employers submitting LMIAs?"
+Why These Are Separate Fact Tables:
+Approvals focus on the outcome of the LMIA process (whether applications were approved or not).
+Positions focus on the demand from employers—how many positions they requested foreign workers for.
+Unique Employers focus on the source of the LMIA applications—i.e., the employers themselves.
+In Practice:
+These fact tables might be related, but they represent different aspects of the LMIA process. By separating them into distinct fact tables, you allow for more granular analysis.
+Example of How They Work Together:
+Let's say you want to know how the number of approved LMIAs compares to the number of requested positions by unique employers in a specific province.
+
+You could:
+
+Join the Fact_LMIA_Approvals table with the Fact_LMIA_Positions table on the province and year.
+Compare how many positions were requested vs how many were approved.
+Then, you could link to the Unique Employers table to see how many employers applied for the positions in that province.

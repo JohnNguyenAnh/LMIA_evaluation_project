@@ -1,0 +1,281 @@
+2016,2017,2018,2019,2020,2021,2022,2023,province_region,NAICS_Codes ,Occupation,Industry_Sectors
+"8,218","8,234","9,317","10,976","11,153","12,151","14,760","14,963",Canada,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+575,439,147,222,377,266,442,364,Canada,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+65,40,57,41,27,21,44,82,Canada,22,Utilities,Goods-Producing Industry Sectors
+"1,830","1,959","1,686","3,066","2,653","3,290","6,506","7,446",Canada,23,Construction,Goods-Producing Industry Sectors
+"1,932","1,855","1,767","2,885","3,234","3,220","7,984","8,359",Canada,31-33,Manufacturing,Goods-Producing Industry Sectors
+486,456,735,488,564,498,"1,139","1,476",Canada,41,Wholesale Trade,Services-Producing Industry Sectors
+"1,622","1,792","1,538","2,575","2,356","2,191","5,108","6,835",Canada,44-45,Retail Trade,Services-Producing Industry Sectors
+"1,100","1,367","1,156","2,408","2,091","1,650","3,620","4,700",Canada,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+"3,184","2,080","1,461","1,780","1,056","1,047","2,161","1,714",Canada,51,Information and Cultural Industries,Services-Producing Industry Sectors
+166,152,143,179,238,213,431,687,Canada,52,Finance and Insurance,Services-Producing Industry Sectors
+150,108,57,127,160,158,405,601,Canada,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+"2,120","2,060","2,767","4,370","4,085","5,488","9,694","7,881",Canada,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+68,47,19,29,19,18,55,50,Canada,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+534,549,450,"1,019","1,018",978,"2,575","3,031",Canada,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+567,526,491,607,719,644,982,"1,088",Canada,61,Educational Services,Services-Producing Industry Sectors
+671,622,725,"1,120","1,380","1,460","2,914","4,351",Canada,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+695,560,553,359,178,191,472,470,Canada,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+"4,591","5,310","4,965","9,024","8,002","7,764","19,419","24,014",Canada,72,Accommodation and Food Services,Services-Producing Industry Sectors
+"6,750","7,547","8,933","7,759","4,742","5,824","6,580","7,742",Canada,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+139,104,135,105,150,83,206,286,Canada,91,Public Administration,Services-Producing Industry Sectors
+10,13,17,23,44,26,30,53,Newfoundland and Labrador,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+163,270,71,91,298,209,312,214,Newfoundland and Labrador,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+5,1,7,0,0,0,0,1,Newfoundland and Labrador,22,Utilities,Goods-Producing Industry Sectors
+257,171,60,1,6,9,14,2,Newfoundland and Labrador,23,Construction,Goods-Producing Industry Sectors
+141,98,22,30,5,9,29,30,Newfoundland and Labrador,31-33,Manufacturing,Goods-Producing Industry Sectors
+13,24,4,0,0,1,1,4,Newfoundland and Labrador,41,Wholesale Trade,Services-Producing Industry Sectors
+3,7,7,4,1,2,1,6,Newfoundland and Labrador,44-45,Retail Trade,Services-Producing Industry Sectors
+200,222,37,97,52,78,48,33,Newfoundland and Labrador,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+13,13,2,2,1,1,0,1,Newfoundland and Labrador,51,Information and Cultural Industries,Services-Producing Industry Sectors
+0,0,0,0,0,0,1,0,Newfoundland and Labrador,52,Finance and Insurance,Services-Producing Industry Sectors
+38,6,0,1,0,0,0,7,Newfoundland and Labrador,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+226,104,36,20,3,7,5,7,Newfoundland and Labrador,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+2,20,0,0,0,0,0,0,Newfoundland and Labrador,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+65,34,0,0,0,0,1,4,Newfoundland and Labrador,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+6,2,0,2,1,0,1,2,Newfoundland and Labrador,61,Educational Services,Services-Producing Industry Sectors
+31,16,7,14,27,17,16,22,Newfoundland and Labrador,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+6,0,0,1,1,1,0,1,Newfoundland and Labrador,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+34,17,10,27,13,22,61,73,Newfoundland and Labrador,72,Accommodation and Food Services,Services-Producing Industry Sectors
+27,13,14,10,27,4,4,11,Newfoundland and Labrador,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Newfoundland and Labrador,91,Public Administration,Services-Producing Industry Sectors
+63,65,73,74,95,95,130,134,Prince Edward Island,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+37,22,0,0,0,0,0,1,Prince Edward Island,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+1,0,0,0,0,0,0,0,Prince Edward Island,22,Utilities,Goods-Producing Industry Sectors
+0,1,0,4,1,1,8,10,Prince Edward Island,23,Construction,Goods-Producing Industry Sectors
+26,18,19,21,20,27,38,33,Prince Edward Island,31-33,Manufacturing,Goods-Producing Industry Sectors
+0,5,1,2,3,2,2,2,Prince Edward Island,41,Wholesale Trade,Services-Producing Industry Sectors
+0,0,1,1,1,2,6,5,Prince Edward Island,44-45,Retail Trade,Services-Producing Industry Sectors
+3,7,8,6,8,8,10,8,Prince Edward Island,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+4,2,1,2,0,0,1,2,Prince Edward Island,51,Information and Cultural Industries,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Prince Edward Island,52,Finance and Insurance,Services-Producing Industry Sectors
+0,0,0,0,0,1,1,0,Prince Edward Island,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+1,0,2,0,5,4,4,6,Prince Edward Island,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Prince Edward Island,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+1,7,0,0,0,1,2,3,Prince Edward Island,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+1,0,0,1,0,0,0,0,Prince Edward Island,61,Educational Services,Services-Producing Industry Sectors
+5,4,3,2,4,3,10,6,Prince Edward Island,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+0,2,0,0,0,0,0,0,Prince Edward Island,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+8,7,6,11,8,6,46,33,Prince Edward Island,72,Accommodation and Food Services,Services-Producing Industry Sectors
+2,0,0,5,1,2,5,7,Prince Edward Island,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+2,0,0,0,0,0,0,1,Prince Edward Island,91,Public Administration,Services-Producing Industry Sectors
+162,171,199,191,227,223,273,281,Nova Scotia,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+140,28,4,44,36,1,0,3,Nova Scotia,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+0,0,5,1,0,0,1,2,Nova Scotia,22,Utilities,Goods-Producing Industry Sectors
+33,27,4,9,3,24,72,59,Nova Scotia,23,Construction,Goods-Producing Industry Sectors
+120,125,82,71,57,84,124,98,Nova Scotia,31-33,Manufacturing,Goods-Producing Industry Sectors
+11,5,4,1,6,14,11,3,Nova Scotia,41,Wholesale Trade,Services-Producing Industry Sectors
+5,4,4,6,11,9,38,44,Nova Scotia,44-45,Retail Trade,Services-Producing Industry Sectors
+14,63,29,38,37,49,17,56,Nova Scotia,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+12,2,2,3,1,1,3,1,Nova Scotia,51,Information and Cultural Industries,Services-Producing Industry Sectors
+0,0,1,1,0,3,7,7,Nova Scotia,52,Finance and Insurance,Services-Producing Industry Sectors
+0,0,0,0,0,0,3,2,Nova Scotia,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+60,40,25,38,28,96,145,91,Nova Scotia,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+0,1,0,0,0,0,0,0,Nova Scotia,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+11,14,3,4,1,5,8,14,Nova Scotia,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+17,7,9,13,11,14,4,18,Nova Scotia,61,Educational Services,Services-Producing Industry Sectors
+29,14,20,8,11,11,9,13,Nova Scotia,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+6,3,2,1,1,1,1,1,Nova Scotia,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+54,43,41,45,47,60,265,415,Nova Scotia,72,Accommodation and Food Services,Services-Producing Industry Sectors
+26,20,14,14,10,19,24,42,Nova Scotia,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+0,3,8,0,0,0,1,6,Nova Scotia,91,Public Administration,Services-Producing Industry Sectors
+45,42,39,59,61,78,118,134,New Brunswick,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+162,60,0,14,0,0,1,1,New Brunswick,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+0,1,0,0,1,1,0,2,New Brunswick,22,Utilities,Goods-Producing Industry Sectors
+1,4,0,2,6,13,45,39,New Brunswick,23,Construction,Goods-Producing Industry Sectors
+33,37,41,46,62,81,168,113,New Brunswick,31-33,Manufacturing,Goods-Producing Industry Sectors
+4,0,4,0,3,8,4,6,New Brunswick,41,Wholesale Trade,Services-Producing Industry Sectors
+1,2,2,11,12,22,33,45,New Brunswick,44-45,Retail Trade,Services-Producing Industry Sectors
+100,85,88,61,41,66,66,29,New Brunswick,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+1,0,0,2,0,0,0,1,New Brunswick,51,Information and Cultural Industries,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,1,New Brunswick,52,Finance and Insurance,Services-Producing Industry Sectors
+0,1,0,0,2,1,5,5,New Brunswick,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+25,9,8,6,10,16,28,18,New Brunswick,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+0,0,0,0,1,2,2,0,New Brunswick,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+2,1,0,1,3,4,19,9,New Brunswick,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+3,2,0,0,0,0,1,1,New Brunswick,61,Educational Services,Services-Producing Industry Sectors
+12,16,7,11,6,18,30,39,New Brunswick,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+3,1,2,0,1,1,5,2,New Brunswick,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+52,50,48,84,98,100,246,307,New Brunswick,72,Accommodation and Food Services,Services-Producing Industry Sectors
+8,15,11,11,4,11,10,25,New Brunswick,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+1,1,0,0,0,0,0,0,New Brunswick,91,Public Administration,Services-Producing Industry Sectors
+"3,411","2,895","3,290","4,933","4,681","5,817","7,146","6,727",Quebec,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+7,3,4,14,10,13,37,39,Quebec,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+3,1,2,5,1,6,12,27,Quebec,22,Utilities,Goods-Producing Industry Sectors
+33,44,38,71,151,139,525,675,Quebec,23,Construction,Goods-Producing Industry Sectors
+356,388,614,"1,229","1,577","1,446","4,713","4,837",Quebec,31-33,Manufacturing,Goods-Producing Industry Sectors
+67,38,174,97,151,115,387,453,Quebec,41,Wholesale Trade,Services-Producing Industry Sectors
+215,257,255,380,318,260,"1,118","1,717",Quebec,44-45,Retail Trade,Services-Producing Industry Sectors
+192,295,301,382,289,197,578,854,Quebec,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+726,343,353,648,438,308,"1,042",762,Quebec,51,Information and Cultural Industries,Services-Producing Industry Sectors
+60,34,33,45,61,44,144,285,Quebec,52,Finance and Insurance,Services-Producing Industry Sectors
+15,4,7,22,32,26,99,132,Quebec,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+616,764,"1,136","1,758","1,224","2,060","3,822","2,779",Quebec,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+19,9,2,1,5,1,21,22,Quebec,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+31,46,89,179,280,189,874,839,Quebec,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+107,93,100,114,194,161,242,280,Quebec,61,Educational Services,Services-Producing Industry Sectors
+138,94,93,325,511,600,"1,437","2,015",Quebec,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+94,117,55,22,29,30,87,120,Quebec,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+160,164,152,412,558,401,"2,452","3,734",Quebec,72,Accommodation and Food Services,Services-Producing Industry Sectors
+278,307,285,614,750,594,"1,554","1,635",Quebec,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+19,12,60,61,117,32,111,112,Quebec,91,Public Administration,Services-Producing Industry Sectors
+"2,624","2,990","3,058","2,988","3,009","3,162","3,697","3,673",Ontario,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+16,13,15,12,10,7,25,29,Ontario,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+16,12,27,22,17,8,20,27,Ontario,22,Utilities,Goods-Producing Industry Sectors
+392,461,423,620,734,778,"1,564","2,005",Ontario,23,Construction,Goods-Producing Industry Sectors
+552,626,516,648,755,735,"1,443","1,722",Ontario,31-33,Manufacturing,Goods-Producing Industry Sectors
+155,140,207,166,201,145,332,474,Ontario,41,Wholesale Trade,Services-Producing Industry Sectors
+198,311,288,527,726,579,"1,106","1,812",Ontario,44-45,Retail Trade,Services-Producing Industry Sectors
+127,181,199,341,663,504,846,"1,540",Ontario,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+603,444,313,359,223,213,364,319,Ontario,51,Information and Cultural Industries,Services-Producing Industry Sectors
+72,83,65,86,110,95,137,222,Ontario,52,Finance and Insurance,Services-Producing Industry Sectors
+39,36,23,38,65,71,125,215,Ontario,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+577,652,901,"1,386","1,499","1,847","3,253","3,212",Ontario,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+29,14,4,23,8,10,13,11,Ontario,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+98,129,117,185,238,212,465,739,Ontario,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+213,179,193,223,260,195,342,395,Ontario,61,Educational Services,Services-Producing Industry Sectors
+139,145,205,182,263,250,453,959,Ontario,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+276,219,220,135,78,56,147,140,Ontario,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+651,912,999,"1,667","2,225","1,728","4,238","7,129",Ontario,72,Accommodation and Food Services,Services-Producing Industry Sectors
+"3,237","3,528","4,151","3,368","1,925","2,638","2,347","3,153",Ontario,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+30,24,37,15,11,18,30,76,Ontario,91,Public Administration,Services-Producing Industry Sectors
+102,114,118,160,157,140,201,186,Manitoba,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+0,1,0,0,0,0,1,1,Manitoba,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+2,3,1,0,0,0,1,0,Manitoba,22,Utilities,Goods-Producing Industry Sectors
+19,12,9,16,21,40,113,155,Manitoba,23,Construction,Goods-Producing Industry Sectors
+11,12,10,22,8,23,40,50,Manitoba,31-33,Manufacturing,Goods-Producing Industry Sectors
+5,8,6,3,4,4,5,15,Manitoba,41,Wholesale Trade,Services-Producing Industry Sectors
+13,17,11,21,26,37,130,171,Manitoba,44-45,Retail Trade,Services-Producing Industry Sectors
+18,14,17,88,93,109,247,300,Manitoba,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+21,4,34,6,4,6,2,5,Manitoba,51,Information and Cultural Industries,Services-Producing Industry Sectors
+6,2,1,1,1,1,6,6,Manitoba,52,Finance and Insurance,Services-Producing Industry Sectors
+1,1,1,3,1,1,4,9,Manitoba,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+6,14,21,28,21,60,86,74,Manitoba,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Manitoba,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+1,1,3,7,8,18,30,53,Manitoba,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+7,8,12,15,17,27,28,32,Manitoba,61,Educational Services,Services-Producing Industry Sectors
+23,19,9,16,8,21,38,56,Manitoba,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+15,17,50,11,5,6,5,5,Manitoba,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+29,43,50,87,70,76,333,519,Manitoba,72,Accommodation and Food Services,Services-Producing Industry Sectors
+28,33,54,65,35,44,75,108,Manitoba,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+1,1,0,2,0,2,1,9,Manitoba,91,Public Administration,Services-Producing Industry Sectors
+187,188,194,308,267,264,351,349,Saskatchewan,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+3,3,3,0,4,0,6,4,Saskatchewan,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+4,1,3,3,0,0,0,3,Saskatchewan,22,Utilities,Goods-Producing Industry Sectors
+27,16,18,16,8,14,46,54,Saskatchewan,23,Construction,Goods-Producing Industry Sectors
+6,3,4,7,2,12,27,32,Saskatchewan,31-33,Manufacturing,Goods-Producing Industry Sectors
+7,2,11,0,3,3,6,17,Saskatchewan,41,Wholesale Trade,Services-Producing Industry Sectors
+24,24,21,34,27,28,97,136,Saskatchewan,44-45,Retail Trade,Services-Producing Industry Sectors
+12,10,7,26,26,35,74,73,Saskatchewan,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+0,2,5,9,3,1,0,1,Saskatchewan,51,Information and Cultural Industries,Services-Producing Industry Sectors
+1,1,0,1,0,2,0,1,Saskatchewan,52,Finance and Insurance,Services-Producing Industry Sectors
+1,1,0,0,0,1,3,3,Saskatchewan,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+62,32,11,6,12,34,28,25,Saskatchewan,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Saskatchewan,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+3,4,1,9,8,18,19,36,Saskatchewan,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+3,3,5,8,2,5,3,0,Saskatchewan,61,Educational Services,Services-Producing Industry Sectors
+39,38,30,17,20,23,31,29,Saskatchewan,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+6,9,8,10,1,4,13,10,Saskatchewan,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+83,89,48,128,86,117,398,453,Saskatchewan,72,Accommodation and Food Services,Services-Producing Industry Sectors
+80,84,114,76,25,56,55,97,Saskatchewan,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+0,1,0,0,0,0,0,1,Saskatchewan,91,Public Administration,Services-Producing Industry Sectors
+470,495,569,629,580,584,658,780,Alberta,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+26,23,28,28,11,15,37,49,Alberta,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+15,11,6,4,2,2,5,9,Alberta,22,Utilities,Goods-Producing Industry Sectors
+473,442,367,560,305,461,"1,224","1,631",Alberta,23,Construction,Goods-Producing Industry Sectors
+185,182,117,237,132,191,421,511,Alberta,31-33,Manufacturing,Goods-Producing Industry Sectors
+76,69,112,60,38,40,132,194,Alberta,41,Wholesale Trade,Services-Producing Industry Sectors
+686,573,337,781,572,596,"1,416","1,682",Alberta,44-45,Retail Trade,Services-Producing Industry Sectors
+136,125,119,562,269,162,938,977,Alberta,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+90,33,23,28,23,45,64,99,Alberta,51,Information and Cultural Industries,Services-Producing Industry Sectors
+8,9,20,14,12,21,55,77,Alberta,52,Finance and Insurance,Services-Producing Industry Sectors
+25,21,8,22,17,8,63,92,Alberta,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+115,90,118,242,154,249,599,629,Alberta,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+8,3,1,1,1,1,11,9,Alberta,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+166,144,117,233,139,132,391,590,Alberta,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+110,103,70,85,70,71,120,114,Alberta,61,Educational Services,Services-Producing Industry Sectors
+110,91,114,131,122,135,319,563,Alberta,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+100,70,48,49,10,19,69,71,Alberta,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+"2,127","1,907","1,413","2,550","1,502","1,898","5,059","5,315",Alberta,72,Accommodation and Food Services,Services-Producing Industry Sectors
+"1,305","1,352","1,491","1,230",475,706,893,"1,137",Alberta,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+79,43,5,13,5,14,30,42,Alberta,91,Public Administration,Services-Producing Industry Sectors
+"1,144","1,261","1,760","1,608","2,030","1,760","2,155","2,646",British Columbia,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+20,15,21,19,7,20,21,22,British Columbia,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+19,10,5,6,6,4,5,11,British Columbia,22,Utilities,Goods-Producing Industry Sectors
+592,760,764,"1,765","1,414","1,796","2,883","2,815",British Columbia,23,Construction,Goods-Producing Industry Sectors
+488,365,342,574,615,612,980,931,British Columbia,31-33,Manufacturing,Goods-Producing Industry Sectors
+148,157,205,159,155,166,259,308,British Columbia,41,Wholesale Trade,Services-Producing Industry Sectors
+476,594,608,806,659,653,"1,153","1,191",British Columbia,44-45,Retail Trade,Services-Producing Industry Sectors
+201,342,261,743,597,427,780,757,British Columbia,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+"1,632","1,179",677,628,332,356,581,419,British Columbia,51,Information and Cultural Industries,Services-Producing Industry Sectors
+19,23,23,31,54,47,81,88,British Columbia,52,Finance and Insurance,Services-Producing Industry Sectors
+30,38,18,41,43,49,102,134,British Columbia,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+429,355,509,883,"1,127","1,114","1,721","1,034",British Columbia,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+10,0,12,4,4,4,8,8,British Columbia,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+113,159,116,394,337,394,758,739,British Columbia,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+99,127,100,146,164,171,241,246,British Columbia,61,Educational Services,Services-Producing Industry Sectors
+142,182,236,410,407,379,565,645,British Columbia,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+179,108,132,130,52,73,145,120,British Columbia,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+"1,388","2,070","2,190","3,984","3,382","3,340","6,262","6,005",British Columbia,72,Accommodation and Food Services,Services-Producing Industry Sectors
+"1,740","2,166","2,778","2,347","1,483","1,739","1,607","1,519",British Columbia,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+4,19,25,13,17,17,33,38,British Columbia,91,Public Administration,Services-Producing Industry Sectors
+0,0,0,1,1,0,0,0,Yukon ,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+1,1,1,0,1,1,2,1,Yukon ,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+0,0,1,0,0,0,0,0,Yukon ,22,Utilities,Goods-Producing Industry Sectors
+0,16,0,1,1,0,3,0,Yukon ,23,Construction,Goods-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Yukon ,31-33,Manufacturing,Goods-Producing Industry Sectors
+0,0,6,0,0,0,0,0,Yukon ,41,Wholesale Trade,Services-Producing Industry Sectors
+0,1,0,0,0,0,3,4,Yukon ,44-45,Retail Trade,Services-Producing Industry Sectors
+6,7,1,13,1,1,1,3,Yukon ,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+76,58,49,93,31,113,104,104,Yukon ,51,Information and Cultural Industries,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Yukon ,52,Finance and Insurance,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,1,Yukon ,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+1,0,0,1,0,0,1,2,Yukon ,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Yukon ,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+0,0,1,4,1,1,4,3,Yukon ,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+1,1,2,0,0,0,0,0,Yukon ,61,Educational Services,Services-Producing Industry Sectors
+2,2,0,0,0,0,0,1,Yukon ,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+1,10,36,0,0,0,0,0,Yukon ,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+5,2,2,8,2,4,10,8,Yukon ,72,Accommodation and Food Services,Services-Producing Industry Sectors
+3,11,6,10,1,4,4,1,Yukon ,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Yukon ,91,Public Administration,Services-Producing Industry Sectors
+0,0,0,2,1,2,1,0,Northwest Territories,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Northwest Territories,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Northwest Territories,22,Utilities,Goods-Producing Industry Sectors
+2,3,3,1,1,0,6,0,Northwest Territories,23,Construction,Goods-Producing Industry Sectors
+14,1,0,0,1,0,1,2,Northwest Territories,31-33,Manufacturing,Goods-Producing Industry Sectors
+0,8,0,0,0,0,0,0,Northwest Territories,41,Wholesale Trade,Services-Producing Industry Sectors
+0,1,0,3,3,1,7,8,Northwest Territories,44-45,Retail Trade,Services-Producing Industry Sectors
+28,10,0,0,0,0,1,7,Northwest Territories,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Northwest Territories,51,Information and Cultural Industries,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Northwest Territories,52,Finance and Insurance,Services-Producing Industry Sectors
+1,0,0,0,0,0,0,1,Northwest Territories,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+0,0,0,2,1,0,1,2,Northwest Territories,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Northwest Territories,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+0,0,1,2,2,2,2,1,Northwest Territories,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+0,1,0,0,0,0,0,0,Northwest Territories,61,Educational Services,Services-Producing Industry Sectors
+0,0,0,4,1,0,4,2,Northwest Territories,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+1,3,0,0,0,0,0,0,Northwest Territories,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+0,6,4,16,9,11,31,23,Northwest Territories,72,Accommodation and Food Services,Services-Producing Industry Sectors
+11,12,12,7,4,5,1,7,Northwest Territories,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+3,0,0,1,0,0,0,1,Northwest Territories,91,Public Administration,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,11,"Agriculture, Forestry, Fishing and Hunting",Goods-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,21,Mining and Oil and Gas Extraction,Goods-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,22,Utilities,Goods-Producing Industry Sectors
+1,2,0,0,2,15,3,1,Nunavut,23,Construction,Goods-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,31-33,Manufacturing,Goods-Producing Industry Sectors
+0,0,1,0,0,0,0,0,Nunavut,41,Wholesale Trade,Services-Producing Industry Sectors
+1,1,4,1,0,2,0,14,Nunavut,44-45,Retail Trade,Services-Producing Industry Sectors
+63,6,89,51,15,14,14,63,Nunavut,48-49,Transportation and Warehousing,Services-Producing Industry Sectors
+6,0,2,0,0,3,0,0,Nunavut,51,Information and Cultural Industries,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,52,Finance and Insurance,Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,53,"Real Estate, Rental and Leasing",Services-Producing Industry Sectors
+2,0,0,0,1,1,1,2,Nunavut,54,"Professional, Scientific and Technical Services",Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,55,Management of Companies and Enterprises,Services-Producing Industry Sectors
+43,10,2,1,1,2,2,1,Nunavut,56,"Administrative and Support, Waste Management and Remediation Services",Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,61,Educational Services,Services-Producing Industry Sectors
+1,1,1,0,0,3,2,1,Nunavut,62,Health Care and Social Assistance,Services-Producing Industry Sectors
+8,1,0,0,0,0,0,0,Nunavut,71,"Arts, Entertainment and Recreation",Services-Producing Industry Sectors
+0,0,2,5,2,1,18,0,Nunavut,72,Accommodation and Food Services,Services-Producing Industry Sectors
+5,6,3,2,2,2,1,0,Nunavut,81,Other Services (except Public Administration),Services-Producing Industry Sectors
+0,0,0,0,0,0,0,0,Nunavut,91,Public Administration,Services-Producing Industry Sectors

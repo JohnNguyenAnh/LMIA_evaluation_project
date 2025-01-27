@@ -1,0 +1,281 @@
+province_region,NAICS_Codes,Industry_Sector,2016,2017,2018,2019,2020,2021,2022,2023
+Canada,11,"Agriculture, Forestry, Fishing and Hunting","3,501","3,862","4,344","6,580","5,062","5,320","6,084","6,474"
+Canada,21,Mining and Oil and Gas Extraction,90,77,90,107,66,55,108,131
+Canada,22,Utilities,42,29,39,34,26,18,38,51
+Canada,23,Construction,"1,115","1,280","1,223","2,344","1,913","2,323","4,200","4,885"
+Canada,31-33,Manufacturing,"1,086","1,103","1,080","1,823","1,956","2,035","3,838","4,260"
+Canada,41,Wholesale Trade,371,335,548,422,458,407,803,981
+Canada,44-45,Retail Trade,935,967,805,"1,707","1,725","1,584","3,204","4,336"
+Canada,48-49,Transportation and Warehousing,472,585,527,"1,457","1,302","1,083","2,200","2,633"
+Canada,51,Information and Cultural Industries,560,380,342,471,364,330,546,549
+Canada,52,Finance and Insurance,100,113,100,142,174,161,266,399
+Canada,53,"Real Estate, Rental and Leasing",97,85,52,104,139,127,305,477
+Canada,54,"Professional, Scientific and Technical Services","1,122","1,152","1,249","2,106","2,039","2,255","3,647","4,160"
+Canada,55,Management of Companies and Enterprises,35,26,17,27,16,17,43,41
+Canada,56,"Administrative and Support, Waste Management and Remediation Services",342,391,355,789,786,774,"1,763","2,102"
+Canada,61,Educational Services,208,229,198,296,316,296,449,524
+Canada,62,Health Care and Social Assistance,392,411,538,691,802,818,"1,528","2,200"
+Canada,71,"Arts, Entertainment and Recreation",295,262,234,230,147,137,278,340
+Canada,72,Accommodation and Food Services,"3,220","3,583","3,191","6,449","5,349","5,067","10,379","12,741"
+Canada,81,Other Services (except Public Administration),"6,519","7,237","8,575","7,404","4,396","5,509","5,739","6,548"
+Canada,91,Public Administration,27,29,30,41,35,51,93,149
+Newfoundland and Labrador,11,"Agriculture, Forestry, Fishing and Hunting",9,11,13,19,19,17,18,24
+Newfoundland and Labrador,21,Mining and Oil and Gas Extraction,23,27,29,42,22,10,25,30
+Newfoundland and Labrador,22,Utilities,3,1,4,0,0,0,0,1
+Newfoundland and Labrador,23,Construction,8,12,8,1,4,5,4,2
+Newfoundland and Labrador,31-33,Manufacturing,20,18,13,7,4,9,18,16
+Newfoundland and Labrador,41,Wholesale Trade,5,4,4,0,0,1,1,3
+Newfoundland and Labrador,44-45,Retail Trade,3,3,3,3,1,2,1,5
+Newfoundland and Labrador,48-49,Transportation and Warehousing,18,15,4,11,7,5,9,5
+Newfoundland and Labrador,51,Information and Cultural Industries,7,3,2,1,1,1,0,1
+Newfoundland and Labrador,52,Finance and Insurance,0,0,0,0,0,0,1,0
+Newfoundland and Labrador,53,"Real Estate, Rental and Leasing",5,2,0,1,0,0,0,2
+Newfoundland and Labrador,54,"Professional, Scientific and Technical Services",43,37,16,10,2,5,5,6
+Newfoundland and Labrador,55,Management of Companies and Enterprises,1,3,0,0,0,0,0,0
+Newfoundland and Labrador,56,"Administrative and Support, Waste Management and Remediation Services",7,6,0,0,0,0,1,4
+Newfoundland and Labrador,61,Educational Services,4,2,0,2,1,0,1,1
+Newfoundland and Labrador,62,Health Care and Social Assistance,8,10,4,7,7,5,6,9
+Newfoundland and Labrador,71,"Arts, Entertainment and Recreation",3,0,0,1,1,1,0,1
+Newfoundland and Labrador,72,Accommodation and Food Services,32,15,9,19,12,18,38,40
+Newfoundland and Labrador,81,Other Services (except Public Administration),22,11,14,10,4,4,4,9
+Newfoundland and Labrador,91,Public Administration,0,0,0,0,0,0,0,0
+Prince Edward Island,11,"Agriculture, Forestry, Fishing and Hunting",38,33,42,55,46,48,64,64
+Prince Edward Island,21,Mining and Oil and Gas Extraction,1,1,0,0,0,0,0,1
+Prince Edward Island,22,Utilities,1,0,0,0,0,0,0,0
+Prince Edward Island,23,Construction,0,1,0,3,1,1,7,9
+Prince Edward Island,31-33,Manufacturing,12,11,11,14,11,14,20,23
+Prince Edward Island,41,Wholesale Trade,0,2,1,2,1,2,1,2
+Prince Edward Island,44-45,Retail Trade,0,0,1,1,1,2,4,5
+Prince Edward Island,48-49,Transportation and Warehousing,3,3,5,4,6,5,6,6
+Prince Edward Island,51,Information and Cultural Industries,1,2,1,2,0,0,1,1
+Prince Edward Island,52,Finance and Insurance,0,0,0,0,0,0,0,0
+Prince Edward Island,53,"Real Estate, Rental and Leasing",0,0,0,0,0,1,1,0
+Prince Edward Island,54,"Professional, Scientific and Technical Services",1,0,2,0,5,3,3,6
+Prince Edward Island,55,Management of Companies and Enterprises,0,0,0,0,0,0,0,0
+Prince Edward Island,56,"Administrative and Support, Waste Management and Remediation Services",1,2,0,0,0,1,2,3
+Prince Edward Island,61,Educational Services,1,0,0,1,0,0,0,0
+Prince Edward Island,62,Health Care and Social Assistance,2,1,2,2,3,3,4,3
+Prince Edward Island,71,"Arts, Entertainment and Recreation",0,2,0,0,0,0,0,0
+Prince Edward Island,72,Accommodation and Food Services,8,7,5,9,8,4,20,19
+Prince Edward Island,81,Other Services (except Public Administration),1,0,0,4,1,2,4,7
+Prince Edward Island,91,Public Administration,1,0,0,0,0,0,0,1
+Nova Scotia,11,"Agriculture, Forestry, Fishing and Hunting",73,83,92,132,95,103,110,115
+Nova Scotia,21,Mining and Oil and Gas Extraction,8,5,4,7,8,1,0,2
+Nova Scotia,22,Utilities,0,0,4,1,0,0,1,2
+Nova Scotia,23,Construction,11,13,3,7,3,14,36,44
+Nova Scotia,31-33,Manufacturing,35,25,24,26,25,44,63,67
+Nova Scotia,41,Wholesale Trade,1,1,4,1,6,10,9,3
+Nova Scotia,44-45,Retail Trade,5,4,3,5,8,9,22,29
+Nova Scotia,48-49,Transportation and Warehousing,11,11,15,18,13,20,14,30
+Nova Scotia,51,Information and Cultural Industries,9,2,2,1,1,1,3,1
+Nova Scotia,52,Finance and Insurance,0,0,1,1,0,1,4,3
+Nova Scotia,53,"Real Estate, Rental and Leasing",0,0,0,0,0,0,3,2
+Nova Scotia,54,"Professional, Scientific and Technical Services",18,22,11,23,15,32,44,53
+Nova Scotia,55,Management of Companies and Enterprises,0,1,0,0,0,0,0,0
+Nova Scotia,56,"Administrative and Support, Waste Management and Remediation Services",8,10,3,4,1,5,8,12
+Nova Scotia,61,Educational Services,9,3,4,5,2,5,4,12
+Nova Scotia,62,Health Care and Social Assistance,10,5,16,8,9,8,9,13
+Nova Scotia,71,"Arts, Entertainment and Recreation",4,3,2,1,1,1,1,1
+Nova Scotia,72,Accommodation and Food Services,45,40,34,42,43,44,157,233
+Nova Scotia,81,Other Services (except Public Administration),13,20,13,14,10,16,19,34
+Nova Scotia,91,Public Administration,0,3,1,0,0,0,1,6
+New Brunswick,11,"Agriculture, Forestry, Fishing and Hunting",29,27,23,40,33,43,59,71
+New Brunswick,21,Mining and Oil and Gas Extraction,1,1,0,2,0,0,1,1
+New Brunswick,22,Utilities,0,1,0,0,1,1,0,2
+New Brunswick,23,Construction,1,3,0,2,4,8,26,32
+New Brunswick,31-33,Manufacturing,20,20,25,29,35,50,80,70
+New Brunswick,41,Wholesale Trade,4,0,3,0,2,6,2,5
+New Brunswick,44-45,Retail Trade,1,2,2,10,12,20,26,31
+New Brunswick,48-49,Transportation and Warehousing,26,25,26,35,26,35,41,19
+New Brunswick,51,Information and Cultural Industries,1,0,0,2,0,0,0,1
+New Brunswick,52,Finance and Insurance,0,0,0,0,0,0,0,1
+New Brunswick,53,"Real Estate, Rental and Leasing",0,1,0,0,2,1,4,3
+New Brunswick,54,"Professional, Scientific and Technical Services",12,7,8,6,7,15,15,13
+New Brunswick,55,Management of Companies and Enterprises,0,0,0,0,1,2,1,0
+New Brunswick,56,"Administrative and Support, Waste Management and Remediation Services",1,1,0,1,2,3,12,8
+New Brunswick,61,Educational Services,2,2,0,0,0,0,1,1
+New Brunswick,62,Health Care and Social Assistance,8,6,3,7,4,9,14,20
+New Brunswick,71,"Arts, Entertainment and Recreation",3,1,2,0,1,1,4,2
+New Brunswick,72,Accommodation and Food Services,42,38,34,65,66,70,142,157
+New Brunswick,81,Other Services (except Public Administration),8,15,11,11,4,8,10,18
+New Brunswick,91,Public Administration,1,1,0,0,0,0,0,0
+Quebec,11,"Agriculture, Forestry, Fishing and Hunting",935,"1,050","1,333","2,647","1,844","2,172","2,555","2,627"
+Quebec,21,Mining and Oil and Gas Extraction,4,3,4,7,7,10,23,26
+Quebec,22,Utilities,3,1,2,4,1,3,10,11
+Quebec,23,Construction,20,28,24,60,93,104,346,438
+Quebec,31-33,Manufacturing,219,215,319,580,717,759,"1,743","1,911"
+Quebec,41,Wholesale Trade,52,35,82,74,102,81,261,291
+Quebec,44-45,Retail Trade,35,54,65,120,193,192,641,914
+Quebec,48-49,Transportation and Warehousing,39,43,60,123,137,103,271,397
+Quebec,51,Information and Cultural Industries,83,54,54,94,85,72,141,147
+Quebec,52,Finance and Insurance,21,15,16,27,38,26,58,100
+Quebec,53,"Real Estate, Rental and Leasing",8,4,7,13,25,19,72,110
+Quebec,54,"Professional, Scientific and Technical Services",296,308,333,504,462,523,895,947
+Quebec,55,Management of Companies and Enterprises,5,7,2,1,3,1,18,20
+Quebec,56,"Administrative and Support, Waste Management and Remediation Services",24,31,61,127,193,154,509,570
+Quebec,61,Educational Services,30,23,31,36,40,30,67,76
+Quebec,62,Health Care and Social Assistance,46,34,39,81,182,217,565,818
+Quebec,71,"Arts, Entertainment and Recreation",41,39,28,20,26,27,68,95
+Quebec,72,Accommodation and Food Services,136,136,119,310,422,292,"1,315","1,850"
+Quebec,81,Other Services (except Public Administration),267,299,273,532,642,540,"1,287","1,297"
+Quebec,91,Public Administration,9,4,6,7,7,5,13,24
+Ontario,11,"Agriculture, Forestry, Fishing and Hunting","1,289","1,415","1,446","1,892","1,433","1,466","1,561","1,610"
+Ontario,21,Mining and Oil and Gas Extraction,12,13,14,11,10,7,17,19
+Ontario,22,Utilities,11,10,15,18,17,8,17,16
+Ontario,23,Construction,272,323,313,508,542,587,"1,042","1,376"
+Ontario,31-33,Manufacturing,374,423,346,503,587,555,942,"1,162"
+Ontario,41,Wholesale Trade,141,119,187,156,174,127,253,339
+Ontario,44-45,Retail Trade,161,201,206,406,534,436,764,"1,327"
+Ontario,48-49,Transportation and Warehousing,99,121,130,275,408,329,481,829
+Ontario,51,Information and Cultural Industries,171,147,147,176,122,117,190,189
+Ontario,52,Finance and Insurance,55,65,53,72,84,72,96,165
+Ontario,53,"Real Estate, Rental and Leasing",36,32,23,36,59,62,98,181
+Ontario,54,"Professional, Scientific and Technical Services",398,452,536,894,912,970,"1,506","1,933"
+Ontario,55,Management of Companies and Enterprises,16,12,3,21,7,9,11,8
+Ontario,56,"Administrative and Support, Waste Management and Remediation Services",86,105,93,148,187,170,350,527
+Ontario,61,Educational Services,68,80,75,110,124,102,143,206
+Ontario,62,Health Care and Social Assistance,99,109,179,164,234,215,352,612
+Ontario,71,"Arts, Entertainment and Recreation",89,95,100,93,60,42,74,95
+Ontario,72,Accommodation and Food Services,503,652,721,"1,359","1,591","1,299","2,616","4,008"
+Ontario,81,Other Services (except Public Administration),"3,131","3,392","4,007","3,273","1,849","2,556","2,190","2,865"
+Ontario,91,Public Administration,7,9,9,11,9,14,25,51
+Manitoba,11,"Agriculture, Forestry, Fishing and Hunting",59,60,68,105,72,84,109,106
+Manitoba,21,Mining and Oil and Gas Extraction,0,1,0,0,0,0,1,1
+Manitoba,22,Utilities,2,2,1,0,0,0,1,0
+Manitoba,23,Construction,13,9,6,11,15,29,68,98
+Manitoba,31-33,Manufacturing,10,12,5,15,8,17,30,40
+Manitoba,41,Wholesale Trade,3,8,5,2,3,4,4,10
+Manitoba,44-45,Retail Trade,8,13,8,19,20,33,90,117
+Manitoba,48-49,Transportation and Warehousing,17,10,14,66,76,85,171,176
+Manitoba,51,Information and Cultural Industries,6,2,3,5,2,5,2,5
+Manitoba,52,Finance and Insurance,1,1,1,1,1,1,4,4
+Manitoba,53,"Real Estate, Rental and Leasing",1,1,1,3,1,1,4,8
+Manitoba,54,"Professional, Scientific and Technical Services",6,9,13,21,12,35,46,50
+Manitoba,55,Management of Companies and Enterprises,0,0,0,0,0,0,0,0
+Manitoba,56,"Administrative and Support, Waste Management and Remediation Services",1,1,3,4,8,13,26,35
+Manitoba,61,Educational Services,3,1,5,5,6,6,6,13
+Manitoba,62,Health Care and Social Assistance,11,8,8,12,8,15,22,31
+Manitoba,71,"Arts, Entertainment and Recreation",4,8,7,8,3,2,2,5
+Manitoba,72,Accommodation and Food Services,25,34,32,66,55,66,209,315
+Manitoba,81,Other Services (except Public Administration),26,30,45,63,28,36,56,82
+Manitoba,91,Public Administration,1,1,0,2,0,2,1,6
+Saskatchewan,11,"Agriculture, Forestry, Fishing and Hunting",121,120,127,207,162,149,210,216
+Saskatchewan,21,Mining and Oil and Gas Extraction,3,2,3,0,3,0,4,2
+Saskatchewan,22,Utilities,3,1,2,2,0,0,0,3
+Saskatchewan,23,Construction,20,13,9,11,6,11,35,37
+Saskatchewan,31-33,Manufacturing,6,3,4,7,2,12,20,25
+Saskatchewan,41,Wholesale Trade,7,2,7,0,2,3,3,13
+Saskatchewan,44-45,Retail Trade,20,18,20,32,24,23,75,100
+Saskatchewan,48-49,Transportation and Warehousing,11,10,6,23,24,35,56,53
+Saskatchewan,51,Information and Cultural Industries,0,2,2,5,1,1,0,1
+Saskatchewan,52,Finance and Insurance,1,1,0,1,0,2,0,1
+Saskatchewan,53,"Real Estate, Rental and Leasing",1,1,0,0,0,1,3,2
+Saskatchewan,54,"Professional, Scientific and Technical Services",9,10,6,6,10,17,18,20
+Saskatchewan,55,Management of Companies and Enterprises,0,0,0,0,0,0,0,0
+Saskatchewan,56,"Administrative and Support, Waste Management and Remediation Services",3,3,1,6,7,12,17,23
+Saskatchewan,61,Educational Services,1,2,3,2,2,3,1,0
+Saskatchewan,62,Health Care and Social Assistance,16,20,10,14,12,16,19,20
+Saskatchewan,71,"Arts, Entertainment and Recreation",5,9,7,7,1,3,11,8
+Saskatchewan,72,Accommodation and Food Services,68,69,42,92,60,81,239,291
+Saskatchewan,81,Other Services (except Public Administration),78,82,109,70,24,49,49,85
+Saskatchewan,91,Public Administration,0,1,0,0,0,0,0,1
+Alberta,11,"Agriculture, Forestry, Fishing and Hunting",301,309,304,418,335,311,335,376
+Alberta,21,Mining and Oil and Gas Extraction,23,15,20,26,9,10,24,36
+Alberta,22,Utilities,7,8,5,3,2,2,5,8
+Alberta,23,Construction,358,318,273,433,245,330,779,"1,074"
+Alberta,31-33,Manufacturing,146,134,89,190,110,140,283,348
+Alberta,41,Wholesale Trade,57,54,83,53,36,34,93,122
+Alberta,44-45,Retail Trade,507,444,264,615,445,430,895,"1,066"
+Alberta,48-49,Transportation and Warehousing,99,97,84,426,232,130,618,621
+Alberta,51,Information and Cultural Industries,31,23,15,19,14,30,38,63
+Alberta,52,Finance and Insurance,6,9,9,13,12,18,40,53
+Alberta,53,"Real Estate, Rental and Leasing",19,18,8,16,15,8,46,70
+Alberta,54,"Professional, Scientific and Technical Services",97,78,81,192,134,160,363,467
+Alberta,55,Management of Companies and Enterprises,5,3,1,1,1,1,8,5
+Alberta,56,"Administrative and Support, Waste Management and Remediation Services",118,112,91,191,116,112,279,400
+Alberta,61,Educational Services,24,32,21,40,36,27,64,66
+Alberta,62,Health Care and Social Assistance,74,73,82,95,84,72,189,286
+Alberta,71,"Arts, Entertainment and Recreation",63,45,29,35,10,12,37,50
+Alberta,72,Accommodation and Food Services,"1,407","1,311",976,"1,910","1,104","1,239","2,616","2,944"
+Alberta,81,Other Services (except Public Administration),"1,266","1,288","1,433","1,184",456,660,716,890
+Alberta,91,Public Administration,5,3,4,12,5,14,25,33
+British Columbia,11,"Agriculture, Forestry, Fishing and Hunting",647,754,896,"1,062","1,021",925,"1,062","1,265"
+British Columbia,21,Mining and Oil and Gas Extraction,14,8,15,12,6,16,12,12
+British Columbia,22,Utilities,12,5,5,6,5,4,4,8
+British Columbia,23,Construction,409,552,584,"1,306",996,"1,233","1,847","1,774"
+British Columbia,31-33,Manufacturing,242,241,244,452,456,435,638,596
+British Columbia,41,Wholesale Trade,101,108,170,134,132,139,176,193
+British Columbia,44-45,Retail Trade,194,225,232,492,484,434,679,732
+British Columbia,48-49,Transportation and Warehousing,142,245,179,471,370,334,530,487
+British Columbia,51,Information and Cultural Industries,246,144,114,165,137,100,168,138
+British Columbia,52,Finance and Insurance,16,22,20,27,39,41,63,72
+British Columbia,53,"Real Estate, Rental and Leasing",26,26,13,35,37,34,74,97
+British Columbia,54,"Professional, Scientific and Technical Services",239,229,243,447,478,494,749,659
+British Columbia,55,Management of Companies and Enterprises,8,0,11,4,4,4,5,8
+British Columbia,56,"Administrative and Support, Waste Management and Remediation Services",91,119,100,302,268,301,554,516
+British Columbia,61,Educational Services,65,82,57,95,105,123,162,149
+British Columbia,62,Health Care and Social Assistance,115,143,194,297,258,256,342,384
+British Columbia,71,"Arts, Entertainment and Recreation",80,56,58,65,44,48,81,83
+British Columbia,72,Accommodation and Food Services,951,"1,273","1,213","2,554","1,980","1,942","2,998","2,863"
+British Columbia,81,Other Services (except Public Administration),"1,688","2,071","2,649","2,225","1,371","1,627","1,399","1,254"
+British Columbia,91,Public Administration,2,7,10,8,14,16,28,26
+Yukon ,11,"Agriculture, Forestry, Fishing and Hunting",0,0,0,1,1,0,0,0
+Yukon ,21,Mining and Oil and Gas Extraction,1,1,1,0,1,1,1,1
+Yukon ,22,Utilities,0,0,1,0,0,0,0,0
+Yukon ,23,Construction,0,4,0,1,1,0,3,0
+Yukon ,31-33,Manufacturing,0,0,0,0,0,0,0,0
+Yukon ,41,Wholesale Trade,0,0,1,0,0,0,0,0
+Yukon ,44-45,Retail Trade,0,1,0,0,0,0,2,4
+Yukon ,48-49,Transportation and Warehousing,1,1,1,2,1,1,1,1
+Yukon ,51,Information and Cultural Industries,3,1,1,1,1,2,3,2
+Yukon ,52,Finance and Insurance,0,0,0,0,0,0,0,0
+Yukon ,53,"Real Estate, Rental and Leasing",0,0,0,0,0,0,0,1
+Yukon ,54,"Professional, Scientific and Technical Services",1,0,0,1,0,0,1,2
+Yukon ,55,Management of Companies and Enterprises,0,0,0,0,0,0,0,0
+Yukon ,56,"Administrative and Support, Waste Management and Remediation Services",0,0,1,3,1,1,3,2
+Yukon ,61,Educational Services,1,1,2,0,0,0,0,0
+Yukon ,62,Health Care and Social Assistance,2,1,0,0,0,0,0,1
+Yukon ,71,"Arts, Entertainment and Recreation",1,2,1,0,0,0,0,0
+Yukon ,72,Accommodation and Food Services,3,2,2,6,2,4,7,8
+Yukon ,81,Other Services (except Public Administration),3,11,6,9,1,4,3,1
+Yukon ,91,Public Administration,0,0,0,0,0,0,0,0
+Northwest Territories,11,"Agriculture, Forestry, Fishing and Hunting",0,0,0,2,1,2,1,0
+Northwest Territories,21,Mining and Oil and Gas Extraction,0,0,0,0,0,0,0,0
+Northwest Territories,22,Utilities,0,0,0,0,0,0,0,0
+Northwest Territories,23,Construction,2,3,3,1,1,0,5,0
+Northwest Territories,31-33,Manufacturing,2,1,0,0,1,0,1,2
+Northwest Territories,41,Wholesale Trade,0,2,0,0,0,0,0,0
+Northwest Territories,44-45,Retail Trade,0,1,0,3,3,1,5,4
+Northwest Territories,48-49,Transportation and Warehousing,3,2,0,0,0,0,1,5
+Northwest Territories,51,Information and Cultural Industries,0,0,0,0,0,0,0,0
+Northwest Territories,52,Finance and Insurance,0,0,0,0,0,0,0,0
+Northwest Territories,53,"Real Estate, Rental and Leasing",1,0,0,0,0,0,0,1
+Northwest Territories,54,"Professional, Scientific and Technical Services",0,0,0,2,1,0,1,2
+Northwest Territories,55,Management of Companies and Enterprises,0,0,0,0,0,0,0,0
+Northwest Territories,56,"Administrative and Support, Waste Management and Remediation Services",0,0,1,2,2,1,1,1
+Northwest Territories,61,Educational Services,0,1,0,0,0,0,0,0
+Northwest Territories,62,Health Care and Social Assistance,0,0,0,4,1,0,4,2
+Northwest Territories,71,"Arts, Entertainment and Recreation",1,1,0,0,0,0,0,0
+Northwest Territories,72,Accommodation and Food Services,0,6,3,13,5,7,16,13
+Northwest Territories,81,Other Services (except Public Administration),11,12,12,7,4,5,1,6
+Northwest Territories,91,Public Administration,1,0,0,1,0,0,0,1
+Nunavut,11,"Agriculture, Forestry, Fishing and Hunting",0,0,0,0,0,0,0,0
+Nunavut,21,Mining and Oil and Gas Extraction,0,0,0,0,0,0,0,0
+Nunavut,22,Utilities,0,0,0,0,0,0,0,0
+Nunavut,23,Construction,1,1,0,0,2,1,2,1
+Nunavut,31-33,Manufacturing,0,0,0,0,0,0,0,0
+Nunavut,41,Wholesale Trade,0,0,1,0,0,0,0,0
+Nunavut,44-45,Retail Trade,1,1,1,1,0,2,0,2
+Nunavut,48-49,Transportation and Warehousing,3,2,3,3,2,1,1,4
+Nunavut,51,Information and Cultural Industries,2,0,1,0,0,1,0,0
+Nunavut,52,Finance and Insurance,0,0,0,0,0,0,0,0
+Nunavut,53,"Real Estate, Rental and Leasing",0,0,0,0,0,0,0,0
+Nunavut,54,"Professional, Scientific and Technical Services",2,0,0,0,1,1,1,2
+Nunavut,55,Management of Companies and Enterprises,0,0,0,0,0,0,0,0
+Nunavut,56,"Administrative and Support, Waste Management and Remediation Services",2,1,1,1,1,1,1,1
+Nunavut,61,Educational Services,0,0,0,0,0,0,0,0
+Nunavut,62,Health Care and Social Assistance,1,1,1,0,0,2,2,1
+Nunavut,71,"Arts, Entertainment and Recreation",1,1,0,0,0,0,0,0
+Nunavut,72,Accommodation and Food Services,0,0,1,4,1,1,6,0
+Nunavut,81,Other Services (except Public Administration),5,6,3,2,2,2,1,0
+Nunavut,91,Public Administration,0,0,0,0,0,0,0,0
